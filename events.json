@@ -416,7 +416,6 @@
       "On May 3"
     ],
     "animations": [
-      "colorCycle",
       "diagonalLeft",
       "trianglePattern",
       "hueShift",
