@@ -11,7 +11,11 @@
     "animations": [
       "colorCycle",
       "glitchEffect",
-      "glow"
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "hueShift",
+      "hLine",
+      "pentagonPattern"
     ]
   },
   {
