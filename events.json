@@ -10,8 +10,7 @@
     ],
     "animations": [
       "colorCycle",
-      "glitchEffect",
-      "redAlert"
+      "glitchEffect"
     ]
   },
   {
