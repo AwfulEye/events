@@ -13,7 +13,8 @@
       "starPatternAnimation",
       "dotPatternAnimation",
       "hueShift",
-      "pentagonPattern"
+      "pentagonPattern",
+      "glow"
     ]
   },
   {
