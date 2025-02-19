@@ -13,7 +13,7 @@
       "starPatternAnimation",
       "dotPatternAnimation",
       "hueShift",
-      "hLine",
+      "colorCycle",
       "pentagonPattern"
     ]
   },
