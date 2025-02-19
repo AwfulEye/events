@@ -11,7 +11,7 @@
     "animations": [
       "colorCycle",
       "glitchEffect",
-      "glow"
+      "hueShift"
     ]
   },
   {
