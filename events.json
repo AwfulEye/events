@@ -9,7 +9,6 @@
       "On January 17"
     ],
     "animations": [
-      "colorCycle",
       "glitchEffect",
       "starPatternAnimation",
       "dotPatternAnimation",
