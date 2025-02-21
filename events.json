@@ -19,7 +19,9 @@
       "starPatternAnimation",
       "dotPatternAnimation",
       "pentagonPattern",
-      "hueShift"
+      "hueShift",
+      "colorCycle",
+      "redAlert"
     ]
   },
   {
