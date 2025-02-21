@@ -9,6 +9,12 @@
       "On January 17"
     ],
     "animations": [
+      "diagonalLeft",
+      "diagonalRight",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "hLine",
+      "pentagonPattern",
       "glitchEffect",
       "starPatternAnimation",
       "dotPatternAnimation",
