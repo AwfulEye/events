@@ -21,7 +21,7 @@
       "pentagonPattern",
       "hueShift",
       "colorCycle",
-      "redAlert"
+      "glow"
     ],
     "redAlert": {
       "speed": 2.0
