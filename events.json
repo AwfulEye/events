@@ -1,51 +1,41 @@
 [
   {
-    "start": "02-17",
-    "end": "05-17",
+    "start": "01-17",
+    "end": "01-17",
     "title": [
       "Hal Finney Envisions Crypto Trading Cards"
     ],
     "description": [
-      "Hal Envisions Crypto Trading Cards!"
+      "On January 17 1993 Hal Finney shared his vision"
     ],
     "animations": [
-      "diagonalLeft",
-      "diagonalRight",
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "hLine",
-      "pentagonPattern",
+      "squarePattern",
       "glitchEffect",
-      "starPatternAnimation",
       "dotPatternAnimation",
+      "starPatternAnimation",
+      "diagonalRight",
+      "colorCycle",
+      "diamondPattern",
+      "diagonalLeft",
+      "hueShift",
       "pentagonPattern",
-      "hueShift"
-    ],
-    "redAlert": {
-      "speed": 2.0
-    }
+      "hLine",
+      "waveEffect",
+      "trianglePattern"
+    ]
   },
   {
     "start": "04-27",
     "end": "04-27",
     "title": [
-      "Herbert R Sim’s Satoshi Samurai Drawing"
+      "Herbert R. Sim’s Satoshi Samurai Drawing"
     ],
     "description": [
-      "Herbert R Sim published his portrait \"Satoshi Nakamoto: Masked Samurai Angel and the Bitcoin Daishō\" on April 27"
+      "On April 27 2010 Herbert R. Sim published one of the first portraits of Bitcoin’s creator as a Samurai"
     ],
     "animations": [
-      "vLine",
-      "colorCycle",
-      "diagonalLeft",
-      "diagonalRight",
-      "glitchEffect",
-      "waveEffect",
-      "starPatternAnimation",
-      "dotPatternAnimation",
       "hueShift",
-      "hLine",
-      "pentagonPattern"
+      "hLine"
     ]
   },
   {
@@ -55,54 +45,46 @@
       "Launch of .bit Domains"
     ],
     "description": [
-      "Bit Domains launched on Namecoin on April 21"
+      "On April 21 2011 the .bit Domains were launched on NameCoin as early non-fungible digital assets"
     ],
     "animations": [
-      "waveEffect",
-      "hLine",
-      "glitchEffect",
-      "pentagonPattern",
       "diagonalRight",
-      "diamondPattern",
-      "vLine",
-      "hueShift"
+      "squarePattern"
     ]
   },
   {
     "start": "05-10",
     "end": "05-10",
     "title": [
-      "First Punycode Domains on Namecoin"
+      "First Punycode Domains"
     ],
     "description": [
-      "On May 10"
+      "On May 10 2011 creative domain names were experimented with using Punycode on NameCoin"
     ],
     "animations": [
-      "dotPatternAnimation"
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "squarePattern",
+      "diagonalLeft",
+      "hueShift",
+      "hLine",
+      "waveEffect"
     ]
   },
   {
     "start": "07-30",
     "end": "07-30",
     "title": [
-      "First ASCII Tribute on the Bitcoin Blockchain"
+      "First ASCII Tribute on Bitcoin Blockchain"
     ],
     "description": [
-      "On July 30"
+      "On July 30 2011 Dan Kaminsky embedded the first ASCII tribute honoring cryptographer Len Sassaman"
     ],
     "animations": [
-      "colorCycle",
-      "squarePattern",
-      "trianglePattern",
-      "starPatternAnimation",
-      "dotPatternAnimation",
       "hueShift",
-      "glitchEffect",
+      "starPatternAnimation",
       "diagonalLeft",
-      "vLine",
-      "diagonalRight",
-      "waveEffect",
-      "diamondPattern",
       "pentagonPattern"
     ]
   },
@@ -110,38 +92,39 @@
     "start": "10-26",
     "end": "10-26",
     "title": [
-      "Casascius Coins Launch"
+      "Launch of Casascius Coins"
     ],
     "description": [
-      "On October 26"
+      "On October 26 2011 Mike Caldwell began issuing Casascius Coins—physical Bitcoins with authenticity features"
     ],
     "animations": [
-      "hueShift",
-      "starPatternAnimation",
-      "diamondPattern",
       "diagonalRight",
       "colorCycle",
-      "glitchEffect",
-      "pentagonPattern",
-      "trianglePattern",
+      "dotPatternAnimation",
+      "diamondPattern",
       "waveEffect",
-      "squarePattern"
+      "hLine",
+      "pentagonPattern",
+      "diagonalLeft",
+      "trianglePattern",
+      "starPatternAnimation",
+      "squarePattern",
+      "glitchEffect"
     ]
   },
   {
     "start": "03-28",
     "end": "03-28",
     "title": [
-      "Proposal of Colored Coins"
+      "Proposal of Coloured Coins"
     ],
     "description": [
-      "On March 28"
+      "On March 28 2012 Yoni Assia introduced Coloured Coins"
     ],
     "animations": [
       "starPatternAnimation",
-      "colorCycle",
-      "hueShift",
-      "vLine",
+      "diamondPattern",
+      "waveEffect",
       "glitchEffect"
     ]
   },
@@ -152,15 +135,11 @@
       "First NameCoin Identities"
     ],
     "description": [
-      "On May 31"
+      "On May 31 2012 decentralized identities were created on NameCoin"
     ],
     "animations": [
-      "pentagonPattern",
-      "diagonalRight",
-      "trianglePattern",
-      "diamondPattern",
-      "squarePattern",
-      "waveEffect"
+      "diagonalLeft",
+      "glitchEffect"
     ]
   },
   {
@@ -170,37 +149,34 @@
       "Kevin Abosch Releases Bank"
     ],
     "description": [
-      "On January 16"
+      "On January 16 2013 Kevin Abosch released his conceptual book “Bank” featuring paired Bitcoin keys"
     ],
     "animations": [
-      "starPatternAnimation",
-      "vLine",
-      "hLine",
-      "diagonalRight"
+      "glitchEffect"
     ]
   },
   {
     "start": "04-14",
     "end": "04-14",
     "title": [
-      "Bitcoin Roller Coaster by Brainless Tales"
+      "Bitcoin Roller Coaster Comic"
     ],
     "description": [
-      "On April 14"
+      "On April 14 2013 Brainless Tales posted the iconic Bitcoin Roller Coaster comic on Reddit"
     ],
     "animations": [
+      "dotPatternAnimation",
+      "trianglePattern",
       "glitchEffect",
-      "hueShift",
-      "waveEffect",
       "diagonalLeft",
+      "waveEffect",
+      "hLine",
+      "diamondPattern",
+      "vLine",
       "squarePattern",
       "pentagonPattern",
-      "colorCycle",
-      "hLine",
-      "starPatternAnimation",
       "diagonalRight",
-      "diamondPattern",
-      "dotPatternAnimation"
+      "hueShift"
     ]
   },
   {
@@ -210,61 +186,87 @@
       "Launch of Cryptographics"
     ],
     "description": [
-      "On July 28"
+      "On July 28 2013 Cryptographics launched"
     ],
     "animations": [
-      "glitchEffect",
+      "squarePattern",
       "vLine",
-      "diagonalLeft"
+      "diamondPattern",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "hueShift",
+      "starPatternAnimation",
+      "colorCycle",
+      "glitchEffect",
+      "diagonalLeft",
+      "pentagonPattern",
+      "diagonalRight",
+      "hLine"
     ]
   },
   {
     "start": "08-21",
     "end": "08-21",
     "title": [
-      "Untitled Mining Installation by Peter Frölich"
+      "Untitled Mining Installation"
     ],
     "description": [
-      "On August 21"
+      "On August 21 2013 Peter Frölich created an artwork featuring a working Bitcoin mining rig in an antique frame"
     ],
     "animations": [
+      "glitchEffect",
+      "colorCycle",
+      "vLine",
+      "diagonalLeft",
+      "squarePattern",
+      "hueShift",
+      "hLine",
+      "diagonalRight",
+      "waveEffect",
       "trianglePattern",
-      "pentagonPattern"
+      "pentagonPattern",
+      "dotPatternAnimation"
     ]
   },
   {
     "start": "09-14",
     "end": "09-14",
     "title": [
-      "Kuno Goda’s 200 Bitcoin Painting"
+      "200 Bitcoin Painting by Kuno Goda"
     ],
     "description": [
-      "On September 14"
+      "On September 14 2013 Kuno Goda created a 200 Bitcoin Painting that made international headlines"
     ],
     "animations": [
-      "glitchEffect",
+      "diagonalLeft",
       "pentagonPattern",
-      "trianglePattern",
-      "hLine"
+      "starPatternAnimation",
+      "vLine",
+      "hueShift",
+      "colorCycle",
+      "glitchEffect",
+      "hLine",
+      "waveEffect",
+      "trianglePattern"
     ]
   },
   {
     "start": "02-01",
     "end": "02-01",
     "title": [
-      "Launch of Huntercoin"
+      "Launch of the Huntercoin Game"
     ],
     "description": [
-      "On February 1"
+      "On February 1 2014 the Huntercoin decentralized game and currency was launched"
     ],
     "animations": [
-      "vLine",
-      "starPatternAnimation",
       "waveEffect",
-      "colorCycle",
+      "squarePattern",
       "hueShift",
-      "diamondPattern",
-      "trianglePattern",
+      "pentagonPattern",
+      "diagonalLeft",
+      "colorCycle",
+      "vLine",
       "hLine"
     ]
   },
@@ -272,22 +274,18 @@
     "start": "02-15",
     "end": "02-15",
     "title": [
-      "Group Exhibition: Computers and Capital"
+      "Computers and Capital Group Exhibition"
     ],
     "description": [
-      "On February 15"
+      "On February 15 2014 the group exhibition “Computers and Capital: The Rise of Digital Currency” was held at Coinfest in Vancouver"
     ],
     "animations": [
-      "starPatternAnimation",
-      "diagonalLeft",
-      "trianglePattern",
-      "pentagonPattern",
-      "hueShift",
+      "dotPatternAnimation",
       "vLine",
-      "waveEffect",
-      "hLine",
       "diamondPattern",
-      "squarePattern"
+      "waveEffect",
+      "diagonalLeft",
+      "diagonalRight"
     ]
   },
   {
@@ -297,75 +295,67 @@
       "Free Lunch by Dave Young Kim"
     ],
     "description": [
-      "On March 6"
+      "On March 6 2014 Dave Young Kim created “Free Lunch”"
     ],
     "animations": [
-      "starPatternAnimation",
-      "diagonalRight",
-      "hLine",
       "colorCycle",
       "squarePattern",
       "hueShift",
-      "diagonalLeft",
-      "diamondPattern"
+      "vLine",
+      "waveEffect"
     ]
   },
   {
     "start": "03-06",
     "end": "03-06",
     "title": [
-      "Bitcoin Art Fair at Mission 20"
+      "Bitcoin Art Fair & Meetup"
     ],
     "description": [
-      "On March 6"
+      "On March 6 2014 the Bitcoin Art Fair & Meetup was held during San Francisco’s Bitcoin meetup"
     ],
     "animations": [
-      "trianglePattern",
-      "dotPatternAnimation",
-      "hLine",
-      "waveEffect",
-      "diagonalRight",
-      "pentagonPattern",
-      "squarePattern",
-      "starPatternAnimation",
-      "hueShift",
-      "diagonalLeft",
-      "glitchEffect"
+      "squarePattern"
     ]
   },
   {
     "start": "03-13",
     "end": "03-13",
     "title": [
-      "Cryptograffiti Street Art Campaign"
+      "Cryptograffiti’s Street Art"
     ],
     "description": [
-      "On March 13"
+      "On March 13 2014 Cryptograffiti’s street art promoted Bitcoin using guerrilla marketing"
     ],
     "animations": [
-      "hueShift",
-      "squarePattern",
-      "diagonalLeft",
+      "starPatternAnimation",
       "waveEffect",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "colorCycle",
+      "diagonalRight",
+      "diagonalLeft",
       "glitchEffect",
-      "diamondPattern"
+      "hueShift",
+      "vLine"
     ]
   },
   {
     "start": "03-14",
     "end": "03-14",
     "title": [
-      "Artist Pierre Bourque’s Bitcoin-themed Stamps"
+      "Bitcoin-themed Stamps by Pierre Bourque"
     ],
     "description": [
-      "On March 14"
+      "On March 14 2014 Pierre Bourque initiated Bitcoin-themed stamps"
     ],
     "animations": [
+      "glitchEffect",
+      "vLine",
       "diamondPattern",
-      "squarePattern",
+      "trianglePattern",
       "pentagonPattern",
-      "starPatternAnimation",
-      "hLine"
+      "dotPatternAnimation"
     ]
   },
   {
@@ -375,89 +365,80 @@
       "Newsweek Bitcoin’s Face"
     ],
     "description": [
-      "On March 16"
+      "On March 16 2014 Ben Wiseman created the iconic Newsweek cover featuring Dorian Nakamoto"
     ],
     "animations": [
-      "hLine",
-      "vLine",
-      "pentagonPattern",
-      "starPatternAnimation",
-      "diagonalRight",
-      "colorCycle",
-      "waveEffect",
-      "diagonalLeft",
-      "hueShift",
-      "squarePattern",
       "dotPatternAnimation",
+      "colorCycle",
       "glitchEffect",
-      "trianglePattern"
+      "starPatternAnimation",
+      "hLine",
+      "squarePattern",
+      "diagonalRight",
+      "pentagonPattern",
+      "hueShift"
     ]
   },
   {
     "start": "04-24",
     "end": "04-24",
     "title": [
-      "Proof of Work Group Exhibition"
+      "Proof of Work Exhibition"
     ],
     "description": [
-      "On April 24"
+      "On April 24 2014 the “Proof of Work” group exhibition was held in San Francisco"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "waveEffect",
-      "hueShift",
-      "diagonalLeft",
-      "colorCycle",
-      "glitchEffect",
-      "hLine",
-      "pentagonPattern",
-      "starPatternAnimation",
-      "diamondPattern",
-      "squarePattern",
-      "diagonalRight",
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "05-03",
-    "end": "05-03",
-    "title": [
-      "Launch of Monegraph"
-    ],
-    "description": [
-      "On May 3"
-    ],
-    "animations": [
-      "diagonalLeft",
       "trianglePattern",
-      "hueShift",
-      "pentagonPattern",
-      "glitchEffect",
-      "diagonalRight",
-      "diamondPattern",
-      "dotPatternAnimation",
-      "waveEffect",
-      "squarePattern",
-      "hLine",
-      "vLine"
+      "diagonalLeft",
+      "colorCycle"
     ]
   },
   {
     "start": "05-03",
     "end": "05-03",
     "title": [
-      "Seven on Seven Conference at New Museum"
+      "Official Launch of Monegraph"
     ],
     "description": [
-      "On May 3"
+      "On May 3 2014 Monegraph"
     ],
     "animations": [
-      "colorCycle",
-      "glitchEffect",
-      "hueShift",
       "starPatternAnimation",
+      "colorCycle",
+      "squarePattern",
+      "hLine",
+      "glitchEffect",
+      "diamondPattern",
+      "trianglePattern",
       "dotPatternAnimation",
-      "diagonalRight"
+      "hueShift",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "05-03",
+    "end": "05-03",
+    "title": [
+      "Seven on Seven Conference"
+    ],
+    "description": [
+      "On May 3 2014 the Seven on Seven Conference at New Museum saw the creation of the first digital art token"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "waveEffect",
+      "starPatternAnimation",
+      "hLine",
+      "glitchEffect",
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "squarePattern",
+      "hueShift",
+      "vLine"
     ]
   },
   {
@@ -467,60 +448,61 @@
       "Launch of LazyCoin"
     ],
     "description": [
-      "On May 14"
+      "On May 14 2014 the conceptual currency LazyCoin was launched as a “proof of non-work” currency"
     ],
     "animations": [
-      "diagonalRight",
-      "diamondPattern",
-      "waveEffect",
-      "glitchEffect",
-      "trianglePattern",
       "colorCycle",
-      "hueShift",
-      "dotPatternAnimation",
+      "diagonalLeft",
       "vLine",
       "pentagonPattern",
-      "diagonalLeft",
-      "squarePattern",
-      "hLine"
+      "diamondPattern",
+      "diagonalRight",
+      "hLine",
+      "glitchEffect",
+      "hueShift",
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "waveEffect"
     ]
   },
   {
     "start": "05-28",
     "end": "05-28",
     "title": [
-      "Nakamoto (The Proof) by Émilie Brout and Maxime Marion"
+      "Nakamoto (The Proof)"
     ],
     "description": [
-      "On May 28"
+      "On May 28 2014 Émilie Brout and Maxime Marion presented “Nakamoto (The Proof)” using a scanned copy of Satoshi Nakamoto’s passport"
     ],
     "animations": [
+      "trianglePattern",
       "waveEffect",
       "vLine",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "diagonalLeft",
-      "diamondPattern",
-      "colorCycle",
       "pentagonPattern",
-      "hueShift",
+      "diamondPattern",
       "starPatternAnimation",
-      "squarePattern"
+      "diagonalRight",
+      "hueShift",
+      "glitchEffect",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "hLine",
+      "colorCycle"
     ]
   },
   {
     "start": "05-29",
     "end": "05-29",
     "title": [
-      "Solo Exhibition: Monetary Series by Jenna Lash"
+      "Solo Exhibition: Monetary Series"
     ],
     "description": [
-      "On May 29"
+      "On May 29 2014 Jenna Lash held a solo exhibition titled “Monetary Series” at Bitcoin Center NYC"
     ],
     "animations": [
-      "diagonalRight",
-      "hLine",
-      "vLine"
+      "hueShift",
+      "dotPatternAnimation",
+      "hLine"
     ]
   },
   {
@@ -530,45 +512,68 @@
       "Launch of Cointemporary Bitcoin Art Gallery"
     ],
     "description": [
-      "On June 1"
+      "On June 1 2014 Cointemporary Bitcoin Art Gallery was launched to showcase Bitcoin art"
     ],
     "animations": [
-      "trianglePattern"
+      "vLine",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "colorCycle",
+      "diamondPattern",
+      "trianglePattern",
+      "hLine",
+      "squarePattern",
+      "glitchEffect",
+      "pentagonPattern"
     ]
   },
   {
     "start": "06-03",
     "end": "06-03",
     "title": [
-      "Tatiana Moroz Launches TatianaCoin"
+      "TatianaCoin Launch"
     ],
     "description": [
-      "On June 3"
+      "On June 3 2014 Tatiana Moroz launched TatianaCoin on the CounterParty blockchain"
     ],
     "animations": [
-      "waveEffect",
-      "trianglePattern",
-      "squarePattern",
       "vLine",
-      "diagonalLeft"
+      "pentagonPattern",
+      "hueShift",
+      "glitchEffect",
+      "diagonalLeft",
+      "squarePattern",
+      "diamondPattern",
+      "waveEffect",
+      "colorCycle",
+      "starPatternAnimation",
+      "trianglePattern",
+      "hLine"
     ]
   },
   {
     "start": "06-12",
     "end": "06-12",
     "title": [
-      "Tokenization of the OLGA Token"
+      "Tokenization of the OLGA NFT"
     ],
     "description": [
-      "On June 12"
+      "On June 12 2014 JP Janssen tokenized a sketch on the CounterParty blockchain"
     ],
     "animations": [
-      "pentagonPattern",
-      "hLine",
-      "squarePattern",
-      "waveEffect",
+      "dotPatternAnimation",
       "hueShift",
-      "vLine"
+      "pentagonPattern",
+      "diamondPattern",
+      "waveEffect",
+      "starPatternAnimation",
+      "squarePattern",
+      "colorCycle",
+      "diagonalLeft",
+      "diagonalRight",
+      "glitchEffect",
+      "vLine",
+      "hLine"
     ]
   },
   {
@@ -578,52 +583,51 @@
       "Last (Bitcoin) Supper by Youl"
     ],
     "description": [
-      "On July 21"
+      "On July 21 2014 Youl created “Last (Bitcoin) Supper”"
     ],
     "animations": [
+      "hueShift",
+      "diagonalRight",
+      "glitchEffect",
+      "diamondPattern",
+      "squarePattern",
       "diagonalLeft",
       "trianglePattern",
-      "diamondPattern",
-      "hueShift",
       "colorCycle",
+      "hLine",
       "dotPatternAnimation",
-      "waveEffect",
-      "starPatternAnimation",
-      "pentagonPattern",
       "vLine",
-      "squarePattern",
-      "diagonalRight"
+      "starPatternAnimation",
+      "waveEffect"
     ]
   },
   {
     "start": "07-22",
     "end": "07-22",
     "title": [
-      "This Contract Is Art by Rhea Myers"
+      "This Contract is Art by Rhea Myers"
     ],
     "description": [
-      "On July 22"
+      "On July 22 2014 Rhea Myers created “This Contract is Art”"
     ],
     "animations": [
       "pentagonPattern",
-      "starPatternAnimation",
-      "diagonalRight",
-      "squarePattern"
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hueShift"
     ]
   },
   {
     "start": "07-24",
     "end": "07-24",
     "title": [
-      "Launch of Ethereum Art Market by Rhea Myers"
+      "Ethereum Art Market Launch"
     ],
     "description": [
-      "On July 24"
+      "On July 24 2014 Rhea Myers launched the first Ethereum art market smart contract"
     ],
     "animations": [
-      "diagonalLeft",
-      "waveEffect",
-      "dotPatternAnimation",
       "squarePattern"
     ]
   },
@@ -634,107 +638,83 @@
       "Tokenization of TwitterEggs"
     ],
     "description": [
-      "On July 27"
+      "On July 27 2014 tokenization of TwitterEggs began on NameCoin using the OneCoin dApp"
     ],
     "animations": [
-      "squarePattern",
       "hLine",
-      "vLine",
-      "trianglePattern",
-      "pentagonPattern",
-      "diagonalLeft",
-      "diagonalRight",
-      "dotPatternAnimation",
       "colorCycle",
-      "hueShift",
-      "glitchEffect"
+      "pentagonPattern"
     ]
   },
   {
     "start": "09-14",
     "end": "09-14",
     "title": [
-      "Nili Lerner Announces NILIcoins"
+      "NILIcoins NFT Art Project"
     ],
     "description": [
-      "On September 14"
+      "On September 14 2014 Nili Lerner announced her NILIcoins NFT art project"
     ],
     "animations": [
-      "trianglePattern",
-      "vLine",
-      "waveEffect",
-      "pentagonPattern",
       "hLine",
-      "glitchEffect",
-      "hueShift",
-      "colorCycle",
-      "dotPatternAnimation",
-      "diagonalLeft",
-      "starPatternAnimation",
-      "diamondPattern",
-      "diagonalRight"
+      "squarePattern",
+      "diagonalRight",
+      "waveEffect",
+      "colorCycle"
     ]
   },
   {
     "start": "10-07",
     "end": "10-07",
     "title": [
-      "Billy Mabrey’s BearWhale"
+      "BearWhale by Billy Mabrey"
     ],
     "description": [
-      "On October 7"
+      "On October 7 2014 Billy Mabrey created BearWhale depicting a trading chart and the first BearWhale"
     ],
     "animations": [
-      "glitchEffect",
-      "colorCycle",
-      "waveEffect"
+      "waveEffect",
+      "squarePattern",
+      "diamondPattern",
+      "hLine",
+      "pentagonPattern",
+      "diagonalRight"
     ]
   },
   {
     "start": "10-18",
     "end": "10-18",
     "title": [
-      "Group Exhibition: The Darknet – From Memes to Onionland"
+      "The Darknet Group Exhibition"
     ],
     "description": [
-      "On October 18"
+      "On October 18 2014 the exhibition “The Darknet – From Memes to Onionland” was held at Kunst Halle Sankt Gallen"
     ],
     "animations": [
-      "diagonalRight",
-      "waveEffect",
-      "colorCycle",
-      "hueShift",
-      "dotPatternAnimation",
-      "squarePattern",
-      "diagonalLeft",
-      "hLine",
-      "pentagonPattern",
-      "vLine",
-      "trianglePattern",
-      "starPatternAnimation"
+      "diagonalRight"
     ]
   },
   {
     "start": "10-27",
     "end": "10-27",
     "title": [
-      "Xania Dorfman’s Eye Of God"
+      "Eye Of God by Xania Dorfman"
     ],
     "description": [
-      "On October 27"
+      "On October 27 2014 Xania Dorfman’s “Eye Of God” sold at a conference in Israel"
     ],
     "animations": [
-      "diagonalRight",
-      "squarePattern",
+      "dotPatternAnimation",
       "glitchEffect",
-      "starPatternAnimation",
       "hueShift",
-      "diagonalLeft",
-      "trianglePattern",
       "waveEffect",
+      "squarePattern",
+      "diagonalLeft",
       "colorCycle",
       "vLine",
-      "hLine",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diamondPattern",
       "pentagonPattern"
     ]
   },
@@ -742,15 +722,17 @@
     "start": "11-03",
     "end": "11-03",
     "title": [
-      "The Slaying of BearWhale by Christoph Steininger"
+      "The Slaying of BearWhale by Christopher Steininger"
     ],
     "description": [
-      "On November 3"
+      "On November 3 2014 Christopher Steininger created “The Slaying of BearWhale” commemorating a historic sale"
     ],
     "animations": [
-      "diamondPattern",
-      "diagonalLeft",
-      "colorCycle"
+      "trianglePattern",
+      "glitchEffect",
+      "hueShift",
+      "dotPatternAnimation",
+      "pentagonPattern"
     ]
   },
   {
@@ -760,18 +742,19 @@
       "The Slaying of BearWhale by Matt Habel"
     ],
     "description": [
-      "On November 3"
+      "On November 3 2014 Matt Habel created “The Slaying of BearWhale” after winning a commemorative competition"
     ],
     "animations": [
-      "starPatternAnimation",
-      "diagonalRight",
-      "trianglePattern",
-      "hueShift",
       "glitchEffect",
-      "pentagonPattern",
+      "diagonalLeft",
       "dotPatternAnimation",
       "hLine",
-      "diamondPattern"
+      "diamondPattern",
+      "vLine",
+      "pentagonPattern",
+      "colorCycle",
+      "trianglePattern",
+      "hueShift"
     ]
   },
   {
@@ -781,114 +764,104 @@
       "MYSOUL by Rhea Myers"
     ],
     "description": [
-      "On November 21"
+      "On November 21 2014 Rhea Myers tokenized her soul as MYSOUL on the DogeCoin and CounterParty blockchain"
     ],
     "animations": [
-      "glitchEffect",
-      "pentagonPattern",
-      "diagonalLeft",
+      "squarePattern",
       "vLine",
+      "starPatternAnimation",
+      "diagonalRight",
+      "glitchEffect",
+      "trianglePattern",
       "diamondPattern",
+      "dotPatternAnimation",
+      "colorCycle",
       "hLine",
       "hueShift",
-      "diagonalRight",
-      "dotPatternAnimation",
-      "trianglePattern"
+      "diagonalLeft"
     ]
   },
   {
     "start": "02-15",
     "end": "02-15",
     "title": [
-      "Launch of BitchCoin by Sarah Meyohas"
+      "Sarah Meyohas launches BitchCoin"
     ],
     "description": [
-      "On February 15"
+      "On February 15 2015 Sarah Meyohas launched BitchCoin"
     ],
     "animations": [
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "waveEffect",
       "hueShift",
-      "vLine"
+      "vLine",
+      "glitchEffect"
     ]
   },
   {
     "start": "03-11",
     "end": "03-11",
     "title": [
-      "First Issued FDCARD by EverdreamSoft"
+      "First Issued FDCARD"
     ],
     "description": [
-      "On March 11"
+      "On March 11 2015 the first digital trading cards (FDCARD) were issued on the CounterParty blockchain"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "diagonalRight",
-      "diamondPattern",
-      "squarePattern",
-      "colorCycle",
-      "pentagonPattern",
       "hLine",
-      "starPatternAnimation",
-      "trianglePattern",
-      "waveEffect",
+      "glitchEffect",
+      "squarePattern",
       "diagonalLeft",
-      "vLine",
-      "glitchEffect"
+      "colorCycle",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "hueShift"
     ]
   },
   {
     "start": "03-16",
     "end": "03-16",
     "title": [
-      "Launch of Scarab Tokens"
+      "Official Launch of Scarab Experiment"
     ],
     "description": [
-      "On March 16"
+      "On March 16 2015 the Scarab Experiment"
     ],
     "animations": [
-      "starPatternAnimation",
-      "waveEffect",
       "diamondPattern",
-      "trianglePattern",
-      "pentagonPattern",
-      "vLine"
+      "diagonalRight"
     ]
   },
   {
     "start": "04-09",
     "end": "04-09",
     "title": [
-      "Coin Artist Bitcoin Puzzle Painting"
+      "Bitcoin Puzzle Painting by Coin Artist"
     ],
     "description": [
-      "On April 9"
+      "On April 9 2015 Coin Artist Marguerite deCourcelle released a puzzle painting with a 4.87 BTC reward"
     ],
     "animations": [
-      "hueShift",
-      "glitchEffect",
-      "diamondPattern",
-      "dotPatternAnimation",
-      "hLine",
-      "colorCycle",
-      "vLine",
-      "waveEffect",
-      "trianglePattern",
-      "squarePattern",
-      "diagonalRight"
+      "diagonalLeft",
+      "squarePattern"
     ]
   },
   {
     "start": "04-24",
     "end": "04-24",
     "title": [
-      "MAK Vienna Buys Digital Artwork with Bitcoin"
+      "MAK Vienna Digital Artwork Purchase"
     ],
     "description": [
-      "On April 24"
+      "On April 24 2015 MAK Vienna became the first art museum to purchase digital artwork with Bitcoin"
     ],
     "animations": [
-      "pentagonPattern",
-      "vLine",
-      "hueShift"
+      "waveEffect",
+      "hueShift",
+      "trianglePattern",
+      "glitchEffect"
     ]
   },
   {
@@ -898,20 +871,14 @@
       "Launch of Verisart"
     ],
     "description": [
-      "On July 7"
+      "On July 7 2015 Verisart was launched to create digital certificates for art and collectibles"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "waveEffect",
-      "diagonalLeft",
-      "hLine",
-      "starPatternAnimation",
-      "diagonalRight",
-      "pentagonPattern",
-      "squarePattern",
-      "vLine",
       "hueShift",
-      "glitchEffect"
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hLine",
+      "diamondPattern"
     ]
   },
   {
@@ -921,105 +888,94 @@
       "First Spore of Plantoid by Primavera De Filippi"
     ],
     "description": [
-      "On July 17"
+      "On July 17 2015 Primavera De Filippi created the first spore of her blockchain-based Plantoid"
     ],
     "animations": [
+      "hLine",
       "diamondPattern",
-      "hLine"
+      "colorCycle",
+      "diagonalLeft",
+      "hueShift",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "waveEffect"
     ]
   },
   {
     "start": "10-17",
     "end": "10-17",
     "title": [
-      "Group Exhibition: The Human Face of Cryptoeconomies"
+      "The Human Face of Cryptoeconomies Exhibition"
     ],
     "description": [
-      "On October 17"
+      "On October 17 2015 Furtherfield Gallery hosted “The Human Face of Cryptoeconomies” exhibition"
     ],
     "animations": [
-      "diagonalLeft",
-      "waveEffect",
-      "vLine",
-      "diagonalRight",
       "hueShift",
       "glitchEffect",
-      "trianglePattern",
-      "colorCycle",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "diamondPattern",
-      "squarePattern",
-      "pentagonPattern"
+      "squarePattern"
     ]
   },
   {
     "start": "10-31",
     "end": "10-31",
     "title": [
-      "Launch of Etheria"
+      "Launch of Ξtheria Decentralized Virtual World"
     ],
     "description": [
-      "On October 31"
+      "On October 31 2015 the Ξtheria decentralized virtual world was launched at Devcon1 in London"
     ],
     "animations": [
+      "diagonalLeft",
       "trianglePattern",
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "hueShift",
-      "pentagonPattern",
-      "hLine",
-      "diamondPattern",
-      "vLine",
-      "diagonalRight",
-      "waveEffect",
-      "squarePattern"
+      "squarePattern",
+      "hLine"
     ]
   },
   {
     "start": "11-12",
     "end": "11-12",
     "title": [
-      "Cryptograffiti Raises Funds for Dorian Nakamoto"
+      "Cryptograffiti Raises Bitcoin for Dorian Nakamoto"
     ],
     "description": [
-      "On November 12"
+      "On November 12 2015 Cryptograffiti raised 17.3 Bitcoin for Dorian Nakamoto"
     ],
     "animations": [
-      "hueShift",
-      "trianglePattern",
-      "colorCycle",
-      "diagonalRight",
       "diagonalLeft",
       "glitchEffect",
-      "waveEffect",
+      "vLine",
+      "pentagonPattern",
+      "colorCycle",
       "starPatternAnimation",
-      "squarePattern",
-      "pentagonPattern"
+      "diamondPattern",
+      "dotPatternAnimation",
+      "hLine",
+      "diagonalRight",
+      "waveEffect"
     ]
   },
   {
     "start": "12-11",
     "end": "12-11",
     "title": [
-      "Random Darknet Shopper by Mediengruppe Bitnik"
+      "Random Darknet Shopper by !Mediengruppe Bitnik"
     ],
     "description": [
-      "On December 11"
+      "On December 11 2015 the “Random Darknet Shopper” showcased a shopping bot using Bitcoin"
     ],
     "animations": [
-      "vLine",
       "hLine",
+      "colorCycle",
+      "vLine",
       "trianglePattern",
-      "glitchEffect",
       "squarePattern",
-      "hueShift",
-      "diamondPattern",
+      "diagonalLeft",
       "dotPatternAnimation",
+      "diamondPattern",
       "waveEffect",
-      "starPatternAnimation",
-      "pentagonPattern",
-      "colorCycle"
+      "diagonalRight",
+      "hueShift"
     ]
   },
   {
@@ -1029,20 +985,16 @@
       "Launch of the Left Gallery Marketplace"
     ],
     "description": [
-      "On December 15"
+      "On December 15 2015 Left Gallery Marketplace was launched as a digital art gallery on Ascribe"
     ],
     "animations": [
-      "colorCycle",
-      "diamondPattern",
-      "dotPatternAnimation",
-      "pentagonPattern",
       "hueShift",
-      "diagonalLeft",
-      "vLine",
-      "starPatternAnimation",
-      "squarePattern",
-      "waveEffect",
-      "hLine"
+      "colorCycle",
+      "diagonalRight",
+      "diamondPattern",
+      "glitchEffect",
+      "hLine",
+      "squarePattern"
     ]
   },
   {
@@ -1052,12 +1004,21 @@
       "HODL by Cryptograffiti"
     ],
     "description": [
-      "On February 11"
+      "On February 11 2016 Cryptograffiti created HODL prints and sculptures inspired by pop art"
     ],
     "animations": [
-      "hueShift",
+      "waveEffect",
+      "trianglePattern",
+      "glitchEffect",
+      "diagonalLeft",
+      "diagonalRight",
+      "diamondPattern",
       "squarePattern",
-      "dotPatternAnimation"
+      "vLine",
+      "hueShift",
+      "dotPatternAnimation",
+      "hLine",
+      "starPatternAnimation"
     ]
   },
   {
@@ -1067,32 +1028,38 @@
       "Furtherfield Showcase: Art and the Blockchain"
     ],
     "description": [
-      "On March 28"
+      "On March 28 2016 Furtherfield Showcase curated by Ruth Catlow was exhibited at the Digital Catapult"
     ],
     "animations": [
+      "pentagonPattern",
+      "squarePattern",
       "diagonalLeft",
-      "glitchEffect",
-      "trianglePattern",
+      "diamondPattern",
       "hueShift",
-      "waveEffect",
-      "vLine"
+      "vLine",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "diagonalRight"
     ]
   },
   {
     "start": "04-15",
     "end": "04-15",
     "title": [
-      "Publication of Physical Bitcoin and Crypto Encyclopedia"
+      "Physical Bitcoin and Crypto Encyclopedia"
     ],
     "description": [
-      "On April 15"
+      "On April 15 2016 Elias Ahonen published the first physical encyclopedia cataloging Bitcoin and crypto collectibles"
     ],
     "animations": [
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "waveEffect",
+      "squarePattern",
+      "diagonalLeft",
       "starPatternAnimation",
-      "hLine"
+      "hueShift",
+      "glitchEffect",
+      "trianglePattern",
+      "diamondPattern",
+      "dotPatternAnimation"
     ]
   },
   {
@@ -1102,54 +1069,52 @@
       "Proof Of Art – The Bitcoin Art Show"
     ],
     "description": [
-      "On May 25"
+      "On May 25 2016 the “Proof Of Art – The Bitcoin Art Show” group exhibition was hosted by Cryptograffiti"
     ],
     "animations": [
+      "diamondPattern",
+      "diagonalRight",
+      "squarePattern",
+      "glitchEffect",
+      "trianglePattern",
+      "diagonalLeft",
       "colorCycle",
-      "vLine"
+      "pentagonPattern",
+      "hueShift",
+      "starPatternAnimation"
     ]
   },
   {
     "start": "09-08",
     "end": "09-08",
     "title": [
-      "Release of Bittercoin – The Worst Miner Ever"
+      "Release of Bittercoin – the Worst Miner Ever"
     ],
     "description": [
-      "On September 8"
+      "On September 8 2016 Bittercoin was released after hacking an old calculator to create a Bitcoin miner"
     ],
     "animations": [
-      "waveEffect",
-      "hLine",
       "hueShift",
-      "diagonalLeft",
-      "trianglePattern",
-      "dotPatternAnimation",
+      "waveEffect",
       "pentagonPattern",
       "diamondPattern",
-      "starPatternAnimation"
+      "vLine",
+      "trianglePattern",
+      "hLine"
     ]
   },
   {
     "start": "09-09",
     "end": "09-09",
     "title": [
-      "First Rare Pepe Card by Mike"
+      "First Rare Pepes"
     ],
     "description": [
-      "On September 9"
+      "On September 9 2016 the first Rare Pepes"
     ],
     "animations": [
-      "hLine",
-      "squarePattern",
-      "hueShift",
-      "waveEffect",
-      "starPatternAnimation",
-      "colorCycle",
       "glitchEffect",
-      "diamondPattern",
-      "vLine",
-      "dotPatternAnimation"
+      "diamondPattern"
     ]
   },
   {
@@ -1159,11 +1124,18 @@
       "Launch of Rare Pepe Wallet and Marketplace"
     ],
     "description": [
-      "On September 14"
+      "On September 14 2016 Rare Pepe Wallet and Marketplace was launched for collecting and exchanging Rare Pepes"
     ],
     "animations": [
+      "starPatternAnimation",
+      "pentagonPattern",
+      "diagonalRight",
+      "diamondPattern",
+      "waveEffect",
+      "colorCycle",
+      "trianglePattern",
       "diagonalLeft",
-      "diagonalRight"
+      "hueShift"
     ]
   },
   {
@@ -1173,48 +1145,52 @@
       "Launch of Book of Orbs Marketplace"
     ],
     "description": [
-      "On October 12"
+      "On October 12 2016 the Book of Orbs Marketplace was launched as a CounterParty exchange for game items"
     ],
     "animations": [
-      "diagonalLeft",
-      "pentagonPattern",
-      "colorCycle",
+      "squarePattern",
+      "dotPatternAnimation",
+      "vLine",
+      "diamondPattern",
+      "starPatternAnimation",
       "waveEffect",
-      "hLine"
+      "pentagonPattern",
+      "hLine",
+      "glitchEffect",
+      "diagonalLeft",
+      "trianglePattern"
     ]
   },
   {
     "start": "10-16",
     "end": "10-16",
     "title": [
-      "DJPEPE Rare Pepe Audio NFT"
+      "DJPEPE Rare Pepe First Audio NFT"
     ],
     "description": [
-      "On October 16"
+      "On October 16 2016 DJPEPE released the first Rare Pepe NFT that unlocks audio content"
     ],
     "animations": [
-      "hueShift",
-      "starPatternAnimation",
-      "trianglePattern",
-      "hLine",
-      "diamondPattern"
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "squarePattern",
+      "colorCycle",
+      "hLine"
     ]
   },
   {
     "start": "11-04",
     "end": "11-04",
     "title": [
-      "Cryptograffiti Solo Exhibition: The Revolution Will Not Be Centralized"
+      "The Revolution Will Not Be Centralized Exhibition"
     ],
     "description": [
-      "On November 4"
+      "On November 4 2016 Cryptograffiti held his solo exhibition “The Revolution Will Not Be Centralized” in San Francisco"
     ],
     "animations": [
-      "hueShift",
-      "colorCycle",
-      "hLine",
-      "dotPatternAnimation",
-      "diagonalLeft"
+      "glitchEffect",
+      "diagonalRight",
+      "hueShift"
     ]
   },
   {
@@ -1224,46 +1200,42 @@
       "Launch of Pixel Maps"
     ],
     "description": [
-      "On November 18"
+      "On November 18 2016 the Pixel Maps project featuring 3"
     ],
     "animations": [
-      "diamondPattern",
-      "waveEffect",
-      "diagonalLeft",
-      "hLine",
       "starPatternAnimation",
+      "diagonalRight",
+      "squarePattern",
+      "pentagonPattern",
+      "vLine",
+      "diagonalLeft",
+      "waveEffect",
       "trianglePattern",
       "hueShift",
-      "colorCycle",
-      "glitchEffect",
+      "diamondPattern",
       "dotPatternAnimation",
-      "pentagonPattern",
-      "vLine"
+      "glitchEffect",
+      "hLine"
     ]
   },
   {
     "start": "11-25",
     "end": "11-25",
     "title": [
-      "Launch of Age Of Chains Trading Card Game"
+      "Launch of the Age Of Chains Trading Card Game"
     ],
     "description": [
-      "On November 25"
+      "On November 25 2016 the Age Of Chains digital trading card game was launched on the CounterParty blockchain"
     ],
     "animations": [
-      "starPatternAnimation",
-      "glitchEffect",
-      "vLine",
       "trianglePattern",
-      "waveEffect",
-      "diagonalRight",
-      "squarePattern",
-      "colorCycle",
-      "hLine",
-      "hueShift",
+      "dotPatternAnimation",
       "pentagonPattern",
+      "diagonalRight",
+      "hLine",
       "diamondPattern",
-      "diagonalLeft"
+      "vLine",
+      "squarePattern"
     ]
   },
   {
@@ -1273,1589 +1245,80 @@
       "Hammer Projects: Simon Denny Solo Exhibition"
     ],
     "description": [
-      "On January 21"
+      "On January 21 2017 Simon Denny’s solo exhibition “Hammer Projects” was held at the Hammer Museum"
     ],
     "animations": [
-      "vLine",
-      "diagonalRight",
-      "starPatternAnimation",
-      "pentagonPattern",
-      "hLine",
-      "diagonalLeft",
-      "hueShift",
       "waveEffect",
-      "diamondPattern",
-      "glitchEffect",
-      "squarePattern"
+      "vLine",
+      "starPatternAnimation",
+      "squarePattern",
+      "glitchEffect"
     ]
   },
   {
     "start": "03-18",
     "end": "03-18",
     "title": [
-      "First Episode of Art On The Blockchain Podcast"
+      "First Episode of AOTB Art On The Blockchain Podcast"
     ],
     "description": [
-      "On March 18"
+      "On March 18 2017 the first episode of the AOTB Art On The Blockchain Podcast aired"
     ],
     "animations": [
-      "starPatternAnimation",
-      "trianglePattern",
-      "waveEffect",
-      "diagonalRight",
       "dotPatternAnimation",
-      "vLine",
+      "waveEffect",
       "squarePattern",
-      "glitchEffect"
+      "glitchEffect",
+      "diagonalLeft",
+      "hLine",
+      "pentagonPattern",
+      "hueShift",
+      "trianglePattern",
+      "diagonalRight"
     ]
   },
   {
     "start": "04-08",
     "end": "04-08",
     "title": [
-      "Launch of Memorychain"
+      "Launch of CounterParty-based Memorychain"
     ],
     "description": [
-      "On April 8"
+      "On April 8 2017 Memorychain"
     ],
     "animations": [
+      "squarePattern",
+      "hLine",
       "dotPatternAnimation",
-      "hLine"
+      "colorCycle",
+      "trianglePattern",
+      "vLine",
+      "diagonalRight",
+      "diamondPattern",
+      "hueShift"
     ]
   },
   {
     "start": "04-20",
     "end": "04-20",
     "title": [
-      "Launch of Spells of Genesis"
+      "Official Launch of Spells of Genesis"
     ],
     "description": [
-      "On April 20"
-    ],
-    "animations": [
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "05-04",
-    "end": "05-04",
-    "title": [
-      "Launch of ENS"
-    ],
-    "description": [
-      "On May 4"
+      "On April 20 2017 the digital card game Spells of Genesis was officially launched"
     ],
     "animations": [
       "vLine",
-      "diamondPattern",
-      "hueShift",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "pentagonPattern",
-      "diagonalRight"
-    ]
-  },
-  {
-    "start": "05-09",
-    "end": "05-09",
-    "title": [
-      "Launch of Curio Cards"
-    ],
-    "description": [
-      "On May 9"
-    ],
-    "animations": [
-      "hLine",
-      "dotPatternAnimation",
-      "squarePattern",
-      "waveEffect",
-      "vLine",
-      "trianglePattern",
-      "colorCycle",
-      "starPatternAnimation",
       "glitchEffect",
-      "pentagonPattern",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "05-20",
-    "end": "05-20",
-    "title": [
-      "Group Exhibition: New World Order at Furtherfield"
-    ],
-    "description": [
-      "On May 20"
-    ],
-    "animations": [
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "06-22",
-    "end": "06-22",
-    "title": [
-      "CryptoPunks Launch"
-    ],
-    "description": [
-      "On June 22"
-    ],
-    "animations": [
-      "diamondPattern",
-      "waveEffect",
-      "vLine",
-      "squarePattern",
-      "dotPatternAnimation",
+      "hLine",
       "diagonalLeft",
+      "colorCycle",
       "diagonalRight",
-      "hLine",
-      "colorCycle",
       "trianglePattern",
-      "glitchEffect",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "07-13",
-    "end": "07-13",
-    "title": [
-      "Christian Langalis' Buy Bitcoin Sign"
-    ],
-    "description": [
-      "On July 13"
-    ],
-    "animations": [
       "starPatternAnimation",
-      "squarePattern",
-      "diagonalLeft",
-      "pentagonPattern",
       "waveEffect",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "colorCycle",
-      "vLine",
-      "diagonalRight",
-      "hueShift",
-      "glitchEffect",
-      "hLine"
-    ]
-  },
-  {
-    "start": "07-21",
-    "end": "07-21",
-    "title": [
-      "Launch of Oasis Mining"
-    ],
-    "description": [
-      "On July 21"
-    ],
-    "animations": [
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "08-09",
-    "end": "08-09",
-    "title": [
-      "Launch of MoonCats Rescue"
-    ],
-    "description": [
-      "On August 09"
-    ],
-    "animations": [
-      "diagonalRight"
-    ]
-  },
-  {
-    "start": "08-12",
-    "end": "08-12",
-    "title": [
-      "Launch of ArtOlin Marketplace"
-    ],
-    "description": [
-      "On August 12"
-    ],
-    "animations": [
-      "hLine",
-      "squarePattern",
-      "vLine",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "trianglePattern",
-      "diamondPattern",
-      "diagonalRight",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "08-16",
-    "end": "08-16",
-    "title": [
-      "First Release of Bail Block Application"
-    ],
-    "description": [
-      "On August 16"
-    ],
-    "animations": [
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "squarePattern",
-      "diagonalLeft",
-      "trianglePattern",
-      "vLine",
-      "waveEffect",
-      "pentagonPattern",
-      "hLine",
-      "diamondPattern",
-      "colorCycle"
-    ]
-  },
-  {
-    "start": "08-30",
-    "end": "08-30",
-    "title": [
-      "Mitchell F. Chan Releases Digital Zones of Immaterial Pictorial Sensibility"
-    ],
-    "description": [
-      "On August 30"
-    ],
-    "animations": [
-      "waveEffect",
-      "diamondPattern",
-      "dotPatternAnimation",
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "09-12",
-    "end": "09-12",
-    "title": [
-      "Publication: Artists Re:Thinking the Blockchain"
-    ],
-    "description": [
-      "On September 12"
-    ],
-    "animations": [
-      "colorCycle",
-      "squarePattern",
-      "diagonalLeft",
-      "trianglePattern",
-      "waveEffect",
-      "diagonalRight"
-    ]
-  },
-  {
-    "start": "09-24",
-    "end": "09-24",
-    "title": [
-      "Julian Oliver Exhibits Harvest"
-    ],
-    "description": [
-      "On September 24"
-    ],
-    "animations": [
-      "waveEffect",
-      "diamondPattern",
-      "hueShift",
-      "dotPatternAnimation",
-      "glitchEffect",
-      "vLine",
-      "diagonalLeft",
-      "trianglePattern",
-      "pentagonPattern",
-      "colorCycle",
-      "hLine"
-    ]
-  },
-  {
-    "start": "10-20",
-    "end": "10-20",
-    "title": [
-      "Launch of CryptoKitties"
-    ],
-    "description": [
-      "On October 20"
-    ],
-    "animations": [
-      "trianglePattern",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "vLine",
-      "diagonalRight",
-      "squarePattern",
-      "diagonalLeft",
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "10-20",
-    "end": "10-20",
-    "title": [
-      "Launch of Lunar Tokens"
-    ],
-    "description": [
-      "On October 20"
-    ],
-    "animations": [
-      "vLine",
-      "diamondPattern",
-      "glitchEffect",
-      "colorCycle",
-      "trianglePattern",
-      "dotPatternAnimation",
-      "hueShift",
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "10-21",
-    "end": "10-21",
-    "title": [
-      "Exhibition: Open Codes at ZKM"
-    ],
-    "description": [
-      "On October 21"
-    ],
-    "animations": [
-      "colorCycle",
-      "hueShift",
-      "vLine",
-      "diagonalLeft",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "pentagonPattern",
-      "diamondPattern",
-      "glitchEffect",
-      "diagonalRight",
-      "hLine",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "10-28",
-    "end": "10-28",
-    "title": [
-      "Max Dovey Showcases Breath (BRH)"
-    ],
-    "description": [
-      "On October 28"
-    ],
-    "animations": [
-      "waveEffect",
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "diagonalLeft",
-      "vLine",
-      "diagonalRight",
-      "hueShift",
-      "pentagonPattern",
-      "glitchEffect",
-      "hLine"
-    ]
-  },
-  {
-    "start": "11-01",
-    "end": "11-01",
-    "title": [
-      "Launch of DADA"
-    ],
-    "description": [
-      "On November 1"
-    ],
-    "animations": [
-      "hLine",
-      "diamondPattern",
-      "glitchEffect",
-      "waveEffect",
-      "squarePattern",
-      "pentagonPattern",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "11-10",
-    "end": "11-10",
-    "title": [
-      "Sarah Friend's Clickmine"
-    ],
-    "description": [
-      "On November 10"
-    ],
-    "animations": [
-      "vLine",
-      "colorCycle",
-      "trianglePattern",
-      "hLine",
-      "glitchEffect",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "11-12",
-    "end": "11-12",
-    "title": [
-      "Launch of CryptoCats"
-    ],
-    "description": [
-      "On November 12"
-    ],
-    "animations": [
-      "waveEffect",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "diagonalLeft",
-      "pentagonPattern",
-      "starPatternAnimation",
-      "squarePattern",
-      "diagonalRight",
-      "hLine",
-      "vLine"
-    ]
-  },
-  {
-    "start": "11-16",
-    "end": "11-16",
-    "title": [
-      "Launch of Slothicorn Crypto Art Collective"
-    ],
-    "description": [
-      "On November 16"
-    ],
-    "animations": [
-      "diagonalLeft",
-      "vLine",
-      "pentagonPattern",
-      "hLine",
-      "waveEffect",
-      "hueShift",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "12-18",
-    "end": "12-18",
-    "title": [
-      "Launch of Etheremon"
-    ],
-    "description": [
-      "On December 18"
-    ],
-    "animations": [
-      "vLine",
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "12-23",
-    "end": "12-23",
-    "title": [
-      "Launch of WeiCards"
-    ],
-    "description": [
-      "On December 23"
-    ],
-    "animations": [
-      "glitchEffect",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "colorCycle",
-      "diagonalLeft",
-      "diamondPattern",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "12-26",
-    "end": "12-26",
-    "title": [
-      "Launch of EtherRocks Collectibles"
-    ],
-    "description": [
-      "On December 26"
-    ],
-    "animations": [
-      "diagonalRight"
-    ]
-  },
-  {
-    "start": "12-29",
-    "end": "12-29",
-    "title": [
-      "Launch of OpenSea"
-    ],
-    "description": [
-      "On December 29"
-    ],
-    "animations": [
-      "hLine",
-      "diagonalRight",
-      "vLine"
-    ]
-  },
-  {
-    "start": "01-07",
-    "end": "01-07",
-    "title": [
-      "Launch of CryptoCards"
-    ],
-    "description": [
-      "On January 07"
-    ],
-    "animations": [
-      "diagonalLeft",
-      "squarePattern",
-      "trianglePattern",
-      "diagonalRight",
-      "vLine",
-      "hueShift",
-      "hLine",
-      "waveEffect",
-      "starPatternAnimation",
-      "glitchEffect",
-      "diamondPattern",
-      "pentagonPattern",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "01-08",
-    "end": "01-08",
-    "title": [
-      "Kevin Abosch Releases IMACOIN"
-    ],
-    "description": [
-      "On January 08"
-    ],
-    "animations": [
-      "diagonalRight",
-      "diagonalLeft",
-      "vLine",
-      "colorCycle",
-      "hueShift",
-      "trianglePattern",
-      "pentagonPattern",
-      "glitchEffect",
-      "waveEffect",
-      "hLine",
-      "squarePattern"
-    ]
-  },
-  {
-    "start": "01-11",
-    "end": "01-11",
-    "title": [
-      "Group Exhibition: New World Order at Aksioma"
-    ],
-    "description": [
-      "On January 11"
-    ],
-    "animations": [
-      "glitchEffect",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "trianglePattern",
-      "diamondPattern",
-      "hLine",
-      "hueShift",
-      "waveEffect",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "01-14",
-    "end": "01-14",
-    "title": [
-      "Auction of Homer Pepe Card"
-    ],
-    "description": [
-      "On January 14"
-    ],
-    "animations": [
-      "pentagonPattern",
-      "trianglePattern",
-      "hLine",
-      "diagonalLeft",
-      "squarePattern",
-      "diagonalRight",
-      "vLine",
-      "diamondPattern",
-      "waveEffect",
-      "colorCycle",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "01-22",
-    "end": "01-22",
-    "title": [
-      "Launch of EtherTulips"
-    ],
-    "description": [
-      "On January 22"
-    ],
-    "animations": [
-      "hueShift",
-      "diagonalRight",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "glitchEffect",
-      "vLine",
-      "trianglePattern",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "02-01",
-    "end": "02-01",
-    "title": [
-      "Launch of Fishbank Alpha"
-    ],
-    "description": [
-      "On February 01"
-    ],
-    "animations": [
-      "hLine",
-      "glitchEffect",
-      "trianglePattern",
-      "waveEffect",
-      "starPatternAnimation",
-      "diamondPattern",
-      "diagonalRight",
-      "squarePattern",
-      "dotPatternAnimation",
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "02-01",
-    "end": "02-01",
-    "title": [
-      "Launch of Bitcorn Simulation Game"
-    ],
-    "description": [
-      "On February 01"
-    ],
-    "animations": [
-      "hLine",
-      "pentagonPattern",
-      "waveEffect",
-      "starPatternAnimation",
-      "trianglePattern",
-      "vLine",
-      "diagonalLeft",
-      "glitchEffect",
-      "squarePattern"
-    ]
-  },
-  {
-    "start": "02-02",
-    "end": "02-02",
-    "title": [
-      "Launch of ETHMap"
-    ],
-    "description": [
-      "On February 02"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "hLine",
-      "waveEffect",
-      "vLine",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "02-11",
-    "end": "02-11",
-    "title": [
-      "Group Exhibition: New World Order at Drugo More"
-    ],
-    "description": [
-      "On February 11"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "colorCycle",
-      "vLine",
-      "glitchEffect",
-      "hLine",
-      "diamondPattern",
-      "squarePattern",
-      "trianglePattern",
-      "dotPatternAnimation",
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "02-15",
-    "end": "02-15",
-    "title": [
-      "Kevin Abosch Sells Forever Rose for $1M"
-    ],
-    "description": [
-      "On February 15"
-    ],
-    "animations": [
-      "vLine",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "02-18",
-    "end": "02-18",
-    "title": [
-      "Launch of Axie Infinity Presale"
-    ],
-    "description": [
-      "On February 18"
-    ],
-    "animations": [
-      "diagonalLeft",
-      "waveEffect",
-      "hLine",
-      "glitchEffect"
-    ]
-  },
-  {
-    "start": "03-05",
-    "end": "03-05",
-    "title": [
-      "Launch of Etherlambos"
-    ],
-    "description": [
-      "On March 05"
-    ],
-    "animations": [
-      "hueShift",
-      "trianglePattern",
-      "diamondPattern",
-      "hLine",
-      "squarePattern",
-      "starPatternAnimation",
-      "colorCycle",
-      "glitchEffect",
-      "pentagonPattern",
-      "waveEffect",
-      "diagonalRight",
-      "vLine",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "03-22",
-    "end": "03-22",
-    "title": [
-      "Jonas Lund Launches Jonas Lund Token"
-    ],
-    "description": [
-      "On March 22"
-    ],
-    "animations": [
-      "diamondPattern",
-      "pentagonPattern",
-      "diagonalRight",
-      "hueShift",
-      "diagonalLeft",
-      "trianglePattern",
-      "colorCycle",
-      "vLine",
-      "waveEffect",
-      "starPatternAnimation",
-      "hLine",
-      "glitchEffect",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "03-23",
-    "end": "03-23",
-    "title": [
-      "Launch of Kaleidoscope Marketplace"
-    ],
-    "description": [
-      "On March 23"
-    ],
-    "animations": [
-      "glitchEffect",
-      "trianglePattern",
-      "colorCycle",
-      "diamondPattern",
-      "starPatternAnimation",
-      "vLine",
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "03-24",
-    "end": "03-24",
-    "title": [
-      "Solo Exhibition: New Money by Andy Bauch"
-    ],
-    "description": [
-      "On March 24"
-    ],
-    "animations": [
-      "trianglePattern",
-      "hLine",
-      "squarePattern",
-      "vLine"
-    ]
-  },
-  {
-    "start": "03-24",
-    "end": "03-24",
-    "title": [
-      "Launch of Etherwaifu"
-    ],
-    "description": [
-      "On March 24"
-    ],
-    "animations": [
-      "diamondPattern",
-      "colorCycle",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "vLine",
-      "trianglePattern",
-      "hueShift",
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "04-03",
-    "end": "04-03",
-    "title": [
-      "Launch of SuperRare Marketplace"
-    ],
-    "description": [
-      "On April 03"
-    ],
-    "animations": [
-      "waveEffect",
-      "hLine",
-      "pentagonPattern",
-      "squarePattern",
-      "colorCycle",
-      "diamondPattern",
-      "glitchEffect",
-      "diagonalLeft",
-      "vLine",
-      "starPatternAnimation",
-      "diagonalRight",
-      "dotPatternAnimation",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "04-06",
-    "end": "04-06",
-    "title": [
-      "Launch of KnownOrigin Marketplace"
-    ],
-    "description": [
-      "On April 06"
-    ],
-    "animations": [
-      "colorCycle",
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "hueShift",
-      "squarePattern",
-      "trianglePattern",
-      "vLine"
-    ]
-  },
-  {
-    "start": "04-15",
-    "end": "04-15",
-    "title": [
-      "Solo Exhibition: Games of Decentralized Life by Simon Denny"
-    ],
-    "description": [
-      "On April 15"
-    ],
-    "animations": [
-      "diamondPattern",
-      "pentagonPattern",
-      "trianglePattern",
-      "diagonalLeft",
-      "diagonalRight",
-      "starPatternAnimation",
-      "hLine",
-      "colorCycle",
-      "hueShift",
-      "vLine",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "04-17",
-    "end": "04-17",
-    "title": [
-      "Launch of Digirare"
-    ],
-    "description": [
-      "On April 17"
-    ],
-    "animations": [
-      "hueShift",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "04-28",
-    "end": "04-28",
-    "title": [
-      "Gordon Berger’s Blockchain and Art TEDx Talk"
-    ],
-    "description": [
-      "On April 28"
-    ],
-    "animations": [
-      "diagonalLeft",
-      "pentagonPattern",
-      "diamondPattern",
-      "diagonalRight",
-      "squarePattern",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "trianglePattern",
-      "colorCycle",
-      "hLine",
-      "vLine",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "05-07",
-    "end": "05-07",
-    "title": [
-      "Sale of Kevin Abosch’s Yellow Lambo"
-    ],
-    "description": [
-      "On May 07"
-    ],
-    "animations": [
-      "squarePattern",
-      "dotPatternAnimation",
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "05-11",
-    "end": "05-11",
-    "title": [
-      "Launch of CryptoCrystals"
-    ],
-    "description": [
-      "On May 11"
-    ],
-    "animations": [
-      "vLine",
-      "diamondPattern",
-      "squarePattern",
-      "dotPatternAnimation",
-      "hueShift"
-    ]
-  },
-  {
-    "start": "05-22",
-    "end": "05-22",
-    "title": [
-      "Launch of CryptoVoxels Metaverse"
-    ],
-    "description": [
-      "On May 22"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "squarePattern",
-      "hLine",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "05-25",
-    "end": "05-25",
-    "title": [
-      "Group Exhibition: Innovation as Artistic Technique"
-    ],
-    "description": [
-      "On May 25"
-    ],
-    "animations": [
-      "squarePattern",
-      "diamondPattern",
-      "trianglePattern",
-      "pentagonPattern",
-      "glitchEffect",
-      "colorCycle",
-      "diagonalLeft",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "06-10",
-    "end": "06-10",
-    "title": [
-      "Launch of CryptoStrikers"
-    ],
-    "description": [
-      "On June 10"
-    ],
-    "animations": [
-      "pentagonPattern"
-    ]
-  },
-  {
-    "start": "06-14",
-    "end": "06-14",
-    "title": [
-      "Art Basel Panel: Blockchain and the Art World"
-    ],
-    "description": [
-      "On June 14"
-    ],
-    "animations": [
-      "trianglePattern",
-      "colorCycle",
-      "diagonalLeft",
-      "waveEffect",
-      "vLine",
-      "hLine",
-      "diagonalRight",
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "pentagonPattern",
       "squarePattern",
       "hueShift"
-    ]
-  },
-  {
-    "start": "06-20",
-    "end": "06-20",
-    "title": [
-      "Maecenas Auctions Fractional Andy Warhol"
-    ],
-    "description": [
-      "On June 20"
-    ],
-    "animations": [
-      "diamondPattern",
-      "dotPatternAnimation",
-      "squarePattern"
-    ]
-  },
-  {
-    "start": "06-26",
-    "end": "06-26",
-    "title": [
-      "Launch of R.A.R.E (Rare Art Labs)"
-    ],
-    "description": [
-      "On June 26"
-    ],
-    "animations": [
-      "glitchEffect",
-      "vLine",
-      "starPatternAnimation",
-      "trianglePattern",
-      "pentagonPattern",
-      "squarePattern",
-      "hueShift",
-      "diagonalLeft",
-      "hLine",
-      "dotPatternAnimation",
-      "diagonalRight",
-      "colorCycle",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "07-08",
-    "end": "07-08",
-    "title": [
-      "Launch of Codex Protocol"
-    ],
-    "description": [
-      "On July 08"
-    ],
-    "animations": [
-      "hueShift",
-      "colorCycle"
-    ]
-  },
-  {
-    "start": "07-11",
-    "end": "07-11",
-    "title": [
-      "Launch of CryptoArte"
-    ],
-    "description": [
-      "On July 11"
-    ],
-    "animations": [
-      "colorCycle",
-      "hueShift",
-      "diagonalRight"
-    ]
-  },
-  {
-    "start": "07-15",
-    "end": "07-15",
-    "title": [
-      "Launch of Astroledger Platform"
-    ],
-    "description": [
-      "On July 15"
-    ],
-    "animations": [
-      "trianglePattern",
-      "squarePattern",
-      "waveEffect",
-      "starPatternAnimation",
-      "diamondPattern",
-      "diagonalRight",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "07-18",
-    "end": "07-18",
-    "title": [
-      "Christie’s Art+Tech Summit: Exploring Blockchain"
-    ],
-    "description": [
-      "On July 18"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "dotPatternAnimation",
-      "squarePattern",
-      "diagonalLeft",
-      "colorCycle",
-      "diamondPattern",
-      "diagonalRight",
-      "trianglePattern",
-      "vLine",
-      "hLine",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "07-20",
-    "end": "07-20",
-    "title": [
-      "Terra0 Launches Flower Tokens"
-    ],
-    "description": [
-      "On July 20"
-    ],
-    "animations": [
-      "pentagonPattern",
-      "diagonalRight",
-      "diamondPattern",
-      "squarePattern",
-      "hLine"
-    ]
-  },
-  {
-    "start": "07-26",
-    "end": "07-26",
-    "title": [
-      "Group Exhibition: Distributed Systems and Blockchain"
-    ],
-    "description": [
-      "On July 26"
-    ],
-    "animations": [
-      "waveEffect",
-      "colorCycle",
-      "hueShift",
-      "hLine",
-      "diamondPattern",
-      "glitchEffect",
-      "diagonalLeft",
-      "pentagonPattern",
-      "diagonalRight",
-      "squarePattern",
-      "dotPatternAnimation",
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "09-08",
-    "end": "09-08",
-    "title": [
-      "Distributed Gallery Presents its Chaos Machine"
-    ],
-    "description": [
-      "On September 08"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "diagonalLeft",
-      "waveEffect",
-      "glitchEffect",
-      "hueShift",
-      "diamondPattern",
-      "diagonalRight",
-      "pentagonPattern",
-      "hLine",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "09-09",
-    "end": "09-09",
-    "title": [
-      "Group Exhibition: Proof of Work"
-    ],
-    "description": [
-      "On September 09"
-    ],
-    "animations": [
-      "pentagonPattern",
-      "diagonalLeft"
-    ]
-  },
-  {
-    "start": "09-17",
-    "end": "09-17",
-    "title": [
-      "Anna Ridler Presents Mosaic Virus"
-    ],
-    "description": [
-      "On September 17"
-    ],
-    "animations": [
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "09-29",
-    "end": "09-29",
-    "title": [
-      "Group Exhibition: Bitcoin Art (r)evolution"
-    ],
-    "description": [
-      "On September 29"
-    ],
-    "animations": [
-      "squarePattern",
-      "trianglePattern",
-      "diamondPattern",
-      "dotPatternAnimation"
-    ]
-  },
-  {
-    "start": "10-08",
-    "end": "10-08",
-    "title": [
-      "Launch of Cryptographics Generative Art Platform"
-    ],
-    "description": [
-      "On October 08"
-    ],
-    "animations": [
-      "pentagonPattern",
-      "waveEffect",
-      "glitchEffect",
-      "diagonalLeft",
-      "hueShift",
-      "hLine",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "squarePattern",
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "10-10",
-    "end": "10-10",
-    "title": [
-      "Launch of the Portion Marketplace"
-    ],
-    "description": [
-      "On October 10"
-    ],
-    "animations": [
-      "starPatternAnimation",
-      "hueShift",
-      "waveEffect",
-      "dotPatternAnimation",
-      "vLine",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "10-12",
-    "end": "10-12",
-    "title": [
-      "Non-Fungible Summit"
-    ],
-    "description": [
-      "On October 12"
-    ],
-    "animations": [
-      "trianglePattern",
-      "hLine",
-      "starPatternAnimation",
-      "vLine",
-      "squarePattern"
-    ]
-  },
-  {
-    "start": "10-21",
-    "end": "10-21",
-    "title": [
-      "Solo Exhibition: Disruption – The Art of Blockchain by Trevor Jones"
-    ],
-    "description": [
-      "On October 21"
-    ],
-    "animations": [
-      "diamondPattern",
-      "pentagonPattern",
-      "starPatternAnimation",
-      "squarePattern",
-      "vLine"
-    ]
-  },
-  {
-    "start": "10-25",
-    "end": "10-25",
-    "title": [
-      "NYC ArtTech + Blockchain with the Rarest Book Launch"
-    ],
-    "description": [
-      "On October 25"
-    ],
-    "animations": [
-      "diagonalRight",
-      "hueShift",
-      "vLine",
-      "glitchEffect",
-      "hLine",
-      "colorCycle",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "11-08",
-    "end": "11-08",
-    "title": [
-      "Launch of Eva Sussman’s 89 Seconds Atomized"
-    ],
-    "description": [
-      "On November 08"
-    ],
-    "animations": [
-      "squarePattern",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "11-12",
-    "end": "11-12",
-    "title": [
-      "Intersections Printemps Numérique"
-    ],
-    "description": [
-      "On November 12"
-    ],
-    "animations": [
-      "diagonalLeft",
-      "trianglePattern",
-      "dotPatternAnimation",
-      "pentagonPattern",
-      "hueShift",
-      "diagonalRight",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "11-12",
-    "end": "11-12",
-    "title": [
-      "Christie’s and Artory Fine Art Auction on Blockchain"
-    ],
-    "description": [
-      "On November 12"
-    ],
-    "animations": [
-      "glitchEffect",
-      "diagonalLeft",
-      "hueShift",
-      "starPatternAnimation",
-      "squarePattern",
-      "hLine"
-    ]
-  },
-  {
-    "start": "11-17",
-    "end": "11-17",
-    "title": [
-      "Group Exhibition: PERFECT & PRICELESS"
-    ],
-    "description": [
-      "On November 17"
-    ],
-    "animations": [
-      "starPatternAnimation"
-    ]
-  },
-  {
-    "start": "12-01",
-    "end": "12-01",
-    "title": [
-      "Launch of Mintable Marketplace"
-    ],
-    "description": [
-      "On December 01"
-    ],
-    "animations": [
-      "waveEffect",
-      "vLine",
-      "colorCycle",
-      "glitchEffect"
-    ]
-  },
-  {
-    "start": "12-02",
-    "end": "12-02",
-    "title": [
-      "Launch of Radi.Cards"
-    ],
-    "description": [
-      "On December 02"
-    ],
-    "animations": [
-      "glitchEffect",
-      "hLine",
-      "pentagonPattern",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "diagonalLeft",
-      "colorCycle",
-      "hueShift",
-      "diamondPattern"
-    ]
-  },
-  {
-    "start": "12-11",
-    "end": "12-11",
-    "title": [
-      "Group Exhibition: Blockchain Aesthetics"
-    ],
-    "description": [
-      "On December 11"
-    ],
-    "animations": [
-      "hLine",
-      "diagonalRight",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "12-11",
-    "end": "12-11",
-    "title": [
-      "Discussion Panel: Decentralizing Art"
-    ],
-    "description": [
-      "On December 11"
-    ],
-    "animations": [
-      "colorCycle",
-      "dotPatternAnimation",
-      "trianglePattern",
-      "diamondPattern",
-      "glitchEffect",
-      "waveEffect",
-      "pentagonPattern",
-      "diagonalRight",
-      "diagonalLeft",
-      "vLine",
-      "hueShift",
-      "hLine"
-    ]
-  },
-  {
-    "start": "12-16",
-    "end": "12-16",
-    "title": [
-      "Solo Exhibition: Fight Fear by Hackatao"
-    ],
-    "description": [
-      "On December 16"
-    ],
-    "animations": [
-      "hLine"
-    ]
-  },
-  {
-    "start": "12-20",
-    "end": "12-20",
-    "title": [
-      "Cryptograffiti Auctions Black Swan"
-    ],
-    "description": [
-      "On December 20"
-    ],
-    "animations": [
-      "trianglePattern",
-      "pentagonPattern",
-      "colorCycle",
-      "squarePattern",
-      "diamondPattern",
-      "starPatternAnimation",
-      "vLine",
-      "diagonalLeft",
-      "dotPatternAnimation",
-      "waveEffect"
-    ]
-  },
-  {
-    "start": "12-23",
-    "end": "12-23",
-    "title": [
-      "Launch of MoCA Museum of Crypto Art in CryptoVoxels"
-    ],
-    "description": [
-      "On December 23"
-    ],
-    "animations": [
-      "colorCycle",
-      "starPatternAnimation",
-      "diagonalLeft",
-      "squarePattern",
-      "hueShift",
-      "dotPatternAnimation",
-      "trianglePattern"
-    ]
-  },
-  {
-    "start": "12-30",
-    "end": "12-30",
-    "title": [
-      "Launch of ALF Smart Contract"
-    ],
-    "description": [
-      "On December 30"
-    ],
-    "animations": [
-      "squarePattern",
-      "pentagonPattern",
-      "hLine",
-      "glitchEffect",
-      "diagonalLeft"
     ]
   }
 ]
