@@ -19,8 +19,7 @@
       "starPatternAnimation",
       "dotPatternAnimation",
       "pentagonPattern",
-      "hueShift",
-      "redAlert"
+      "hueShift"
     ],
     "redAlert": {
       "speed": 2.0
