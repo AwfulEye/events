@@ -20,7 +20,7 @@
       "dotPatternAnimation",
       "pentagonPattern",
       "hueShift",
-      "colorCycle"
+      "redAlert"
     ],
     "redAlert": {
       "speed": 2.0
