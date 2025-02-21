@@ -6,36 +6,30 @@
       "Hal Finney Envisions Crypto Trading Cards"
     ],
     "description": [
-      "On January 17 1993 Hal Finney shared his vision"
+      "On January 17 1993 Hal Finney envisioned using cryptography to create digital collectible trading cards an NFT concept anticipating both Bitcoin and blockchain technology by 15 years He shared his idea on the Cypherpunk mailing list"
     ],
     "animations": [
-      "squarePattern",
-      "glitchEffect",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "diagonalRight",
-      "colorCycle",
-      "diamondPattern",
-      "diagonalLeft",
-      "hueShift",
-      "pentagonPattern",
       "hLine",
-      "waveEffect",
-      "trianglePattern"
+      "diagonalRight",
+      "pentagonPattern",
+      "diagonalLeft",
+      "squarePattern"
     ]
   },
   {
     "start": "04-27",
     "end": "04-27",
     "title": [
-      "Herbert R. Sim’s Satoshi Samurai Drawing"
+      "Herbert R Sim Satoshi Samurai Drawing"
     ],
     "description": [
-      "On April 27 2010 Herbert R. Sim published one of the first portraits of Bitcoin’s creator as a Samurai"
+      "On April 27 2010 Herbert R Sim published his creation of one of the first portraits of the anonymous Bitcoin founder as a Samurai titled Satoshi Nakamoto Masked Samurai Angel and the Bitcoin Daisho"
     ],
     "animations": [
-      "hueShift",
-      "hLine"
+      "dotPatternAnimation",
+      "waveEffect",
+      "trianglePattern",
+      "diagonalRight"
     ]
   },
   {
@@ -45,11 +39,19 @@
       "Launch of .bit Domains"
     ],
     "description": [
-      "On April 21 2011 the .bit Domains were launched on NameCoin as early non-fungible digital assets"
+      "On April 21 2011 Bit Domains launched on NameCoin a Bitcoin fork intended as an open decentralized and censorship resistant Domain Name System The first domain bitcoinbit can be seen as one of the earliest non fungible digital assets"
     ],
     "animations": [
+      "squarePattern",
       "diagonalRight",
-      "squarePattern"
+      "starPatternAnimation",
+      "waveEffect",
+      "hLine",
+      "hueShift",
+      "diamondPattern",
+      "trianglePattern",
+      "colorCycle",
+      "vLine"
     ]
   },
   {
@@ -59,17 +61,15 @@
       "First Punycode Domains"
     ],
     "description": [
-      "On May 10 2011 creative domain names were experimented with using Punycode on NameCoin"
+      "On May 10 2011 NameCoin lead developer Khalahan Henkh started using Punycode to experiment with creative domain names such as ASCII art emoticons and emojis"
     ],
     "animations": [
-      "colorCycle",
-      "trianglePattern",
+      "vLine",
       "diamondPattern",
-      "squarePattern",
-      "diagonalLeft",
-      "hueShift",
+      "colorCycle",
+      "dotPatternAnimation",
       "hLine",
-      "waveEffect"
+      "diagonalRight"
     ]
   },
   {
@@ -79,13 +79,15 @@
       "First ASCII Tribute on Bitcoin Blockchain"
     ],
     "description": [
-      "On July 30 2011 Dan Kaminsky embedded the first ASCII tribute honoring cryptographer Len Sassaman"
+      "On July 30 2011 Dan Kaminsky embedded the first tribute eulogy and ASCII image in honour of cryptographer Len Sassaman"
     ],
     "animations": [
-      "hueShift",
-      "starPatternAnimation",
-      "diagonalLeft",
-      "pentagonPattern"
+      "colorCycle",
+      "pentagonPattern",
+      "vLine",
+      "glitchEffect",
+      "diamondPattern",
+      "hLine"
     ]
   },
   {
@@ -95,21 +97,16 @@
       "Launch of Casascius Coins"
     ],
     "description": [
-      "On October 26 2011 Mike Caldwell began issuing Casascius Coins—physical Bitcoins with authenticity features"
+      "On October 26 2011 Mike Caldwell started issuing Casascius Coins which are physical metal plated or pure gold Bitcoins with authenticity holograms and private keys"
     ],
     "animations": [
-      "diagonalRight",
       "colorCycle",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "waveEffect",
-      "hLine",
+      "starPatternAnimation",
       "pentagonPattern",
       "diagonalLeft",
       "trianglePattern",
-      "starPatternAnimation",
       "squarePattern",
-      "glitchEffect"
+      "diagonalRight"
     ]
   },
   {
@@ -119,13 +116,20 @@
       "Proposal of Coloured Coins"
     ],
     "description": [
-      "On March 28 2012 Yoni Assia introduced Coloured Coins"
+      "On March 28 2012 Yoni Assia introduced Coloured Coins to represent other assets which is arguably the beginning of non fungible tokens"
     ],
     "animations": [
-      "starPatternAnimation",
-      "diamondPattern",
       "waveEffect",
-      "glitchEffect"
+      "glitchEffect",
+      "vLine",
+      "diamondPattern",
+      "squarePattern",
+      "trianglePattern",
+      "pentagonPattern",
+      "hLine",
+      "diagonalLeft",
+      "diagonalRight",
+      "starPatternAnimation"
     ]
   },
   {
@@ -135,48 +139,54 @@
       "First NameCoin Identities"
     ],
     "description": [
-      "On May 31 2012 decentralized identities were created on NameCoin"
+      "On May 31 2012 NameCoin Identities were created as decentralized identities for domains later integrated with decentralized communication protocols"
     ],
     "animations": [
+      "hueShift",
+      "diamondPattern",
+      "starPatternAnimation",
+      "vLine",
       "diagonalLeft",
-      "glitchEffect"
+      "squarePattern",
+      "glitchEffect",
+      "dotPatternAnimation"
     ]
   },
   {
     "start": "01-16",
     "end": "01-16",
     "title": [
-      "Kevin Abosch Releases Bank"
+      "Kevin Abosch Releases his Conceptual Book Bank"
     ],
     "description": [
-      "On January 16 2013 Kevin Abosch released his conceptual book “Bank” featuring paired Bitcoin keys"
+      "On January 16 2013 the artist collated 500 paired Bitcoin public and private keys in a limited edition book of 50 and declared it a bank"
     ],
     "animations": [
-      "glitchEffect"
+      "trianglePattern",
+      "squarePattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "waveEffect",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diagonalLeft"
     ]
   },
   {
     "start": "04-14",
     "end": "04-14",
     "title": [
-      "Bitcoin Roller Coaster Comic"
+      "Bitcoin Roller Coaster by Brainless Tales"
     ],
     "description": [
-      "On April 14 2013 Brainless Tales posted the iconic Bitcoin Roller Coaster comic on Reddit"
+      "On April 14 2013 Brainless Tales posted his iconic comic to Reddit which later became a meme"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "trianglePattern",
+      "colorCycle",
       "glitchEffect",
-      "diagonalLeft",
-      "waveEffect",
       "hLine",
-      "diamondPattern",
-      "vLine",
       "squarePattern",
-      "pentagonPattern",
-      "diagonalRight",
-      "hueShift"
+      "vLine"
     ]
   },
   {
@@ -186,22 +196,16 @@
       "Launch of Cryptographics"
     ],
     "description": [
-      "On July 28 2013 Cryptographics launched"
+      "On July 28 2013 this cryptocurrency inspired project by Stef Lewandowski and Liz Barile Page encrypted secret messages as artworks"
     ],
     "animations": [
-      "squarePattern",
-      "vLine",
-      "diamondPattern",
-      "trianglePattern",
-      "dotPatternAnimation",
-      "hueShift",
-      "starPatternAnimation",
-      "colorCycle",
-      "glitchEffect",
-      "diagonalLeft",
-      "pentagonPattern",
       "diagonalRight",
-      "hLine"
+      "starPatternAnimation",
+      "hueShift",
+      "glitchEffect",
+      "waveEffect",
+      "squarePattern",
+      "diamondPattern"
     ]
   },
   {
@@ -211,81 +215,76 @@
       "Untitled Mining Installation"
     ],
     "description": [
-      "On August 21 2013 Peter Frölich created an artwork featuring a working Bitcoin mining rig in an antique frame"
+      "On August 21 2013 German artist Peter Froelich created a conceptual artwork featuring a working Bitcoin mining rig within an antique gold painting frame"
     ],
     "animations": [
       "glitchEffect",
-      "colorCycle",
-      "vLine",
-      "diagonalLeft",
-      "squarePattern",
-      "hueShift",
-      "hLine",
-      "diagonalRight",
-      "waveEffect",
-      "trianglePattern",
       "pentagonPattern",
-      "dotPatternAnimation"
+      "colorCycle"
     ]
   },
   {
     "start": "09-14",
     "end": "09-14",
     "title": [
-      "200 Bitcoin Painting by Kuno Goda"
+      "Kuno Goda Creates his 200 Bitcoin Painting"
     ],
     "description": [
-      "On September 14 2013 Kuno Goda created a 200 Bitcoin Painting that made international headlines"
+      "On September 14 2013 inspired by Warhol this artwork is one of the first representational Bitcoin paintings and its undisclosed sale made international headlines"
     ],
     "animations": [
-      "diagonalLeft",
-      "pentagonPattern",
-      "starPatternAnimation",
-      "vLine",
-      "hueShift",
-      "colorCycle",
-      "glitchEffect",
-      "hLine",
       "waveEffect",
-      "trianglePattern"
+      "dotPatternAnimation",
+      "colorCycle",
+      "hueShift",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diagonalRight",
+      "hLine",
+      "pentagonPattern",
+      "diagonalLeft",
+      "diamondPattern",
+      "glitchEffect"
     ]
   },
   {
     "start": "02-01",
     "end": "02-01",
     "title": [
-      "Launch of the Huntercoin Game"
+      "Launch of the Huntercoin Game and Currency"
     ],
     "description": [
-      "On February 1 2014 the Huntercoin decentralized game and currency was launched"
+      "On February 1 2014 this early experimental decentralized peer to peer and play to earn game was forked from the Namecoin blockchain"
     ],
     "animations": [
-      "waveEffect",
-      "squarePattern",
+      "diagonalRight",
       "hueShift",
-      "pentagonPattern",
       "diagonalLeft",
-      "colorCycle",
+      "glitchEffect",
+      "starPatternAnimation",
       "vLine",
-      "hLine"
+      "colorCycle"
     ]
   },
   {
     "start": "02-15",
     "end": "02-15",
     "title": [
-      "Computers and Capital Group Exhibition"
+      "Group Exhibition Computers and Capital The Rise of Digital Currency"
     ],
     "description": [
-      "On February 15 2014 the group exhibition “Computers and Capital: The Rise of Digital Currency” was held at Coinfest in Vancouver"
+      "On February 15 2014 a bitcoin themed group exhibition curated by Erik H Rzepka and Wesley Yuen for Coinfest 2014 in Vancouver BC"
     ],
     "animations": [
-      "dotPatternAnimation",
+      "colorCycle",
+      "trianglePattern",
       "vLine",
       "diamondPattern",
-      "waveEffect",
+      "squarePattern",
+      "dotPatternAnimation",
       "diagonalLeft",
-      "diagonalRight"
+      "hLine",
+      "pentagonPattern"
     ]
   },
   {
@@ -295,103 +294,112 @@
       "Free Lunch by Dave Young Kim"
     ],
     "description": [
-      "On March 6 2014 Dave Young Kim created “Free Lunch”"
+      "On March 6 2014 Dave Young Kim painted Free Lunch depicting Dorian Nakamoto as he attempted to evade the media after being identified by Newsweek"
     ],
     "animations": [
-      "colorCycle",
-      "squarePattern",
-      "hueShift",
       "vLine",
-      "waveEffect"
+      "waveEffect",
+      "squarePattern",
+      "pentagonPattern",
+      "glitchEffect",
+      "diagonalRight",
+      "starPatternAnimation",
+      "hueShift"
     ]
   },
   {
     "start": "03-06",
     "end": "03-06",
     "title": [
-      "Bitcoin Art Fair & Meetup"
+      "Bitcoin Art Fair and Meetup at 20Mission"
     ],
     "description": [
-      "On March 6 2014 the Bitcoin Art Fair & Meetup was held during San Francisco’s Bitcoin meetup"
+      "On March 6 2014 this group exhibition took place during San Francisco’s Bitcoin meetup reportedly the largest at that time"
     ],
     "animations": [
-      "squarePattern"
+      "diagonalLeft",
+      "vLine",
+      "diamondPattern",
+      "trianglePattern",
+      "hLine",
+      "diagonalRight",
+      "pentagonPattern",
+      "glitchEffect",
+      "hueShift"
     ]
   },
   {
     "start": "03-13",
     "end": "03-13",
     "title": [
-      "Cryptograffiti’s Street Art"
+      "Cryptograffiti Street Art promotes Bitcoin with Guerrilla Marketing"
     ],
     "description": [
-      "On March 13 2014 Cryptograffiti’s street art promoted Bitcoin using guerrilla marketing"
+      "On March 13 2014 intricate pieces include destructed credit cards modified bank logos and Bitcoin ads attached to bank buildings and ATMs"
     ],
     "animations": [
-      "starPatternAnimation",
-      "waveEffect",
-      "trianglePattern",
-      "dotPatternAnimation",
+      "squarePattern",
       "colorCycle",
+      "waveEffect",
       "diagonalRight",
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "hLine",
       "diagonalLeft",
-      "glitchEffect",
       "hueShift",
-      "vLine"
+      "glitchEffect",
+      "trianglePattern",
+      "vLine",
+      "starPatternAnimation"
     ]
   },
   {
     "start": "03-14",
     "end": "03-14",
     "title": [
-      "Bitcoin-themed Stamps by Pierre Bourque"
+      "Artist Pierre Bourque Initiates Bitcoin Themed Stamps"
     ],
     "description": [
-      "On March 14 2014 Pierre Bourque initiated Bitcoin-themed stamps"
+      "On March 14 2014 these legal stamps were made by Canada Post and although never circulated for sales the artist holds the originals"
     ],
     "animations": [
-      "glitchEffect",
-      "vLine",
-      "diamondPattern",
-      "trianglePattern",
-      "pentagonPattern",
-      "dotPatternAnimation"
+      "hueShift",
+      "colorCycle",
+      "diagonalLeft",
+      "squarePattern"
     ]
   },
   {
     "start": "03-16",
     "end": "03-16",
     "title": [
-      "Newsweek Bitcoin’s Face"
+      "Newsweek Bitcoin Face by Ben Wiseman"
     ],
     "description": [
-      "On March 16 2014 Ben Wiseman created the iconic Newsweek cover featuring Dorian Nakamoto"
+      "On March 16 2014 the American illustrator created an iconic Newsweek cover that controversially claimed Dorian Nakamoto as the Bitcoin creator and made him the face of Bitcoin"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "colorCycle",
-      "glitchEffect",
-      "starPatternAnimation",
       "hLine",
-      "squarePattern",
-      "diagonalRight",
-      "pentagonPattern",
-      "hueShift"
+      "trianglePattern",
+      "waveEffect"
     ]
   },
   {
     "start": "04-24",
     "end": "04-24",
     "title": [
-      "Proof of Work Exhibition"
+      "Proof of Work Group Exhibition"
     ],
     "description": [
-      "On April 24 2014 the “Proof of Work” group exhibition was held in San Francisco"
+      "On April 24 2014 Willa Koerner and Jenny Sharaf curated Proof Of Work a human approach to the convergence of art and technology at The Sub in San Francisco CA"
     ],
     "animations": [
-      "trianglePattern",
-      "diagonalLeft",
-      "colorCycle"
+      "squarePattern",
+      "colorCycle",
+      "starPatternAnimation",
+      "hueShift",
+      "glitchEffect",
+      "vLine"
     ]
   },
   {
@@ -401,108 +409,92 @@
       "Official Launch of Monegraph"
     ],
     "description": [
-      "On May 3 2014 Monegraph"
+      "On May 3 2014 Monegraph is the first NFT platform on the NameCoin blockchain that allows people to certify images on the web and tweet out public proof"
     ],
     "animations": [
-      "starPatternAnimation",
+      "diagonalLeft",
       "colorCycle",
-      "squarePattern",
-      "hLine",
-      "glitchEffect",
-      "diamondPattern",
-      "trianglePattern",
-      "dotPatternAnimation",
-      "hueShift",
-      "diagonalLeft"
+      "waveEffect"
     ]
   },
   {
     "start": "05-03",
     "end": "05-03",
     "title": [
-      "Seven on Seven Conference"
+      "Seven on Seven Conference at New Museum"
     ],
     "description": [
-      "On May 3 2014 the Seven on Seven Conference at New Museum saw the creation of the first digital art token"
+      "On May 3 2014 paired by Rhizome Kevin McCoy and Anil Dash built Monegraph within one day creating the first digital art token NFT"
     ],
     "animations": [
-      "pentagonPattern",
-      "diagonalLeft",
-      "dotPatternAnimation",
-      "waveEffect",
-      "starPatternAnimation",
-      "hLine",
-      "glitchEffect",
-      "colorCycle",
-      "trianglePattern",
-      "diamondPattern",
       "squarePattern",
-      "hueShift",
-      "vLine"
+      "diagonalRight",
+      "diagonalLeft",
+      "vLine",
+      "starPatternAnimation",
+      "glitchEffect",
+      "pentagonPattern"
     ]
   },
   {
     "start": "05-14",
     "end": "05-14",
     "title": [
-      "Launch of LazyCoin"
+      "Launch of the Conceptual Currency LazyCoin"
     ],
     "description": [
-      "On May 14 2014 the conceptual currency LazyCoin was launched as a “proof of non-work” currency"
+      "On May 14 2014 LazyCoin is a physical proof of non work currency produced and verified for doing nothing"
     ],
     "animations": [
-      "colorCycle",
-      "diagonalLeft",
-      "vLine",
-      "pentagonPattern",
-      "diamondPattern",
-      "diagonalRight",
-      "hLine",
-      "glitchEffect",
-      "hueShift",
-      "dotPatternAnimation",
-      "starPatternAnimation",
-      "waveEffect"
+      "hLine"
     ]
   },
   {
     "start": "05-28",
     "end": "05-28",
     "title": [
-      "Nakamoto (The Proof)"
+      "Nakamoto The Proof by Emilie Brout and Maxime Marion"
     ],
     "description": [
-      "On May 28 2014 Émilie Brout and Maxime Marion presented “Nakamoto (The Proof)” using a scanned copy of Satoshi Nakamoto’s passport"
+      "On May 28 2014 French artists used the dark net and Bitcoin to acquire a scanned copy of Satoshi Nakamoto’s passport in an artwork"
     ],
     "animations": [
+      "glitchEffect",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diagonalRight",
       "trianglePattern",
       "waveEffect",
-      "vLine",
-      "pentagonPattern",
+      "hueShift",
       "diamondPattern",
       "starPatternAnimation",
-      "diagonalRight",
-      "hueShift",
-      "glitchEffect",
+      "squarePattern",
       "diagonalLeft",
-      "dotPatternAnimation",
-      "hLine",
-      "colorCycle"
+      "colorCycle",
+      "hLine"
     ]
   },
   {
     "start": "05-29",
     "end": "05-29",
     "title": [
-      "Solo Exhibition: Monetary Series"
+      "Solo Exhibition Monetary Series by Jenna Lash"
     ],
     "description": [
-      "On May 29 2014 Jenna Lash held a solo exhibition titled “Monetary Series” at Bitcoin Center NYC"
+      "On May 29 2014 contemporary pointillist painter Lash exhibited her currency themed pieces at Bitcoin Center NYC"
     ],
     "animations": [
-      "hueShift",
       "dotPatternAnimation",
-      "hLine"
+      "trianglePattern",
+      "glitchEffect",
+      "hueShift",
+      "pentagonPattern",
+      "colorCycle",
+      "starPatternAnimation",
+      "hLine",
+      "diagonalRight",
+      "vLine",
+      "diagonalLeft"
     ]
   },
   {
@@ -512,19 +504,10 @@
       "Launch of Cointemporary Bitcoin Art Gallery"
     ],
     "description": [
-      "On June 1 2014 Cointemporary Bitcoin Art Gallery was launched to showcase Bitcoin art"
+      "On June 1 2014 Austrian Cointemporary platform showcases temporary online exhibitions of Bitcoin art available for Bitcoin only"
     ],
     "animations": [
-      "vLine",
-      "diagonalLeft",
-      "starPatternAnimation",
-      "colorCycle",
-      "diamondPattern",
-      "trianglePattern",
-      "hLine",
-      "squarePattern",
-      "glitchEffect",
-      "pentagonPattern"
+      "waveEffect"
     ]
   },
   {
@@ -534,21 +517,14 @@
       "TatianaCoin Launch"
     ],
     "description": [
-      "On June 3 2014 Tatiana Moroz launched TatianaCoin on the CounterParty blockchain"
+      "On June 3 2014 singer and activist Tatiana Moroz launched TatianaCoin a personal token based on the CounterParty blockchain to fund her third studio album"
     ],
     "animations": [
-      "vLine",
-      "pentagonPattern",
       "hueShift",
       "glitchEffect",
-      "diagonalLeft",
-      "squarePattern",
+      "dotPatternAnimation",
       "diamondPattern",
-      "waveEffect",
-      "colorCycle",
-      "starPatternAnimation",
-      "trianglePattern",
-      "hLine"
+      "diagonalRight"
     ]
   },
   {
@@ -558,21 +534,16 @@
       "Tokenization of the OLGA NFT"
     ],
     "description": [
-      "On June 12 2014 JP Janssen tokenized a sketch on the CounterParty blockchain"
+      "On June 12 2014 JP Janssen tokenized a sketch of his girlfriend and himself on the CounterParty blockchain"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "hueShift",
+      "diagonalLeft",
+      "squarePattern",
       "pentagonPattern",
+      "trianglePattern",
+      "colorCycle",
       "diamondPattern",
       "waveEffect",
-      "starPatternAnimation",
-      "squarePattern",
-      "colorCycle",
-      "diagonalLeft",
-      "diagonalRight",
-      "glitchEffect",
-      "vLine",
       "hLine"
     ]
   },
@@ -580,25 +551,24 @@
     "start": "07-21",
     "end": "07-21",
     "title": [
-      "Last (Bitcoin) Supper by Youl"
+      "Last Bitcoin Supper by Youl"
     ],
     "description": [
-      "On July 21 2014 Youl created “Last (Bitcoin) Supper”"
+      "On July 21 2014 French artist Youl created a commissioned artwork for the Bitcoin project which sold on eBay for nearly 3000 dollars"
     ],
     "animations": [
-      "hueShift",
-      "diagonalRight",
-      "glitchEffect",
-      "diamondPattern",
-      "squarePattern",
-      "diagonalLeft",
-      "trianglePattern",
-      "colorCycle",
-      "hLine",
-      "dotPatternAnimation",
+      "pentagonPattern",
       "vLine",
+      "diagonalLeft",
+      "squarePattern",
+      "hLine",
+      "waveEffect",
+      "colorCycle",
+      "hueShift",
+      "glitchEffect",
       "starPatternAnimation",
-      "waveEffect"
+      "trianglePattern",
+      "diamondPattern"
     ]
   },
   {
@@ -608,27 +578,28 @@
       "This Contract is Art by Rhea Myers"
     ],
     "description": [
-      "On July 22 2014 Rhea Myers created “This Contract is Art”"
+      "On July 22 2014 in this conceptual artwork the smart contract can nominate itself as art with a click and payment of the gas fee"
     ],
     "animations": [
-      "pentagonPattern",
-      "diagonalLeft",
+      "starPatternAnimation",
+      "trianglePattern",
       "dotPatternAnimation",
-      "diamondPattern",
-      "hueShift"
+      "hLine",
+      "vLine",
+      "squarePattern"
     ]
   },
   {
     "start": "07-24",
     "end": "07-24",
     "title": [
-      "Ethereum Art Market Launch"
+      "Ethereum Art Market Launch by Rhea Myers"
     ],
     "description": [
-      "On July 24 2014 Rhea Myers launched the first Ethereum art market smart contract"
+      "On July 24 2014 Rhea Myers launched the first Ethereum art market smart contract through which digital artworks can be registered and sold"
     ],
     "animations": [
-      "squarePattern"
+      "diagonalLeft"
     ]
   },
   {
@@ -638,29 +609,36 @@
       "Tokenization of TwitterEggs"
     ],
     "description": [
-      "On July 27 2014 tokenization of TwitterEggs began on NameCoin using the OneCoin dApp"
+      "On July 27 2014 NameCoin users began tokenizing TwitterEggs images using the OneCoin dApp with 277 tokenized images in various background colours"
     ],
     "animations": [
-      "hLine",
-      "colorCycle",
-      "pentagonPattern"
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "glitchEffect",
+      "pentagonPattern",
+      "hueShift",
+      "diagonalRight",
+      "trianglePattern",
+      "waveEffect",
+      "squarePattern",
+      "diamondPattern",
+      "vLine",
+      "diagonalLeft"
     ]
   },
   {
     "start": "09-14",
     "end": "09-14",
     "title": [
-      "NILIcoins NFT Art Project"
+      "Nili Lerner Announces NILIcoins NFT Art Project"
     ],
     "description": [
-      "On September 14 2014 Nili Lerner announced her NILIcoins NFT art project"
+      "On September 14 2014 utilizing Bitcoin Colour Coins Nili Lerner issues her conceptual art coins along with brand name assets"
     ],
     "animations": [
-      "hLine",
-      "squarePattern",
       "diagonalRight",
-      "waveEffect",
-      "colorCycle"
+      "glitchEffect",
+      "hLine"
     ]
   },
   {
@@ -670,15 +648,20 @@
       "BearWhale by Billy Mabrey"
     ],
     "description": [
-      "On October 7 2014 Billy Mabrey created BearWhale depicting a trading chart and the first BearWhale"
+      "On October 7 2014 Texas based Billy Mabrey created BearWhale a painting depicting a trading chart and the first BearWhale"
     ],
     "animations": [
       "waveEffect",
-      "squarePattern",
-      "diamondPattern",
-      "hLine",
+      "diagonalRight",
+      "colorCycle",
       "pentagonPattern",
-      "diagonalRight"
+      "vLine",
+      "squarePattern",
+      "hLine",
+      "glitchEffect",
+      "starPatternAnimation",
+      "trianglePattern",
+      "hueShift"
     ]
   },
   {
@@ -688,10 +671,11 @@
       "The Darknet Group Exhibition"
     ],
     "description": [
-      "On October 18 2014 the exhibition “The Darknet – From Memes to Onionland” was held at Kunst Halle Sankt Gallen"
+      "On October 18 2014 Kunst Halle Sankt Gallen showcased an interdisciplinary exhibition examining themes of copyright privacy illegality and resistance"
     ],
     "animations": [
-      "diagonalRight"
+      "diagonalLeft",
+      "colorCycle"
     ]
   },
   {
@@ -701,21 +685,12 @@
       "Eye Of God by Xania Dorfman"
     ],
     "description": [
-      "On October 27 2014 Xania Dorfman’s “Eye Of God” sold at a conference in Israel"
+      "On October 27 2014 the commissioned artwork for the Inside Bitcoins Conference and Expo in Israel sold for 35 BTC approximately 13000 dollars"
     ],
     "animations": [
       "dotPatternAnimation",
-      "glitchEffect",
       "hueShift",
-      "waveEffect",
-      "squarePattern",
-      "diagonalLeft",
-      "colorCycle",
-      "vLine",
-      "trianglePattern",
-      "starPatternAnimation",
-      "diamondPattern",
-      "pentagonPattern"
+      "diagonalRight"
     ]
   },
   {
@@ -725,14 +700,13 @@
       "The Slaying of BearWhale by Christopher Steininger"
     ],
     "description": [
-      "On November 3 2014 Christopher Steininger created “The Slaying of BearWhale” commemorating a historic sale"
+      "On November 3 2014 commemorating the 30000 BTC sale within 6 hours at a low market price Christopher Steininger created this painting"
     ],
     "animations": [
-      "trianglePattern",
       "glitchEffect",
       "hueShift",
-      "dotPatternAnimation",
-      "pentagonPattern"
+      "colorCycle",
+      "hLine"
     ]
   },
   {
@@ -742,19 +716,11 @@
       "The Slaying of BearWhale by Matt Habel"
     ],
     "description": [
-      "On November 3 2014 Matt Habel created “The Slaying of BearWhale” after winning a commemorative competition"
+      "On November 3 2014 following the competition win with Christopher Steininger Matt Habel created his own version of The Slaying of BearWhale"
     ],
     "animations": [
-      "glitchEffect",
-      "diagonalLeft",
-      "dotPatternAnimation",
-      "hLine",
-      "diamondPattern",
-      "vLine",
       "pentagonPattern",
-      "colorCycle",
-      "trianglePattern",
-      "hueShift"
+      "waveEffect"
     ]
   },
   {
@@ -764,21 +730,15 @@
       "MYSOUL by Rhea Myers"
     ],
     "description": [
-      "On November 21 2014 Rhea Myers tokenized her soul as MYSOUL on the DogeCoin and CounterParty blockchain"
+      "On November 21 2014 Rhea Myers tokenized her soul conceptually as an MYSOUL token on the DogeCoin and CounterParty blockchain"
     ],
     "animations": [
-      "squarePattern",
-      "vLine",
+      "waveEffect",
       "starPatternAnimation",
-      "diagonalRight",
       "glitchEffect",
-      "trianglePattern",
-      "diamondPattern",
-      "dotPatternAnimation",
-      "colorCycle",
-      "hLine",
-      "hueShift",
-      "diagonalLeft"
+      "vLine",
+      "pentagonPattern",
+      "diagonalRight"
     ]
   },
   {
@@ -788,35 +748,34 @@
       "Sarah Meyohas launches BitchCoin"
     ],
     "description": [
-      "On February 15 2015 Sarah Meyohas launched BitchCoin"
+      "On February 15 2015 BitchCoin is an artwork backed currency by Sarah Meyohas aiming to challenge the economics of the art world"
     ],
     "animations": [
-      "diagonalLeft",
+      "trianglePattern",
       "dotPatternAnimation",
+      "squarePattern",
+      "hLine",
+      "diagonalRight",
+      "glitchEffect",
+      "pentagonPattern",
+      "hueShift",
       "diamondPattern",
       "waveEffect",
-      "hueShift",
-      "vLine",
-      "glitchEffect"
+      "diagonalLeft"
     ]
   },
   {
     "start": "03-11",
     "end": "03-11",
     "title": [
-      "First Issued FDCARD"
+      "First issued FDCARD"
     ],
     "description": [
-      "On March 11 2015 the first digital trading cards (FDCARD) were issued on the CounterParty blockchain"
+      "On March 11 2015 digital trading cards issued on the CounterParty blockchain by EverdreamSoft game studio later became part of the game Spells of Genesis"
     ],
     "animations": [
-      "hLine",
-      "glitchEffect",
-      "squarePattern",
-      "diagonalLeft",
-      "colorCycle",
       "starPatternAnimation",
-      "dotPatternAnimation",
+      "squarePattern",
       "hueShift"
     ]
   },
@@ -827,10 +786,11 @@
       "Official Launch of Scarab Experiment"
     ],
     "description": [
-      "On March 16 2015 the Scarab Experiment"
+      "On March 16 2015 Scarab is both an artist collective and a work of art based on the CounterParty blockchain"
     ],
     "animations": [
-      "diamondPattern",
+      "hueShift",
+      "diagonalLeft",
       "diagonalRight"
     ]
   },
@@ -841,118 +801,150 @@
       "Bitcoin Puzzle Painting by Coin Artist"
     ],
     "description": [
-      "On April 9 2015 Coin Artist Marguerite deCourcelle released a puzzle painting with a 4.87 BTC reward"
+      "On April 9 2015 Coin Artist Marguerite deCourcelle released her puzzle painting which raised attention for a 4.87 BTC reward and took 3 years to solve"
     ],
     "animations": [
-      "diagonalLeft",
-      "squarePattern"
+      "pentagonPattern",
+      "waveEffect",
+      "hueShift",
+      "glitchEffect",
+      "diagonalRight",
+      "colorCycle",
+      "squarePattern",
+      "diamondPattern",
+      "vLine",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diagonalLeft"
     ]
   },
   {
     "start": "04-24",
     "end": "04-24",
     "title": [
-      "MAK Vienna Digital Artwork Purchase"
+      "MAK Vienna becomes first art museum to buy digital artwork with Bitcoin"
     ],
     "description": [
-      "On April 24 2015 MAK Vienna became the first art museum to purchase digital artwork with Bitcoin"
+      "On April 24 2015 Austrian Museum of Applied Arts purchased a digital artwork by Harm van den Dorpel using Bitcoin"
     ],
     "animations": [
+      "squarePattern",
       "waveEffect",
-      "hueShift",
       "trianglePattern",
-      "glitchEffect"
+      "hLine",
+      "diagonalRight",
+      "glitchEffect",
+      "hueShift",
+      "colorCycle",
+      "dotPatternAnimation",
+      "pentagonPattern"
     ]
   },
   {
     "start": "07-07",
     "end": "07-07",
     "title": [
-      "Launch of Verisart"
+      "Official Launch of Verisart"
     ],
     "description": [
-      "On July 7 2015 Verisart was launched to create digital certificates for art and collectibles"
+      "On July 7 2015 Los Angeles based Verisart launched to create digital certificates for art and collectibles backed by blockchain"
     ],
     "animations": [
-      "hueShift",
+      "diagonalLeft",
+      "squarePattern",
+      "diamondPattern",
+      "vLine",
+      "starPatternAnimation",
       "dotPatternAnimation",
-      "diagonalRight",
-      "hLine",
-      "diamondPattern"
+      "hLine"
     ]
   },
   {
     "start": "07-17",
     "end": "07-17",
     "title": [
-      "First Spore of Plantoid by Primavera De Filippi"
+      "Primavera De Filippi creates the First Spore of her Plantoid"
     ],
     "description": [
-      "On July 17 2015 Primavera De Filippi created the first spore of her blockchain-based Plantoid"
+      "On July 17 2015 the first spore of the autonomous blockchain based lifeform was created during a workshop at the Stadtwerkstatt in Linz Austria"
     ],
     "animations": [
-      "hLine",
-      "diamondPattern",
-      "colorCycle",
-      "diagonalLeft",
-      "hueShift",
-      "dotPatternAnimation",
+      "pentagonPattern",
+      "waveEffect",
+      "vLine",
       "diagonalRight",
-      "waveEffect"
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "glitchEffect",
+      "hLine",
+      "starPatternAnimation"
     ]
   },
   {
     "start": "10-17",
     "end": "10-17",
     "title": [
-      "The Human Face of Cryptoeconomies Exhibition"
+      "Group Exhibition The Human Face of Cryptoeconomies"
     ],
     "description": [
-      "On October 17 2015 Furtherfield Gallery hosted “The Human Face of Cryptoeconomies” exhibition"
+      "On October 17 2015 Furtherfield Gallery presented artworks that reveal how we might produce exchange and value things differently in the age of blockchain"
     ],
     "animations": [
+      "starPatternAnimation",
+      "colorCycle",
+      "pentagonPattern",
+      "squarePattern",
+      "trianglePattern",
+      "vLine",
       "hueShift",
-      "glitchEffect",
-      "squarePattern"
+      "diagonalRight",
+      "dotPatternAnimation",
+      "diagonalLeft"
     ]
   },
   {
     "start": "10-31",
     "end": "10-31",
     "title": [
-      "Launch of Ξtheria Decentralized Virtual World"
+      "Launch of the Ξtheria Decentralized Virtual World"
     ],
     "description": [
-      "On October 31 2015 the Ξtheria decentralized virtual world was launched at Devcon1 in London"
+      "On October 31 2015 Cyrus Adkisson presented and launched Ξtheria as the first decentralized virtual world at Devcon1 in London"
     ],
     "animations": [
-      "diagonalLeft",
-      "trianglePattern",
+      "pentagonPattern",
+      "hueShift",
       "squarePattern",
-      "hLine"
+      "hLine",
+      "diamondPattern",
+      "starPatternAnimation",
+      "vLine",
+      "colorCycle",
+      "trianglePattern"
     ]
   },
   {
     "start": "11-12",
     "end": "11-12",
     "title": [
-      "Cryptograffiti Raises Bitcoin for Dorian Nakamoto"
+      "Cryptograffiti raises Bitcoin for Dorian Nakamoto"
     ],
     "description": [
-      "On November 12 2015 Cryptograffiti raised 17.3 Bitcoin for Dorian Nakamoto"
+      "On November 12 2015 a collage of destructed credit cards raised 17.3 Bitcoin for Dorian Nakamoto"
     ],
     "animations": [
-      "diagonalLeft",
-      "glitchEffect",
-      "vLine",
-      "pentagonPattern",
-      "colorCycle",
-      "starPatternAnimation",
-      "diamondPattern",
-      "dotPatternAnimation",
+      "trianglePattern",
       "hLine",
-      "diagonalRight",
-      "waveEffect"
+      "diagonalLeft",
+      "squarePattern",
+      "glitchEffect",
+      "diamondPattern",
+      "pentagonPattern",
+      "waveEffect",
+      "dotPatternAnimation",
+      "vLine",
+      "hueShift",
+      "diagonalRight"
     ]
   },
   {
@@ -962,20 +954,22 @@
       "Random Darknet Shopper by !Mediengruppe Bitnik"
     ],
     "description": [
-      "On December 11 2015 the “Random Darknet Shopper” showcased a shopping bot using Bitcoin"
+      "On December 11 2015 artists showcased a shopping bot that uses Bitcoin to buy random items in the darknet at Horatio Junior Gallery in London"
     ],
     "animations": [
-      "hLine",
-      "colorCycle",
-      "vLine",
-      "trianglePattern",
-      "squarePattern",
-      "diagonalLeft",
-      "dotPatternAnimation",
-      "diamondPattern",
-      "waveEffect",
       "diagonalRight",
-      "hueShift"
+      "hueShift",
+      "waveEffect",
+      "hLine",
+      "trianglePattern",
+      "diamondPattern",
+      "vLine",
+      "colorCycle",
+      "squarePattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "pentagonPattern",
+      "diagonalLeft"
     ]
   },
   {
@@ -985,16 +979,11 @@
       "Launch of the Left Gallery Marketplace"
     ],
     "description": [
-      "On December 15 2015 Left Gallery Marketplace was launched as a digital art gallery on Ascribe"
+      "On December 15 2015 artist Harm van den Dorpel and Paloma Rodriguez Carrington launched Left Gallery as a digital art gallery based on the Ascribe platform"
     ],
     "animations": [
-      "hueShift",
-      "colorCycle",
-      "diagonalRight",
-      "diamondPattern",
       "glitchEffect",
-      "hLine",
-      "squarePattern"
+      "dotPatternAnimation"
     ]
   },
   {
@@ -1004,41 +993,39 @@
       "HODL by Cryptograffiti"
     ],
     "description": [
-      "On February 11 2016 Cryptograffiti created HODL prints and sculptures inspired by pop art"
+      "On February 11 2016 Cryptograffiti created his HODL prints and sculptures inspired by pop art artist Robert Indiana"
     ],
     "animations": [
-      "waveEffect",
-      "trianglePattern",
-      "glitchEffect",
-      "diagonalLeft",
-      "diagonalRight",
-      "diamondPattern",
-      "squarePattern",
-      "vLine",
-      "hueShift",
       "dotPatternAnimation",
+      "squarePattern",
+      "colorCycle",
       "hLine",
-      "starPatternAnimation"
+      "diagonalLeft",
+      "diamondPattern",
+      "vLine"
     ]
   },
   {
     "start": "03-28",
     "end": "03-28",
     "title": [
-      "Furtherfield Showcase: Art and the Blockchain"
+      "Furtherfield Showcase Art and the Blockchain"
     ],
     "description": [
-      "On March 28 2016 Furtherfield Showcase curated by Ruth Catlow was exhibited at the Digital Catapult"
+      "On March 28 2016 Ruth Catlow curated Furtherfield Showcase which was exhibited at the Digital Catapult in London"
     ],
     "animations": [
-      "pentagonPattern",
-      "squarePattern",
       "diagonalLeft",
-      "diamondPattern",
-      "hueShift",
       "vLine",
-      "dotPatternAnimation",
+      "pentagonPattern",
+      "colorCycle",
+      "hueShift",
+      "squarePattern",
       "trianglePattern",
+      "waveEffect",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hLine",
       "diagonalRight"
     ]
   },
@@ -1046,61 +1033,69 @@
     "start": "04-15",
     "end": "04-15",
     "title": [
-      "Physical Bitcoin and Crypto Encyclopedia"
+      "Physical Bitcoin and Crypto Encyclopedia by Elias Ahonen"
     ],
     "description": [
-      "On April 15 2016 Elias Ahonen published the first physical encyclopedia cataloging Bitcoin and crypto collectibles"
+      "On April 15 2016 Elias Ahonen published the first physical book cataloging Bitcoin and cryptocurrency collectibles"
     ],
     "animations": [
-      "squarePattern",
-      "diagonalLeft",
-      "starPatternAnimation",
-      "hueShift",
-      "glitchEffect",
-      "trianglePattern",
+      "hLine",
       "diamondPattern",
-      "dotPatternAnimation"
+      "starPatternAnimation",
+      "colorCycle",
+      "pentagonPattern",
+      "diagonalLeft",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "squarePattern",
+      "vLine",
+      "hueShift",
+      "diagonalRight",
+      "waveEffect"
     ]
   },
   {
     "start": "05-25",
     "end": "05-25",
     "title": [
-      "Proof Of Art – The Bitcoin Art Show"
+      "Proof Of Art The Bitcoin Art Show"
     ],
     "description": [
-      "On May 25 2016 the “Proof Of Art – The Bitcoin Art Show” group exhibition was hosted by Cryptograffiti"
+      "On May 25 2016 a blockchain themed group exhibition hosted by Cryptograffiti and the San Francisco Bitcoin Meetup at Code and Canvas"
     ],
     "animations": [
-      "diamondPattern",
-      "diagonalRight",
-      "squarePattern",
-      "glitchEffect",
-      "trianglePattern",
-      "diagonalLeft",
-      "colorCycle",
-      "pentagonPattern",
       "hueShift",
-      "starPatternAnimation"
+      "waveEffect",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hLine",
+      "diagonalLeft",
+      "pentagonPattern",
+      "colorCycle",
+      "vLine",
+      "squarePattern",
+      "trianglePattern"
     ]
   },
   {
     "start": "09-08",
     "end": "09-08",
     "title": [
-      "Release of Bittercoin – the Worst Miner Ever"
+      "Release of Bittercoin The Worst Miner Ever"
     ],
     "description": [
-      "On September 8 2016 Bittercoin was released after hacking an old calculator to create a Bitcoin miner"
+      "On September 8 2016 Martín Nadal and César Escudero Andaluz hacked an old calculator machine to create a miner validating pending Bitcoin transactions released at Ars Electronica"
     ],
     "animations": [
-      "hueShift",
-      "waveEffect",
-      "pentagonPattern",
-      "diamondPattern",
-      "vLine",
+      "starPatternAnimation",
+      "hLine",
       "trianglePattern",
-      "hLine"
+      "dotPatternAnimation",
+      "waveEffect",
+      "squarePattern",
+      "colorCycle",
+      "diamondPattern",
+      "vLine"
     ]
   },
   {
@@ -1110,11 +1105,17 @@
       "First Rare Pepes"
     ],
     "description": [
-      "On September 9 2016 the first Rare Pepes"
+      "On September 9 2016 the first user or artist issued trading cards based on the CounterParty blockchain were released and are considered the start of the crypto art community"
     ],
     "animations": [
+      "diamondPattern",
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern",
+      "pentagonPattern",
+      "dotPatternAnimation",
       "glitchEffect",
-      "diamondPattern"
+      "diagonalRight"
     ]
   },
   {
@@ -1124,18 +1125,18 @@
       "Launch of Rare Pepe Wallet and Marketplace"
     ],
     "description": [
-      "On September 14 2016 Rare Pepe Wallet and Marketplace was launched for collecting and exchanging Rare Pepes"
+      "On September 14 2016 Joe Looney created Rare Pepe Wallet a dedicated platform to collect display and exchange Rare Pepes"
     ],
     "animations": [
-      "starPatternAnimation",
-      "pentagonPattern",
-      "diagonalRight",
-      "diamondPattern",
       "waveEffect",
+      "dotPatternAnimation",
+      "starPatternAnimation",
       "colorCycle",
+      "glitchEffect",
       "trianglePattern",
-      "diagonalLeft",
-      "hueShift"
+      "diamondPattern",
+      "hueShift",
+      "vLine"
     ]
   },
   {
@@ -1145,20 +1146,10 @@
       "Launch of Book of Orbs Marketplace"
     ],
     "description": [
-      "On October 12 2016 the Book of Orbs Marketplace was launched as a CounterParty exchange for game items"
+      "On October 12 2016 Book of Orbs is a CounterParty exchange for game items supporting game related currencies such as BitCrystals WillCoins and PepeCash"
     ],
     "animations": [
-      "squarePattern",
-      "dotPatternAnimation",
-      "vLine",
-      "diamondPattern",
-      "starPatternAnimation",
-      "waveEffect",
-      "pentagonPattern",
-      "hLine",
-      "glitchEffect",
-      "diagonalLeft",
-      "trianglePattern"
+      "pentagonPattern"
     ]
   },
   {
@@ -1168,29 +1159,33 @@
       "DJPEPE Rare Pepe First Audio NFT"
     ],
     "description": [
-      "On October 16 2016 DJPEPE released the first Rare Pepe NFT that unlocks audio content"
+      "On October 16 2016 the CounterParty based Rare Pepe card by DJ J-SCRILLA unlocks audio content through message signing"
     ],
     "animations": [
-      "dotPatternAnimation",
+      "diamondPattern",
+      "glitchEffect",
       "pentagonPattern",
-      "squarePattern",
+      "hueShift",
+      "dotPatternAnimation",
+      "waveEffect",
       "colorCycle",
-      "hLine"
+      "diagonalRight",
+      "starPatternAnimation",
+      "hLine",
+      "squarePattern"
     ]
   },
   {
     "start": "11-04",
     "end": "11-04",
     "title": [
-      "The Revolution Will Not Be Centralized Exhibition"
+      "Solo Exhibition The Revolution Will Not Be Centralized by Cryptograffiti"
     ],
     "description": [
-      "On November 4 2016 Cryptograffiti held his solo exhibition “The Revolution Will Not Be Centralized” in San Francisco"
+      "On November 4 2016 Cryptograffiti showcased his Bitcoin themed solo exhibition at the Digital Garage in San Francisco CA"
     ],
     "animations": [
-      "glitchEffect",
-      "diagonalRight",
-      "hueShift"
+      "diamondPattern"
     ]
   },
   {
@@ -1200,22 +1195,21 @@
       "Launch of Pixel Maps"
     ],
     "description": [
-      "On November 18 2016 the Pixel Maps project featuring 3"
+      "On November 18 2016 Pixel Map is a project featuring 3969 customizable 16x16 pixel squares backed by Ethereum"
     ],
     "animations": [
-      "starPatternAnimation",
-      "diagonalRight",
-      "squarePattern",
-      "pentagonPattern",
-      "vLine",
-      "diagonalLeft",
-      "waveEffect",
-      "trianglePattern",
-      "hueShift",
       "diamondPattern",
-      "dotPatternAnimation",
+      "hLine",
+      "vLine",
+      "diagonalRight",
+      "waveEffect",
+      "starPatternAnimation",
+      "squarePattern",
       "glitchEffect",
-      "hLine"
+      "hueShift",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "pentagonPattern"
     ]
   },
   {
@@ -1225,34 +1219,31 @@
       "Launch of the Age Of Chains Trading Card Game"
     ],
     "description": [
-      "On November 25 2016 the Age Of Chains digital trading card game was launched on the CounterParty blockchain"
+      "On November 25 2016 a digital trading card game based on the CounterParty blockchain was launched in Berlin Germany"
     ],
     "animations": [
-      "trianglePattern",
-      "dotPatternAnimation",
-      "pentagonPattern",
-      "diagonalRight",
       "hLine",
-      "diamondPattern",
-      "vLine",
-      "squarePattern"
+      "vLine"
     ]
   },
   {
     "start": "01-21",
     "end": "01-21",
     "title": [
-      "Hammer Projects: Simon Denny Solo Exhibition"
+      "Hammer Projects Simon Denny Solo Exhibition"
     ],
     "description": [
-      "On January 21 2017 Simon Denny’s solo exhibition “Hammer Projects” was held at the Hammer Museum"
+      "On January 21 2017 Simon Denny showcased his sculptural installations exploring blockchain technology at the Hammer Museum"
     ],
     "animations": [
+      "dotPatternAnimation",
       "waveEffect",
-      "vLine",
-      "starPatternAnimation",
+      "pentagonPattern",
       "squarePattern",
-      "glitchEffect"
+      "hueShift",
+      "colorCycle",
+      "diagonalRight",
+      "starPatternAnimation"
     ]
   },
   {
@@ -1262,40 +1253,29 @@
       "First Episode of AOTB Art On The Blockchain Podcast"
     ],
     "description": [
-      "On March 18 2017 the first episode of the AOTB Art On The Blockchain Podcast aired"
+      "On March 18 2017 DJ JSCRILLA and Cynthia Gayton aired the first episode of their podcast on digital tokens art and blockchain"
     ],
     "animations": [
-      "dotPatternAnimation",
-      "waveEffect",
-      "squarePattern",
-      "glitchEffect",
-      "diagonalLeft",
-      "hLine",
       "pentagonPattern",
-      "hueShift",
-      "trianglePattern",
-      "diagonalRight"
+      "diagonalLeft"
     ]
   },
   {
     "start": "04-08",
     "end": "04-08",
     "title": [
-      "Launch of CounterParty-based Memorychain"
+      "Launch of CounterParty based Memorychain"
     ],
     "description": [
-      "On April 8 2017 Memorychain"
+      "On April 8 2017 Memorychain a community driven initiative on CounterParty in Asia was launched similar to Rare Pepe"
     ],
     "animations": [
-      "squarePattern",
-      "hLine",
-      "dotPatternAnimation",
-      "colorCycle",
       "trianglePattern",
-      "vLine",
-      "diagonalRight",
-      "diamondPattern",
-      "hueShift"
+      "hLine",
+      "diagonalLeft",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "diagonalRight"
     ]
   },
   {
@@ -1305,20 +1285,5496 @@
       "Official Launch of Spells of Genesis"
     ],
     "description": [
-      "On April 20 2017 the digital card game Spells of Genesis was officially launched"
+      "On April 20 2017 the digital card game Spells of Genesis based on the CounterParty blockchain was officially launched"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "diamondPattern",
+      "vLine",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "hLine",
+      "waveEffect",
+      "pentagonPattern",
+      "glitchEffect",
+      "hueShift",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "05-04",
+    "end": "05-04",
+    "title": [
+      "Launch of the ENS Naming Protocol"
+    ],
+    "description": [
+      "On May 4 2017 the Ethereum Name Service was launched establishing a blockchain naming standard for decentralized identities"
+    ],
+    "animations": [
+      "diagonalRight",
+      "waveEffect",
+      "vLine",
+      "hLine",
+      "squarePattern",
+      "trianglePattern",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "hueShift",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "05-09",
+    "end": "05-09",
+    "title": [
+      "Launch of Curio Cards"
+    ],
+    "description": [
+      "On May 9 2017 Curio Cards were launched as rare digital art cards on the Ethereum blockchain"
+    ],
+    "animations": [
+      "waveEffect",
+      "dotPatternAnimation",
+      "colorCycle",
+      "diagonalLeft",
+      "trianglePattern",
+      "vLine",
+      "hLine",
+      "diamondPattern",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "05-20",
+    "end": "05-20",
+    "title": [
+      "Group Exhibition New World Order at Furtherfield"
+    ],
+    "description": [
+      "On May 20 2017 a travelling blockchain themed group exhibition was held at Furtherfield in London"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "06-22",
+    "end": "06-22",
+    "title": [
+      "Official Launch of CryptoPunks"
+    ],
+    "description": [
+      "On June 22 2017 Larva Labs issued 10000 CryptoPunks free on the Ethereum blockchain as digital collectibles"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "vLine",
+      "trianglePattern",
+      "waveEffect",
+      "diagonalRight",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "07-13",
+    "end": "07-13",
+    "title": [
+      "Christian Langalis Shows Buy Bitcoin Sign"
+    ],
+    "description": [
+      "On July 13 2017 Christian Langalis performed with a Buy Bitcoin sign which became a popular meme"
+    ],
+    "animations": [
+      "waveEffect",
+      "trianglePattern",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "squarePattern",
+      "hueShift",
+      "glitchEffect",
+      "colorCycle",
+      "hLine",
+      "pentagonPattern",
+      "diagonalRight",
+      "starPatternAnimation",
+      "vLine"
+    ]
+  },
+  {
+    "start": "07-21",
+    "end": "07-21",
+    "title": [
+      "Launch of Oasis Mining"
+    ],
+    "description": [
+      "On July 21 2017 Oasis Mining a Japanese card project forked from Memorychain was launched without thematic daily restrictions"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalRight",
+      "pentagonPattern",
+      "squarePattern",
+      "colorCycle",
+      "hLine",
+      "diagonalLeft",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "08-09",
+    "end": "08-09",
+    "title": [
+      "Launch of MoonCatsRescue"
+    ],
+    "description": [
+      "On August 9 2017 the ERC20 based MoonCatsRescue crypto collectible project was launched and rediscovered in 2021 with rapid sales"
+    ],
+    "animations": [
+      "diamondPattern",
+      "colorCycle",
+      "vLine",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "waveEffect",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "08-12",
+    "end": "08-12",
+    "title": [
+      "Launch of ArtOlin Marketplace"
+    ],
+    "description": [
+      "On August 12 2017 artist Gus Grillasca launched ArtOlin a digital art marketplace on CounterParty which later expanded to Ethereum"
+    ],
+    "animations": [
+      "diagonalRight",
+      "squarePattern",
+      "waveEffect",
+      "glitchEffect",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "hLine",
+      "starPatternAnimation",
+      "diamondPattern",
+      "trianglePattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "08-16",
+    "end": "08-16",
+    "title": [
+      "First Release of Bail Block Application"
+    ],
+    "description": [
+      "On August 16 2017 Bail Block an app addressing the broken justice system by raising money for bail funds through mining Monero was released"
+    ],
+    "animations": [
+      "trianglePattern",
+      "starPatternAnimation",
+      "squarePattern",
+      "colorCycle",
+      "pentagonPattern",
+      "diamondPattern",
+      "waveEffect",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "08-30",
+    "end": "08-30",
+    "title": [
+      "Mitchell F Chan Releases Digital Zones of Immaterial Pictorial Sensibility"
+    ],
+    "description": [
+      "On August 30 2017 Mitchell F Chan released an invisible conceptual piece digitalizing Yves Klein’s Empty Spaces with non fungible attributes"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "09-12",
+    "end": "09-12",
+    "title": [
+      "Publication of Artists ReThinking the Blockchain"
+    ],
+    "description": [
+      "On September 12 2017 a book edited by Ruth Catlow and others was published featuring blockchain art pioneers"
+    ],
+    "animations": [
+      "hueShift",
+      "diamondPattern",
+      "hLine",
+      "trianglePattern",
+      "squarePattern",
+      "waveEffect",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "glitchEffect",
+      "pentagonPattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "09-24",
+    "end": "09-24",
+    "title": [
+      "Julian Oliver Exhibits Harvest in the Skovde Art Museum"
+    ],
+    "description": [
+      "On September 24 2017 Julian Oliver showcased Harvest an artwork using wind energy to mine cryptocurrency at the Skovde Art Museum"
+    ],
+    "animations": [
+      "hLine",
+      "starPatternAnimation",
+      "glitchEffect",
+      "pentagonPattern",
+      "colorCycle",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "trianglePattern",
+      "diagonalRight",
+      "hueShift",
+      "vLine",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "10-20",
+    "end": "10-20",
+    "title": [
+      "Official Launch of CryptoKitties"
+    ],
+    "description": [
+      "On October 20 2017 Dapper Labs launched CryptoKitties a digital collectible cat project on the Ethereum blockchain that popularized NFTs"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "vLine",
+      "hueShift",
+      "colorCycle",
+      "diamondPattern",
+      "squarePattern",
+      "diagonalRight",
+      "trianglePattern",
+      "hLine",
+      "starPatternAnimation",
+      "waveEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "10-20",
+    "end": "10-20",
+    "title": [
+      "Launch of the Lunar Tokens"
+    ],
+    "description": [
+      "On October 20 2017 the Lunar Tokens project split the moon into 400 collectible plots as a decentralized real estate project"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "10-21",
+    "end": "10-21",
+    "title": [
+      "Exhibition Open Codes The World as a Field of Data"
+    ],
+    "description": [
+      "On October 21 2017 an exhibition curated at the ZKM in Germany examined blockchain art and data as a field of study"
+    ],
+    "animations": [
+      "glitchEffect",
+      "squarePattern",
+      "hLine"
+    ]
+  },
+  {
+    "start": "10-28",
+    "end": "10-28",
+    "title": [
+      "Max Dovey Showcases Breath BRH Respiratory Mining"
+    ],
+    "description": [
+      "On October 28 2017 Max Dovey presented a conceptual piece using human respiration to mine cryptocurrency at Generator Projects in Dundee Scotland"
+    ],
+    "animations": [
+      "squarePattern",
+      "starPatternAnimation",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "11-01",
+    "end": "11-01",
+    "title": [
+      "Official Launch of DADA"
+    ],
+    "description": [
+      "On November 1 2017 DADA launched its first collection Creeps and Weirdos initiating a new platform for rare digital artworks"
+    ],
+    "animations": [
+      "hueShift",
+      "diamondPattern",
+      "waveEffect",
+      "glitchEffect",
+      "pentagonPattern",
+      "diagonalRight",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "11-10",
+    "end": "11-10",
+    "title": [
+      "Sarah Friend Showcases Clickmine"
+    ],
+    "description": [
+      "On November 10 2017 Sarah Friend presented Clickmine a hyperinflationary ERC20 token minted by a clicking game at the NEoN Digital Arts Festival"
+    ],
+    "animations": [
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "11-12",
+    "end": "11-12",
+    "title": [
+      "Launch of CryptoCats"
+    ],
+    "description": [
+      "On November 12 2017 an early Australian crypto collectible project CryptoCats released 625 8bit cats in three series and was rediscovered in 2021"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "glitchEffect",
+      "diamondPattern",
+      "pentagonPattern",
+      "hueShift",
+      "dotPatternAnimation",
+      "vLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "11-16",
+    "end": "11-16",
+    "title": [
+      "Launch of the Slothicorn Crypto Art Collective"
+    ],
+    "description": [
+      "On November 16 2017 artist Stellabelle launched the Slothicorn Crypto Art Collective to educate about crypto projects based on the Steem blockchain"
+    ],
+    "animations": [
+      "diamondPattern",
+      "trianglePattern",
+      "diagonalRight",
+      "colorCycle",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "hLine",
+      "hueShift",
+      "vLine",
+      "glitchEffect",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "12-18",
+    "end": "12-18",
+    "title": [
+      "Launch of the Etheremon Game"
+    ],
+    "description": [
+      "On December 18 2017 the Ethereum based monster raising and battle game Etheremon was launched with all monsters and many in game assets as NFTs"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "12-23",
+    "end": "12-23",
+    "title": [
+      "Launch of WeiCards"
+    ],
+    "description": [
+      "On December 23 2017 WeiCards a decentralized website featuring 100 customizable NFT cards was launched"
+    ],
+    "animations": [
+      "hueShift",
+      "hLine",
+      "diagonalRight",
+      "starPatternAnimation",
+      "glitchEffect",
+      "vLine"
+    ]
+  },
+  {
+    "start": "12-26",
+    "end": "12-26",
+    "title": [
+      "Launch of EtherRocks Collectibles"
+    ],
+    "description": [
+      "On December 26 2017 EtherRocks a collection of 100 digital pet rocks minted on Ethereum were released with a bonding curve pricing model"
+    ],
+    "animations": [
+      "trianglePattern",
+      "glitchEffect",
+      "waveEffect",
+      "hueShift",
+      "vLine",
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "diagonalRight",
+      "squarePattern",
+      "pentagonPattern",
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-29",
+    "end": "12-29",
+    "title": [
+      "Official Launch of OpenSea"
+    ],
+    "description": [
+      "On December 29 2017 OpenSea launched its alpha as the first decentralized exchange and marketplace for digital collectibles"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "hLine",
+      "waveEffect",
+      "glitchEffect",
+      "diagonalRight",
+      "colorCycle",
+      "diagonalLeft",
+      "vLine"
+    ]
+  },
+  {
+    "start": "01-07",
+    "end": "01-07",
+    "title": [
+      "Launch of CryptoCards"
+    ],
+    "description": [
+      "On January 7 2018 CryptoCards digital collectible NFT cards documenting essential Bitcoin milestones were launched"
+    ],
+    "animations": [
+      "hLine",
+      "vLine",
+      "squarePattern",
+      "colorCycle",
+      "diagonalRight",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "01-08",
+    "end": "01-08",
+    "title": [
+      "Kevin Abosch Released IMACOIN"
+    ],
+    "description": [
+      "On January 8 2018 Kevin Abosch released IMACOIN exploring the commodification of humans using 10m ERC20 tokens and 100 physical pieces created with his blood"
+    ],
+    "animations": [
+      "hueShift",
+      "vLine",
+      "diamondPattern",
+      "waveEffect",
+      "diagonalRight",
+      "hLine",
+      "pentagonPattern",
+      "colorCycle",
+      "trianglePattern",
+      "glitchEffect",
+      "starPatternAnimation",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "01-11",
+    "end": "01-11",
+    "title": [
+      "Group Exhibition New World Order at Aksioma"
+    ],
+    "description": [
+      "On January 11 2018 a travelling blockchain themed group exhibition was held at Aksioma in Ljubljana Slovenia"
+    ],
+    "animations": [
+      "waveEffect",
+      "glitchEffect",
+      "hueShift",
+      "pentagonPattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "01-14",
+    "end": "01-14",
+    "title": [
+      "Rare Art Festival and Auction of Rare Pepe"
+    ],
+    "description": [
+      "On January 14 2018 the sale of a Rare Pepe card at the Rare Digital Art Festival in New York went viral with a sale equivalent to 38500 dollars"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "vLine",
+      "squarePattern",
+      "starPatternAnimation",
+      "diamondPattern",
+      "colorCycle",
+      "hLine",
+      "diagonalLeft",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "01-22",
+    "end": "01-22",
+    "title": [
+      "Launch of EtherTulips"
+    ],
+    "description": [
+      "On January 22 2018 EtherTulips a blockchain collectible project on Ethereum was launched and enables secure trading and battles"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern",
+      "pentagonPattern",
+      "hLine",
+      "diagonalRight",
+      "starPatternAnimation",
+      "colorCycle",
+      "glitchEffect",
+      "hueShift",
+      "diamondPattern",
+      "vLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "02-01",
+    "end": "02-01",
+    "title": [
+      "Launch of Fishbank Alpha"
+    ],
+    "description": [
+      "On February 1 2018 Fishbank Alpha a multiplayer battle game based on Ethereum smart contracts allowing players to collect and trade crypto fish tokens was launched"
+    ],
+    "animations": [
+      "trianglePattern",
+      "hueShift",
+      "pentagonPattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "colorCycle",
+      "glitchEffect",
+      "hLine",
+      "diagonalRight",
+      "waveEffect",
+      "diagonalLeft",
+      "vLine"
+    ]
+  },
+  {
+    "start": "02-01",
+    "end": "02-01",
+    "title": [
+      "Official Launch of Bitcorn Simulation Game"
+    ],
+    "description": [
+      "On February 1 2018 Bitcorn a game where players harvest farms or publish corn meme cards on CounterParty was launched"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "hueShift",
+      "vLine",
+      "trianglePattern",
+      "diamondPattern",
+      "glitchEffect",
+      "colorCycle",
+      "waveEffect",
+      "hLine"
+    ]
+  },
+  {
+    "start": "02-02",
+    "end": "02-02",
+    "title": [
+      "Launch of ETHMap"
+    ],
+    "description": [
+      "On February 2 2018 ETHMap a project featuring 178 tradable zones created by the developer of WeiCards was launched"
+    ],
+    "animations": [
+      "colorCycle",
+      "starPatternAnimation",
+      "hueShift",
+      "hLine",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "02-11",
+    "end": "02-11",
+    "title": [
+      "Group Exhibition New World Order at Drugo More"
+    ],
+    "description": [
+      "On February 11 2018 a travelling blockchain themed group exhibition was held at Gallery Filodrammatica in Rijeka Croatia"
+    ],
+    "animations": [
+      "colorCycle",
+      "diagonalRight",
+      "waveEffect",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "02-15",
+    "end": "02-15",
+    "title": [
+      "Kevin Abosch Sells Forever Rose"
+    ],
+    "description": [
+      "On February 15 2018 Kevin Abosch sold his crypto artwork Forever Rose for 1 million USD celebrating Valentine’s Day and creating fractional art"
+    ],
+    "animations": [
+      "hueShift",
+      "pentagonPattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "02-18",
+    "end": "02-18",
+    "title": [
+      "Official Launch of Axie Infinity Game Presale"
+    ],
+    "description": [
+      "On February 18 2018 Axie Infinity a digital pet universe game was launched with a presale of tokens enabling gameplay and ecosystem contributions"
+    ],
+    "animations": [
+      "hLine",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "waveEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "03-05",
+    "end": "03-05",
+    "title": [
+      "Launch of Etherlambos"
+    ],
+    "description": [
+      "On March 5 2018 Etherlambos NFT collectibles were launched featuring Lambo designs that could be upgraded through smart contract determined parameters"
+    ],
+    "animations": [
+      "trianglePattern",
+      "diamondPattern",
+      "glitchEffect",
+      "diagonalLeft",
+      "waveEffect",
+      "starPatternAnimation",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "03-22",
+    "end": "03-22",
+    "title": [
+      "Launch of Jonas Lund Token"
+    ],
+    "description": [
+      "On March 22 2018 Jonas Lund launched his token enabling token holders to participate in decisions regarding his artistic practice"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "03-23",
+    "end": "03-23",
+    "title": [
+      "Launch of Kaleidoscope Marketplace"
+    ],
+    "description": [
+      "On March 23 2018 Kaleidoscope launched as a digital directory and marketplace for CounterParty based crypto collectibles and digital art"
+    ],
+    "animations": [
+      "diamondPattern",
+      "starPatternAnimation",
+      "trianglePattern",
+      "squarePattern",
+      "diagonalLeft",
+      "pentagonPattern",
+      "colorCycle",
+      "hLine",
+      "glitchEffect",
+      "diagonalRight",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "03-24",
+    "end": "03-24",
+    "title": [
+      "Solo Exhibition New Money by Andy Bauch"
+    ],
+    "description": [
+      "On March 24 2018 Andy Bauch presented his solo exhibition exploring the value of art and money with lego based paintings and bitcoin reward puzzles"
+    ],
+    "animations": [
+      "vLine",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hLine"
+    ]
+  },
+  {
+    "start": "03-24",
+    "end": "03-24",
+    "title": [
+      "Launch of Etherwaifu"
+    ],
+    "description": [
+      "On March 24 2018 Etherwaifu a collectible card game combining crafting and digital art was launched"
+    ],
+    "animations": [
+      "glitchEffect",
+      "diamondPattern",
+      "hLine",
+      "dotPatternAnimation",
+      "squarePattern",
+      "vLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "04-03",
+    "end": "04-03",
+    "title": [
+      "Launch of SuperRare Marketplace"
+    ],
+    "description": [
+      "On April 3 2018 SuperRare a family run Ethereum based marketplace for 1 of 1 digital artworks was launched and initially ran commission free"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "vLine",
+      "dotPatternAnimation",
+      "colorCycle",
+      "diagonalLeft",
+      "diagonalRight",
+      "diamondPattern",
+      "hLine",
+      "hueShift",
+      "waveEffect",
+      "pentagonPattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "04-06",
+    "end": "04-06",
+    "title": [
+      "Launch of KnownOrigin Marketplace"
+    ],
+    "description": [
+      "On April 6 2018 KnownOrigin an Ethereum platform for digital original and editioned artwork was launched by BlockRocket and updated its smart contract in September"
+    ],
+    "animations": [
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "04-15",
+    "end": "04-15",
+    "title": [
+      "Solo Exhibition Games of Decentralized Life by Simon Denny"
+    ],
+    "description": [
+      "On April 15 2018 Simon Denny explored centralization and decentralization through installations and modified board games at Galerie Buchholz in Cologne Germany"
+    ],
+    "animations": [
+      "trianglePattern",
+      "glitchEffect",
+      "colorCycle",
+      "waveEffect",
+      "vLine",
+      "starPatternAnimation",
+      "squarePattern",
+      "diagonalRight",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "04-17",
+    "end": "04-17",
+    "title": [
+      "Launch of Digirare"
+    ],
+    "description": [
+      "On April 17 2018 Digirare a marketplace for crypto art and collectibles on the CounterParty blockchain was officially launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "hueShift",
+      "trianglePattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "colorCycle",
+      "waveEffect",
+      "hLine",
+      "glitchEffect",
+      "vLine",
+      "diamondPattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "04-28",
+    "end": "04-28",
+    "title": [
+      "Gordon Berger Blockchain and Art TEDx Talk"
+    ],
+    "description": [
+      "On April 28 2018 multidisciplinary artist Gordon Berger delivered a TEDx Talk on blockchain art and NFTs at the Museum of London"
+    ],
+    "animations": [
+      "hueShift",
+      "pentagonPattern",
+      "diamondPattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "05-07",
+    "end": "05-07",
+    "title": [
+      "Sale of Yellow Lambo"
+    ],
+    "description": [
+      "On May 7 2018 Kevin Abosch sold his conceptual artwork Yellow Lambo made of neon letters representing a cryptocurrency contract"
+    ],
+    "animations": [
+      "colorCycle",
+      "diamondPattern",
+      "diagonalRight",
+      "vLine",
+      "waveEffect",
+      "pentagonPattern",
+      "hLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "05-11",
+    "end": "05-11",
+    "title": [
+      "Launch of CryptoCrystals"
+    ],
+    "description": [
+      "On May 11 2018 CryptoCrystals a Japanese NFT gaming and collectibles project was launched and later became public domain in August 2021"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "hueShift",
+      "hLine",
+      "diagonalRight",
+      "glitchEffect",
+      "squarePattern",
+      "vLine",
+      "diamondPattern",
+      "starPatternAnimation",
+      "colorCycle",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "05-22",
+    "end": "05-22",
+    "title": [
+      "Launch of CryptoVoxels Metaverse"
+    ],
+    "description": [
+      "On May 22 2018 the New Zealand based CryptoVoxels virtual reality world was launched as a primary exhibition space for crypto art"
+    ],
+    "animations": [
+      "hueShift",
+      "starPatternAnimation",
+      "diagonalRight",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diamondPattern",
+      "colorCycle",
+      "glitchEffect",
+      "squarePattern",
+      "vLine",
+      "trianglePattern",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "05-25",
+    "end": "05-25",
+    "title": [
+      "Group Exhibition Innovation as Artistic Technique"
+    ],
+    "description": [
+      "On May 25 2018 the State Hermitage Museum in St Petersburg hosted a group exhibition featuring Kevin Abosch and others exploring artistic innovation"
+    ],
+    "animations": [
+      "colorCycle",
+      "waveEffect",
+      "hLine",
+      "diagonalRight",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "06-10",
+    "end": "06-10",
+    "title": [
+      "Launch of CryptoStrikers"
+    ],
+    "description": [
+      "On June 10 2018 CryptoStrikers a soccer card collectible project comparable to physical Panini stickers was launched"
+    ],
+    "animations": [
+      "hueShift",
+      "trianglePattern",
+      "waveEffect",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "hLine",
+      "vLine",
+      "pentagonPattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "06-14",
+    "end": "06-14",
+    "title": [
+      "Art Basel Panel Blockchain and the Art World"
+    ],
+    "description": [
+      "On June 14 2018 a panel at Art Basel discussed the potential impact of blockchain on the art world featuring artists and curators"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "diagonalRight",
+      "squarePattern",
+      "waveEffect",
+      "pentagonPattern",
+      "trianglePattern",
+      "glitchEffect",
+      "hLine",
+      "colorCycle",
+      "vLine",
+      "diamondPattern",
+      "dotPatternAnimation",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "06-20",
+    "end": "06-20",
+    "title": [
+      "Maecenas Auctions Fractional Ownership of Andy Warhol Artwork"
+    ],
+    "description": [
+      "On June 20 2018 Maecenas auctioned Andy Warhol’s 14 Small Electric Chairs achieving fractional ownership at a UK gallery"
     ],
     "animations": [
       "vLine",
       "glitchEffect",
+      "diagonalRight",
+      "squarePattern",
+      "diamondPattern",
+      "waveEffect",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "diagonalLeft",
+      "trianglePattern",
+      "colorCycle",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "06-26",
+    "end": "06-26",
+    "title": [
+      "Launch of RARE by Rare Art Labs"
+    ],
+    "description": [
+      "On June 26 2018 Rare Art Labs launched RARE a platform for digital original artwork registered on Ethereum from Richmond VA"
+    ],
+    "animations": [
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "07-08",
+    "end": "07-08",
+    "title": [
+      "Official Launch of Codex Protocol"
+    ],
+    "description": [
+      "On July 8 2018 after a controversial ICO Codex Protocol launched on Mainnet as a provenance registry for art and collectibles"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "07-11",
+    "end": "07-11",
+    "title": [
+      "CryptoArte Launch"
+    ],
+    "description": [
+      "On July 11 2018 CryptoArte launched creating generative tokens and paintings based on Ethereum transaction block hash values"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "vLine",
+      "dotPatternAnimation",
+      "hLine",
+      "hueShift",
+      "squarePattern",
+      "diagonalRight",
+      "glitchEffect",
+      "trianglePattern",
+      "pentagonPattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "07-15",
+    "end": "07-15",
+    "title": [
+      "Launch of the Astroledger Platform"
+    ],
+    "description": [
+      "On July 15 2018 Astroledger a platform raising funds with naming rights for space grants and issuing ETH based trading cards was launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "colorCycle",
+      "hLine",
+      "glitchEffect",
+      "hueShift",
+      "vLine",
+      "squarePattern",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "waveEffect",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "07-18",
+    "end": "07-18",
+    "title": [
+      "Art Tech Summit Exploring Blockchain"
+    ],
+    "description": [
+      "On July 18 2018 Christie’s hosted its first art and tech conference exploring blockchain and the readiness of the art world for consensus"
+    ],
+    "animations": [
+      "trianglePattern",
+      "diagonalLeft",
+      "waveEffect",
+      "vLine",
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "07-20",
+    "end": "07-20",
+    "title": [
+      "Terra0 Launches Flower Tokens"
+    ],
+    "description": [
+      "On July 20 2018 Terra0 launched Flower Tokens an experimental project creating crypto collectible physical assets which was later archived"
+    ],
+    "animations": [
+      "diagonalRight",
+      "pentagonPattern",
+      "glitchEffect",
+      "squarePattern",
+      "trianglePattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "07-26",
+    "end": "07-26",
+    "title": [
+      "Group Exhibition Distributed Systems and Blockchain"
+    ],
+    "description": [
+      "On July 26 2018 during the Gray Area Festival in San Francisco a group exhibition showcased blockchain artists exploring technology for free culture"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "diagonalLeft",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "09-08",
+    "end": "09-08",
+    "title": [
+      "Distributed Gallery Presents its Chaos Machine"
+    ],
+    "description": [
+      "On September 8 2018 a French collective presented the Chaos Machine a crypto jukebox that plays music when a banknote is burned"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "pentagonPattern",
+      "hueShift",
+      "vLine",
+      "glitchEffect",
+      "starPatternAnimation",
+      "diagonalRight",
+      "dotPatternAnimation",
+      "hLine"
+    ]
+  },
+  {
+    "start": "09-09",
+    "end": "09-09",
+    "title": [
+      "Group Exhibition Proof of Work"
+    ],
+    "description": [
+      "On September 9 2018 an international blockchain themed group exhibition curated by Simon Denny was held at the Schinkel Pavillon in Berlin Germany"
+    ],
+    "animations": [
+      "glitchEffect",
+      "squarePattern",
+      "colorCycle",
+      "hLine",
+      "dotPatternAnimation",
+      "hueShift",
+      "trianglePattern",
+      "diagonalLeft",
+      "diagonalRight",
+      "vLine",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "09-17",
+    "end": "09-17",
+    "title": [
+      "Anna Ridler Presents Mosaic Virus"
+    ],
+    "description": [
+      "On September 17 2018 UK artist Anna Ridler presented Mosaic Virus an AI based Bitcoin price visualization using tulip images"
+    ],
+    "animations": [
+      "diamondPattern",
       "hLine",
       "diagonalLeft",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "vLine",
+      "squarePattern",
+      "glitchEffect",
       "colorCycle",
       "diagonalRight",
+      "waveEffect",
       "trianglePattern",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "09-29",
+    "end": "09-29",
+    "title": [
+      "Group Exhibition Bitcoin Art revolution"
+    ],
+    "description": [
+      "On September 29 2018 an international group exhibition showcased physical blockchain and bitcoin related art for Bitcoin’s 10th anniversary"
+    ],
+    "animations": [
+      "glitchEffect",
+      "diagonalLeft",
+      "diamondPattern",
+      "colorCycle",
+      "pentagonPattern",
+      "vLine",
+      "dotPatternAnimation",
+      "waveEffect",
       "starPatternAnimation",
+      "squarePattern",
+      "trianglePattern",
+      "hueShift",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "10-08",
+    "end": "10-08",
+    "title": [
+      "Launch of Cryptographics Generative Art Platform"
+    ],
+    "description": [
+      "On October 8 2018 a generative art platform was launched creating unique mintable artworks from graphical asset sets"
+    ],
+    "animations": [
+      "vLine",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "waveEffect",
+      "hLine",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "10-10",
+    "end": "10-10",
+    "title": [
+      "Launch of the Portion Marketplace"
+    ],
+    "description": [
+      "On October 10 2018 Portion launched as an Ethereum based auction house blending physical and digital assets"
+    ],
+    "animations": [
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "10-12",
+    "end": "10-12",
+    "title": [
+      "Non Fungible Summit"
+    ],
+    "description": [
+      "On October 12 2018 the Non Fungible Summit concluded SF Blockchain Week focusing on the design and potential of non fungible tokens"
+    ],
+    "animations": [
+      "hLine",
+      "waveEffect",
+      "vLine",
+      "glitchEffect",
+      "pentagonPattern",
+      "diagonalRight",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "10-21",
+    "end": "10-21",
+    "title": [
+      "Solo Exhibition Disruption The Art of Blockchain"
+    ],
+    "description": [
+      "On October 21 2018 Scotland based artist Trevor Jones held an exhibition inspired by cryptocurrency culture at Dundas Street Gallery in Edinburgh"
+    ],
+    "animations": [
       "waveEffect",
       "squarePattern",
       "hueShift"
+    ]
+  },
+  {
+    "start": "10-25",
+    "end": "10-25",
+    "title": [
+      "NYC ArtTech and Blockchain with the Rarest Book Launch"
+    ],
+    "description": [
+      "On October 25 2018 New Art Academy hosted an event combining art tech and the launch of the Rare Pepe book"
+    ],
+    "animations": [
+      "hueShift",
+      "diamondPattern",
+      "vLine",
+      "waveEffect",
+      "colorCycle",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "11-08",
+    "end": "11-08",
+    "title": [
+      "Snark art Launch with 89 Seconds Atomized"
+    ],
+    "description": [
+      "On November 8 2018 Snark art launched with Eva Sussman’s 89 Seconds Atomized an installation experiment in digital ownership"
+    ],
+    "animations": [
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "11-12",
+    "end": "11-12",
+    "title": [
+      "Panel Discussion Intersections Printemps Numerique"
+    ],
+    "description": [
+      "On November 12 2018 Montreal hosted a blockchain panel discussion with Crypto Art and digital experience at the Canadian Centre for Architecture"
+    ],
+    "animations": [
+      "waveEffect",
+      "starPatternAnimation",
+      "diamondPattern",
+      "colorCycle",
+      "hueShift",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "diagonalRight",
+      "hLine",
+      "squarePattern",
+      "diagonalLeft",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "11-12",
+    "end": "11-12",
+    "title": [
+      "Christies and Artory Record Fine Art Auction on Blockchain"
+    ],
+    "description": [
+      "On November 12 2018 Christies recorded a fine art auction totaling 323100000 dollars in sales on blockchain"
+    ],
+    "animations": [
+      "trianglePattern",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "11-17",
+    "end": "11-17",
+    "title": [
+      "Group Exhibition PERFECT PRICELESS"
+    ],
+    "description": [
+      "On November 17 2018 a blockchain themed group exhibition curated by Georg Bak was held at the Kate Vass Gallery in Zurich Switzerland"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "waveEffect",
+      "diagonalLeft",
+      "pentagonPattern",
+      "diagonalRight",
+      "hueShift",
+      "colorCycle",
+      "squarePattern",
+      "glitchEffect",
+      "trianglePattern",
+      "hLine",
+      "vLine"
+    ]
+  },
+  {
+    "start": "12-01",
+    "end": "12-01",
+    "title": [
+      "Launch of Mintable Marketplace"
+    ],
+    "description": [
+      "On December 1 2018 Mintable an open platform for ERC721 tokens was launched and later relaunched as an NFT governed DAO"
+    ],
+    "animations": [
+      "squarePattern",
+      "glitchEffect",
+      "colorCycle",
+      "diagonalLeft",
+      "hueShift",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "12-02",
+    "end": "12-02",
+    "title": [
+      "Launch of RadiCards"
+    ],
+    "description": [
+      "On December 2 2018 RadiCards NFT crypto ecards supporting charities were launched"
+    ],
+    "animations": [
+      "waveEffect",
+      "hLine",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "squarePattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "12-11",
+    "end": "12-11",
+    "title": [
+      "Group Exhibition Blockchain Aesthetics"
+    ],
+    "description": [
+      "On December 11 2018 an exhibition curated by Julian Stadon at the University of Hertfordshire in Hatfield England showcased blockchain aesthetics"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "hLine",
+      "waveEffect",
+      "hueShift",
+      "trianglePattern",
+      "glitchEffect",
+      "squarePattern",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "12-11",
+    "end": "12-11",
+    "title": [
+      "Discussion Panel Decentralizing Art"
+    ],
+    "description": [
+      "On December 11 2018 Blockstack hosted a panel discussion titled Decentralizing Art at Foley Gallery in New York"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "waveEffect",
+      "diagonalRight",
+      "vLine",
+      "squarePattern",
+      "hLine",
+      "trianglePattern",
+      "pentagonPattern",
+      "diamondPattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "12-16",
+    "end": "12-16",
+    "title": [
+      "Solo Exhibition Fight Fear by Hackatao"
+    ],
+    "description": [
+      "On December 16 2018 the Italian artist duo Hackatao showcased crypto art and international works in their exhibition Fight Fear"
+    ],
+    "animations": [
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-20",
+    "end": "12-20",
+    "title": [
+      "Cryptograffiti Breaks Record with Black Swan"
+    ],
+    "description": [
+      "On December 20 2018 Cryptograffiti’s Black Swan became the least expensive painting sold for 1 millisatoshi or a fraction of a dollar"
+    ],
+    "animations": [
+      "vLine",
+      "diagonalLeft",
+      "waveEffect",
+      "glitchEffect",
+      "colorCycle",
+      "starPatternAnimation",
+      "squarePattern",
+      "hLine",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "12-23",
+    "end": "12-23",
+    "title": [
+      "Launch of MoCA Museum of Crypto Art"
+    ],
+    "description": [
+      "On December 23 2018 the MoCA Museum of Crypto Art was launched in CryptoVoxels to commemorate the crypto art movement"
+    ],
+    "animations": [
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "12-30",
+    "end": "12-30",
+    "title": [
+      "Launch of Artist Liberation Front Smart Contract"
+    ],
+    "description": [
+      "On December 30 2018 the Artist Liberation Front smart contract was launched as an open source tool to mint ERC721 tokens for artists"
+    ],
+    "animations": [
+      "diagonalRight",
+      "dotPatternAnimation",
+      "hLine",
+      "glitchEffect",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "01-07",
+    "end": "01-07",
+    "title": [
+      "Pascal Boyart Completes La Liberté guidant le peuple"
+    ],
+    "description": [
+      "On January 7 2019 Pascal Boyart completed his politically charged Bitcoin puzzle mural La Liberté guidant le peuple during the Yellow Vests protest"
+    ],
+    "animations": [
+      "vLine"
+    ]
+  },
+  {
+    "start": "02-02",
+    "end": "02-02",
+    "title": [
+      "Buttchain by Red Paper Heart"
+    ],
+    "description": [
+      "On February 2 2019 Brooklyn based Red Paper Heart created Buttchain to demystify blockchain technology for everyday use"
+    ],
+    "animations": [
+      "glitchEffect",
+      "hLine",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "vLine",
+      "diagonalRight",
+      "pentagonPattern",
+      "diamondPattern",
+      "hueShift",
+      "squarePattern",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "02-13",
+    "end": "02-13",
+    "title": [
+      "Official Launch of Blockchain Art Exchange"
+    ],
+    "description": [
+      "On February 13 2019 London based Blockchain Art Exchange was launched by art curator Sascha Bailey on the Ethereum blockchain"
+    ],
+    "animations": [
+      "hLine",
+      "trianglePattern",
+      "vLine",
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "02-15",
+    "end": "02-15",
+    "title": [
+      "Launch of POAP Project"
+    ],
+    "description": [
+      "On February 15 2019 the Proof of Attendance Protocol POAP was launched delivering free commemorative NFTs for crypto event participants"
+    ],
+    "animations": [
+      "hueShift",
+      "vLine",
+      "waveEffect",
+      "starPatternAnimation",
+      "hLine",
+      "glitchEffect",
+      "trianglePattern",
+      "colorCycle",
+      "squarePattern",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "03-05",
+    "end": "03-05",
+    "title": [
+      "Public Key Private Key at the Whitney Museum"
+    ],
+    "description": [
+      "On March 5 2019 Jennifer and Kevin McCoy presented Public Key Private Key an artwork exploring museum ownership of art incorporating Monegraph and enabling donors"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "starPatternAnimation",
+      "diamondPattern",
+      "diagonalRight",
+      "vLine",
+      "dotPatternAnimation",
+      "hueShift",
+      "waveEffect",
+      "trianglePattern",
+      "colorCycle",
+      "pentagonPattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "03-12",
+    "end": "03-12",
+    "title": [
+      "Launch of Plasma Bears"
+    ],
+    "description": [
+      "On March 12 2019 Plasma Bears an Ethereum based game about collecting and constructing bears was launched as a prototype for future projects"
+    ],
+    "animations": [
+      "waveEffect",
+      "hLine",
+      "squarePattern",
+      "diagonalLeft",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "03-22",
+    "end": "03-22",
+    "title": [
+      "Simon de la Rouviere Launches This Artwork is Always on Sale"
+    ],
+    "description": [
+      "On March 22 2019 Simon de la Rouviere launched a conceptual artwork that is always on sale supporting the artist with a 5 percent patronage fee"
+    ],
+    "animations": [
+      "hueShift",
+      "trianglePattern",
+      "pentagonPattern",
+      "diamondPattern",
+      "colorCycle",
+      "hLine",
+      "vLine",
+      "starPatternAnimation",
+      "diagonalRight",
+      "dotPatternAnimation",
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "03-22",
+    "end": "03-22",
+    "title": [
+      "Network of Self by Lans King"
+    ],
+    "description": [
+      "On March 22 2019 Lans King implanted a microchip capsule in his hand documenting his life metrics with the CODEX protocol as Network of Self"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "glitchEffect",
+      "starPatternAnimation",
+      "vLine",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "04-09",
+    "end": "04-09",
+    "title": [
+      "Official Launch of Autoglyphs"
+    ],
+    "description": [
+      "On April 9 2019 Larva Labs launched Autoglyphs generative artwork tokens on Ethereum to support charitable causes"
+    ],
+    "animations": [
+      "trianglePattern",
+      "vLine",
+      "glitchEffect",
+      "waveEffect",
+      "squarePattern",
+      "colorCycle",
+      "diamondPattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "04-09",
+    "end": "04-09",
+    "title": [
+      "Official Launch of Editional"
+    ],
+    "description": [
+      "On April 9 2019 Editional an Ethereum powered mobile app for creating digital collectibles was launched and ceased operations in October"
+    ],
+    "animations": [
+      "trianglePattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "04-10",
+    "end": "04-10",
+    "title": [
+      "Launch of Kleee02 Generative Art Project"
+    ],
+    "description": [
+      "On April 10 2019 Kelian Maissen and Johannes Gees deployed a smart contract for their generative art project Kleee02"
+    ],
+    "animations": [
+      "trianglePattern",
+      "diagonalRight",
+      "hueShift",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "04-25",
+    "end": "04-25",
+    "title": [
+      "Official Launch of Makersplace"
+    ],
+    "description": [
+      "On April 25 2019 Makersplace a platform for digital original artwork and limited editions on Ethereum was launched"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "colorCycle",
+      "vLine"
+    ]
+  },
+  {
+    "start": "04-26",
+    "end": "04-26",
+    "title": [
+      "Launch of Gener8tive K Compositions"
+    ],
+    "description": [
+      "On April 26 2019 Gener8tive K Compositions a series of 250 unique art compositions generated on chain were launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "squarePattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "05-17",
+    "end": "05-17",
+    "title": [
+      "Launch of CryptoSkulls"
+    ],
+    "description": [
+      "On May 17 2019 CryptoSkulls an early NFT profile picture project was launched and later redistributed via a community trust"
+    ],
+    "animations": [
+      "colorCycle",
+      "trianglePattern",
+      "hLine",
+      "squarePattern",
+      "glitchEffect",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "05-19",
+    "end": "05-19",
+    "title": [
+      "Rare Art Festival 2"
+    ],
+    "description": [
+      "On May 19 2019 the second edition of the Rare Art Festival brought together crypto art and collectibles in Brooklyn NY"
+    ],
+    "animations": [
+      "hLine",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "05-28",
+    "end": "05-28",
+    "title": [
+      "Official Launch of Noow.art"
+    ],
+    "description": [
+      "On May 28 2019 Noow.art a digital art platform spun off from Swisscom offering tokenized art and streaming was launched"
+    ],
+    "animations": [
+      "vLine",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "waveEffect",
+      "hueShift",
+      "trianglePattern",
+      "squarePattern",
+      "colorCycle",
+      "pentagonPattern",
+      "diagonalRight",
+      "hLine",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "09-12",
+    "end": "09-12",
+    "title": [
+      "First Women of Crypto Art Group Exhibition"
+    ],
+    "description": [
+      "On September 12 2020 WOCA held a group exhibition entitled She Art featuring over 30 crypto artists"
+    ],
+    "animations": [
+      "trianglePattern",
+      "hLine",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "09-19",
+    "end": "09-19",
+    "title": [
+      "Volatility.art a Visionary Patronage"
+    ],
+    "description": [
+      "On September 19 2020 Matt Kane’s Async project entered a 10 year collaboration for over 100k dollars under TokenAngels"
+    ],
+    "animations": [
+      "vLine",
+      "squarePattern",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "09-19",
+    "end": "09-19",
+    "title": [
+      "Elementum.art Replaces Noow.art"
+    ],
+    "description": [
+      "On September 19 2020 Dloop rebranded Elementum as the successor of Noow.art on Swisscom TV"
+    ],
+    "animations": [
+      "diamondPattern",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "colorCycle",
+      "diagonalLeft",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "09-30",
+    "end": "09-30",
+    "title": [
+      "First Episode of VerticalCrypto Art"
+    ],
+    "description": [
+      "On September 30 2020 VerticalCrypto Art premiered its first video episode spotlighting crypto art and communities"
+    ],
+    "animations": [
+      "hLine",
+      "diagonalLeft",
+      "glitchEffect",
+      "squarePattern",
+      "waveEffect",
+      "trianglePattern",
+      "pentagonPattern",
+      "colorCycle",
+      "hueShift",
+      "diagonalRight",
+      "vLine",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "10-02",
+    "end": "10-02",
+    "title": [
+      "Launch of Emblem Vault"
+    ],
+    "description": [
+      "On October 2 2020 Circuits of Value and Emblem Vault developed composite tokens that preserve original tokens for trading on Ethereum"
+    ],
+    "animations": [
+      "vLine",
+      "hueShift",
+      "hLine",
+      "diagonalRight",
+      "diamondPattern",
+      "glitchEffect",
+      "colorCycle",
+      "squarePattern",
+      "pentagonPattern",
+      "waveEffect",
+      "trianglePattern",
+      "diagonalLeft",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "10-08",
+    "end": "10-08",
+    "title": [
+      "Robert Alice Block 21 Sells on Christies"
+    ],
+    "description": [
+      "On October 8 2020 Async.art partnered with Christies for an auction where Robert Alice’s Block 21 sold for 131250 dollars"
+    ],
+    "animations": [
+      "vLine",
+      "starPatternAnimation",
+      "colorCycle",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "hLine"
+    ]
+  },
+  {
+    "start": "10-28",
+    "end": "10-28",
+    "title": [
+      "Launch of Beyond NFT"
+    ],
+    "description": [
+      "On October 28 2020 Beyond NFT launched on Matic focusing on evolving interactive and dynamic art"
+    ],
+    "animations": [
+      "colorCycle",
+      "squarePattern",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "diamondPattern",
+      "hLine",
+      "starPatternAnimation",
+      "waveEffect",
+      "pentagonPattern",
+      "diagonalLeft",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "11-06",
+    "end": "11-06",
+    "title": [
+      "Launch of Ephimera Marketplace"
+    ],
+    "description": [
+      "On November 6 2020 Ephimera launched as an Ethereum art marketplace specialized in fine art photography and video"
+    ],
+    "animations": [
+      "trianglePattern",
+      "waveEffect",
+      "diagonalLeft",
+      "hueShift",
+      "glitchEffect",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "11-12",
+    "end": "11-12",
+    "title": [
+      "Artproject 2020 Promotes Crypto Art at Vancouver Biennale"
+    ],
+    "description": [
+      "On November 12 2020 Artproject connected traditional art with blockchain during the Vancouver Biennale under Jessica Angels"
+    ],
+    "animations": [
+      "colorCycle",
+      "trianglePattern",
+      "hLine",
+      "dotPatternAnimation",
+      "squarePattern",
+      "waveEffect",
+      "pentagonPattern",
+      "diagonalRight",
+      "diamondPattern",
+      "vLine",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "11-28",
+    "end": "11-28",
+    "title": [
+      "Launch of Artblocks Generative Art Platform"
+    ],
+    "description": [
+      "On November 28 2020 Artblocks launched as a generative design platform on Ethereum"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "12-03",
+    "end": "12-03",
+    "title": [
+      "First Bitcoin Art Auction at Scarce City"
+    ],
+    "description": [
+      "On December 3 2020 Scarce.City held its first Bitcoin art auction via the Lightning Network"
+    ],
+    "animations": [
+      "diagonalRight",
+      "diagonalLeft",
+      "hLine",
+      "pentagonPattern",
+      "waveEffect",
+      "starPatternAnimation",
+      "diamondPattern",
+      "squarePattern",
+      "hueShift",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "12-08",
+    "end": "12-08",
+    "title": [
+      "Launch of Paras Digital Art Cards Marketplace"
+    ],
+    "description": [
+      "On December 8 2020 Paras launched as a NEAR blockchain digital art card minting and trading platform"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "vLine",
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-11",
+    "end": "12-11",
+    "title": [
+      "Pascal Boyart Completes Underground Sistine Chapel"
+    ],
+    "description": [
+      "On December 11 2020 Pascal Boyart completed his monumental Underground Sistine Chapel in Paris funded by crypto patrons"
+    ],
+    "animations": [
+      "hLine",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "12-28",
+    "end": "12-28",
+    "title": [
+      "Beyond Provenance Black Speculative Futures"
+    ],
+    "description": [
+      "On December 28 2020 a virtual exhibition featured 33 Black crypto artists rewriting narratives of value"
+    ],
+    "animations": [
+      "trianglePattern",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "hLine",
+      "hueShift",
+      "diagonalRight",
+      "colorCycle",
+      "diamondPattern",
+      "vLine",
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "01-09",
+    "end": "01-09",
+    "title": [
+      "Launch of Ethblock Art Generative Platform"
+    ],
+    "description": [
+      "On January 9 2021 EthBlockArt launched enabling deterministic blockchain artworks based on Ethereum blocks"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "diagonalLeft",
+      "squarePattern",
+      "diagonalRight",
+      "vLine",
+      "waveEffect",
+      "glitchEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "01-09",
+    "end": "01-09",
+    "title": [
+      "Group Exhibition From Tulip to Crypto Daisy"
+    ],
+    "description": [
+      "On January 9 2021 L Avant Galerie Vossen hosted an exhibition exploring digital values in art"
+    ],
+    "animations": [
+      "hLine",
+      "vLine",
+      "pentagonPattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "squarePattern",
+      "hueShift",
+      "glitchEffect",
+      "diamondPattern",
+      "trianglePattern",
+      "diagonalRight",
+      "waveEffect",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "01-14",
+    "end": "01-14",
+    "title": [
+      "First Episode of the Outer Realm Podcast"
+    ],
+    "description": [
+      "On January 14 2021 Eric Paul Rhodes hosted the inaugural episode of the Outer Realm Podcast featuring crypto art figures"
+    ],
+    "animations": [
+      "diagonalRight",
+      "diagonalLeft",
+      "pentagonPattern",
+      "hLine",
+      "diamondPattern",
+      "colorCycle",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "01-15",
+    "end": "01-15",
+    "title": [
+      "Group Exhibition Future Art"
+    ],
+    "description": [
+      "On January 15 2021 Australia’s first immersive crypto art festival was held at Paddington Town Hall in Sydney"
+    ],
+    "animations": [
+      "hueShift",
+      "hLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "01-18",
+    "end": "01-18",
+    "title": [
+      "Launch of SIGN Art dApp"
+    ],
+    "description": [
+      "On January 18 2021 SIGN Art dApp was launched on the Waves Protocol for single and limited edition NFTs"
+    ],
+    "animations": [
+      "glitchEffect",
+      "squarePattern",
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "diamondPattern",
+      "trianglePattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "01-21",
+    "end": "01-21",
+    "title": [
+      "CryptoArt Week Asia"
+    ],
+    "description": [
+      "On January 21 2021 CryptoArt Week Asia promoted under represented Asian crypto artists in Singapore and online"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "vLine",
+      "colorCycle",
+      "pentagonPattern",
+      "squarePattern",
+      "hueShift",
+      "diagonalRight",
+      "diagonalLeft",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "01-23",
+    "end": "01-23",
+    "title": [
+      "Launch of B20 Token"
+    ],
+    "description": [
+      "On January 23 2021 Metapurse’s B20 token was launched exploring social utility tokens and DAO governance for Beeple’s 20 Collection"
+    ],
+    "animations": [
+      "waveEffect",
+      "colorCycle",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "01-27",
+    "end": "01-27",
+    "title": [
+      "Launch of VIV3 Marketplace"
+    ],
+    "description": [
+      "On January 27 2021 the first general marketplace on the Flow blockchain was launched by Dapper Labs"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "hueShift",
+      "diamondPattern",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diagonalRight",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "01-28",
+    "end": "01-28",
+    "title": [
+      "Launch of Hashmasks"
+    ],
+    "description": [
+      "On January 28 2021 Hashmasks a collection of 16384 digital art portraits by over 70 artists was launched"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "hueShift",
+      "diamondPattern",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hLine",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "02-03",
+    "end": "02-03",
+    "title": [
+      "Launch of Arkane Network Marketplace"
+    ],
+    "description": [
+      "On February 3 2021 Arkane Network launched the first NFT marketplace on MATIC focusing on low fees"
+    ],
+    "animations": [
+      "colorCycle",
+      "starPatternAnimation",
+      "hueShift",
+      "vLine",
+      "glitchEffect",
+      "squarePattern",
+      "hLine",
+      "diamondPattern",
+      "diagonalRight",
+      "trianglePattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "02-08",
+    "end": "02-08",
+    "title": [
+      "Launch of Hic Et Nunc Marketplace"
+    ],
+    "description": [
+      "On February 8 2021 Hic Et Nunc minted its first OBJKT as a community driven platform on Tezos"
+    ],
+    "animations": [
+      "squarePattern",
+      "vLine",
+      "diamondPattern",
+      "colorCycle",
+      "diagonalRight",
+      "dotPatternAnimation",
+      "hLine",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "02-08",
+    "end": "02-08",
+    "title": [
+      "Group Exhibition Abstract Art in the Age of New Media"
+    ],
+    "description": [
+      "On February 8 2021 a collaborative exhibition by MoCDA UCL and Hobs3D showcased experimental online art"
+    ],
+    "animations": [
+      "hLine",
+      "waveEffect",
+      "trianglePattern",
+      "colorCycle",
+      "diagonalLeft",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "02-09",
+    "end": "02-09",
+    "title": [
+      "Bitski Relaunch as NFT Marketplace"
+    ],
+    "description": [
+      "On February 9 2021 Bitski relaunched as a credit card based NFT marketplace and storefront solution for digital assets"
+    ],
+    "animations": [
+      "vLine",
+      "hLine",
+      "diamondPattern",
+      "glitchEffect",
+      "pentagonPattern",
+      "diagonalRight",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "squarePattern",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "02-12",
+    "end": "02-12",
+    "title": [
+      "Trash Art Week Commemorates Trash Art Movement"
+    ],
+    "description": [
+      "On February 12 2021 deplatformed crypto artists launched Trash Art Week challenging NFT copyrights"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "vLine"
+    ]
+  },
+  {
+    "start": "02-17",
+    "end": "02-17",
+    "title": [
+      "Launch of Folia Marketplace"
+    ],
+    "description": [
+      "On February 17 2021 Folia Marketplace launched as an Ethereum platform for exhibiting and collecting NFTs in Berlin"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "hLine",
+      "glitchEffect",
+      "trianglePattern",
+      "diagonalLeft",
+      "waveEffect",
+      "diagonalRight",
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "02-18",
+    "end": "02-18",
+    "title": [
+      "Launch of Kalamint Marketplace"
+    ],
+    "description": [
+      "On February 18 2021 Kalamint launched as the first user curated marketplace on Tezos for creating selling and buying NFTs"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "glitchEffect",
+      "diamondPattern",
+      "diagonalLeft",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "02-19",
+    "end": "02-19",
+    "title": [
+      "Two-Person Exhibition Once Twice"
+    ],
+    "description": [
+      "On February 19 2021 the first exhibition by Ry David Bradley and Hanna Hansdotter was held at The Hole in NY in collaboration with SuperRare"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "colorCycle",
+      "hLine",
+      "waveEffect",
+      "starPatternAnimation",
+      "squarePattern",
+      "vLine",
+      "diagonalRight",
+      "pentagonPattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "02-20",
+    "end": "02-20",
+    "title": [
+      "Launch of Charged Particles Marketplace"
+    ],
+    "description": [
+      "On February 20 2021 a platform enabling NFTs to be charged with interest bearing tokens was launched"
+    ],
+    "animations": [
+      "hueShift"
+    ]
+  },
+  {
+    "start": "02-26",
+    "end": "02-26",
+    "title": [
+      "Christies Auctions Beeple NFT in Standalone Lot"
+    ],
+    "description": [
+      "On February 26 2021 Christies held its first digital only NFT auction featuring Beeple’s EVERYDAYS"
+    ],
+    "animations": [
+      "diagonalRight",
+      "diamondPattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "waveEffect",
+      "diagonalLeft",
+      "vLine",
+      "trianglePattern",
+      "hLine",
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "03-11",
+    "end": "03-11",
+    "title": [
+      "Beeple Historic Digital Art Sale at Christies"
+    ],
+    "description": [
+      "On March 11 2021 Beeple sold EVERYDAYS THE FIRST 5000 DAYS at auction for 69346250 dollars"
+    ],
+    "animations": [
+      "hueShift",
+      "colorCycle",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "03-15",
+    "end": "03-15",
+    "title": [
+      "Group Exhibition Venus Of The Metaverse"
+    ],
+    "description": [
+      "On March 15 2021 an international exhibition featuring over 130 women artists was hosted"
+    ],
+    "animations": [
+      "squarePattern",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "03-16",
+    "end": "03-16",
+    "title": [
+      "Async Expands to Async Music"
+    ],
+    "description": [
+      "On March 16 2021 Async Art expanded its offering to include programmable music"
+    ],
+    "animations": [
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "glitchEffect",
+      "starPatternAnimation",
+      "squarePattern",
+      "pentagonPattern",
+      "vLine",
+      "diagonalLeft",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "03-17",
+    "end": "03-17",
+    "title": [
+      "Launch of Fractional Art"
+    ],
+    "description": [
+      "On March 17 2021 an NFT owner can fractionalize artwork into ERC20 tokens for liquidity"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "diagonalRight",
+      "starPatternAnimation",
+      "vLine",
+      "diamondPattern",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "waveEffect",
+      "hLine"
+    ]
+  },
+  {
+    "start": "03-18",
+    "end": "03-18",
+    "title": [
+      "Launch of Ether Cards Framework"
+    ],
+    "description": [
+      "On March 18 2021 a community driven NFT framework enabling creators to add utilities to NFTs was launched"
+    ],
+    "animations": [
+      "colorCycle",
+      "glitchEffect",
+      "trianglePattern",
+      "squarePattern",
+      "diagonalRight",
+      "waveEffect",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "03-19",
+    "end": "03-19",
+    "title": [
+      "Group Exhibition The Artist is Online"
+    ],
+    "description": [
+      "On March 19 2021 KONIG gallery hosted an exhibition in Berlin and Decentraland featuring crypto art"
+    ],
+    "animations": [
+      "squarePattern",
+      "diamondPattern",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "diagonalRight",
+      "hLine",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "03-19",
+    "end": "03-19",
+    "title": [
+      "Launch of Feral Files Marketplace"
+    ],
+    "description": [
+      "On March 19 2021 Feral Files launched as a generative art marketplace on the Bitmark blockchain founded by Casey Reas"
+    ],
+    "animations": [
+      "hLine",
+      "waveEffect",
+      "glitchEffect",
+      "diagonalLeft",
+      "diagonalRight",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "03-21",
+    "end": "03-21",
+    "title": [
+      "Launch of Fansforever Marketplace"
+    ],
+    "description": [
+      "On March 21 2021 Fansforever a social marketplace on Tron connecting creators and fans was launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "glitchEffect",
+      "trianglePattern",
+      "hueShift",
+      "colorCycle",
+      "hLine",
+      "diagonalLeft",
+      "pentagonPattern",
+      "waveEffect",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "03-21",
+    "end": "03-21",
+    "title": [
+      "Group Exhibition Chain Reactions"
+    ],
+    "description": [
+      "On March 21 2021 ABV Gallery in Atlanta and Nifty Gateway hosted an international group exhibition featuring 20 artists"
+    ],
+    "animations": [
+      "diamondPattern",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "glitchEffect",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "03-23",
+    "end": "03-23",
+    "title": [
+      "Solo Exhibition High On Collage by Morgan Jesse Lappin"
+    ],
+    "description": [
+      "On March 23 2021 Morgan Jesse Lappin’s solo exhibition combining collage and NFTs was held at Trigonal Gallery in Jersey City NJ"
+    ],
+    "animations": [
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "03-25",
+    "end": "03-25",
+    "title": [
+      "Superchief Gallery Opens NFT Art Space in NYC"
+    ],
+    "description": [
+      "On March 25 2021 Superchief Gallery NFT opened its physical and online exhibition featuring rotating NFT artworks from 300 artists"
+    ],
+    "animations": [
+      "waveEffect",
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "vLine",
+      "diamondPattern",
+      "glitchEffect",
+      "squarePattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "03-26",
+    "end": "03-26",
+    "title": [
+      "Group Exhibition Virtual Niche Have You Ever Seen Memes in the Mirror"
+    ],
+    "description": [
+      "On March 26 2021 BlockCreateArt hosted the first institutional crypto art exhibition at UCCA Lab in Beijing China"
+    ],
+    "animations": [
+      "glitchEffect",
+      "squarePattern",
+      "diagonalRight",
+      "diagonalLeft",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "04-01",
+    "end": "04-01",
+    "title": [
+      "Launch of Chain Saw Marketplace"
+    ],
+    "description": [
+      "On April 1 2021 Chain Saw Marketplace an Ethereum based marketplace featuring Pepe the Frog NFTs was launched by Matt Furie"
+    ],
+    "animations": [
+      "diagonalRight",
+      "glitchEffect",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "04-04",
+    "end": "04-04",
+    "title": [
+      "Launch of Portal Art Marketplace"
+    ],
+    "description": [
+      "On April 4 2021 Portal Art Marketplace was launched on Tezos with a collection by Peter Kogler operating from New York and Vienna"
+    ],
+    "animations": [
+      "vLine",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "trianglePattern",
+      "hLine",
+      "colorCycle",
+      "starPatternAnimation",
+      "diamondPattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "04-05",
+    "end": "04-05",
+    "title": [
+      "Launch of Byteblock Marketplace"
+    ],
+    "description": [
+      "On April 5 2021 Byteblock NFT Marketplace a Tezos based platform for Indian artists with low cost minting was launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "pentagonPattern",
+      "hLine",
+      "vLine",
+      "starPatternAnimation",
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "dotPatternAnimation",
+      "glitchEffect",
+      "waveEffect",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "04-05",
+    "end": "04-05",
+    "title": [
+      "Urs Fischer Chaos NFT Series"
+    ],
+    "description": [
+      "On April 5 2021 Urs Fischer launched the CHAOS NFT series in collaboration with Pace Gallery after breaking his representation with Gagosian"
+    ],
+    "animations": [
+      "colorCycle",
+      "starPatternAnimation",
+      "waveEffect",
+      "hLine",
+      "squarePattern",
+      "vLine",
+      "dotPatternAnimation",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "04-06",
+    "end": "04-06",
+    "title": [
+      "Kenny Schachter Coins NFTism"
+    ],
+    "description": [
+      "On April 6 2021 Kenny Schachter coined NFTism promoting NFTs through his writing and curatorial work"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "starPatternAnimation",
+      "squarePattern",
+      "hueShift",
+      "vLine",
+      "diamondPattern",
+      "glitchEffect",
+      "pentagonPattern",
+      "trianglePattern",
+      "hLine",
+      "diagonalRight",
+      "waveEffect",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "04-08",
+    "end": "04-08",
+    "title": [
+      "Group Exhibition CryptoArt – It's Not About Money"
+    ],
+    "description": [
+      "On April 8 2021 a crypto art group exhibition curated by Daniel Heiss and Margit Rosen took place at ZKM in Karlsruhe Germany"
+    ],
+    "animations": [
+      "waveEffect",
+      "trianglePattern",
+      "glitchEffect",
+      "vLine",
+      "diamondPattern",
+      "diagonalLeft",
+      "squarePattern",
+      "starPatternAnimation",
+      "diagonalRight",
+      "pentagonPattern",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "04-11",
+    "end": "04-11",
+    "title": [
+      "Manifold Released First Custom Contract"
+    ],
+    "description": [
+      "On April 11 2021 Manifold released its first custom smart contract for creators enhancing creative sovereignty"
+    ],
+    "animations": [
+      "squarePattern",
+      "diagonalRight",
+      "hLine",
+      "pentagonPattern",
+      "diagonalLeft",
+      "diamondPattern",
+      "glitchEffect",
+      "hueShift",
+      "vLine"
+    ]
+  },
+  {
+    "start": "04-12",
+    "end": "04-12",
+    "title": [
+      "Pixelated Public Art Exhibition of CryptoPunks"
+    ],
+    "description": [
+      "On April 12 2021 SaveArtSpace presented an exhibition featuring 96 CryptoPunks across Miami billboards and bus shelters"
+    ],
+    "animations": [
+      "squarePattern",
+      "hueShift",
+      "colorCycle",
+      "waveEffect",
+      "vLine",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "glitchEffect",
+      "pentagonPattern",
+      "diamondPattern",
+      "trianglePattern",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "04-12",
+    "end": "04-12",
+    "title": [
+      "Sotheby’s and Nifty Gateway Auction Pak’s Collection"
+    ],
+    "description": [
+      "On April 12 2021 Christies and Nifty Gateway collaborated to auction an anonymous artist Pak’s collection"
+    ],
+    "animations": [
+      "hueShift",
+      "hLine",
+      "starPatternAnimation",
+      "diagonalRight",
+      "waveEffect",
+      "colorCycle",
+      "vLine"
+    ]
+  },
+  {
+    "start": "04-14",
+    "end": "04-14",
+    "title": [
+      "Launch of Artvatars Project"
+    ],
+    "description": [
+      "On April 14 2021 Artvatars a collaborative avatar project based on Polygon was launched by NFT collector MantaXR"
+    ],
+    "animations": [
+      "glitchEffect",
+      "diamondPattern",
+      "diagonalLeft",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "04-20",
+    "end": "04-20",
+    "title": [
+      "Launch of TR Lab Platform"
+    ],
+    "description": [
+      "On April 20 2021 TR Lab Platform focused on fine art was launched in Hong Kong partnering with Christies and Rockbund Art Museum"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "colorCycle",
+      "diagonalLeft",
+      "squarePattern",
+      "hueShift",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hLine",
+      "starPatternAnimation",
+      "vLine",
+      "diagonalRight",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "04-22",
+    "end": "04-22",
+    "title": [
+      "Launch of Bored Ape Yacht Club"
+    ],
+    "description": [
+      "On April 22 2021 BAYC a collection of 10000 NFTs granting access to an online social club was launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "04-23",
+    "end": "04-23",
+    "title": [
+      "Mad Dog Jones Replicator Sells for 4.1M at Phillips Auction"
+    ],
+    "description": [
+      "On April 23 2021 Mad Dog Jones’ Replicator NFT sold for 4200000 dollars at Phillips auction creating 220 additional versions"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "hLine",
+      "squarePattern",
+      "hueShift",
+      "glitchEffect",
+      "diagonalLeft",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "04-25",
+    "end": "04-25",
+    "title": [
+      "Launch of Truesy Marketplace"
+    ],
+    "description": [
+      "On April 25 2021 TRUESY a curated NFT marketplace on Tezos was launched"
+    ],
+    "animations": [
+      "colorCycle",
+      "squarePattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "hueShift",
+      "pentagonPattern",
+      "diagonalRight",
+      "waveEffect",
+      "vLine"
+    ]
+  },
+  {
+    "start": "04-25",
+    "end": "04-25",
+    "title": [
+      "Launch of Bazaar NFT Marketplace"
+    ],
+    "description": [
+      "On April 25 2021 Bazaar NFT Marketplace a carbon negative Tezos based marketplace governed by a DAO was launched"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "04-30",
+    "end": "04-30",
+    "title": [
+      "Launch of Versus Marketplace"
+    ],
+    "description": [
+      "On April 30 2021 Versus Marketplace built on Flow launched with on chain image storage"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "05-06",
+    "end": "05-06",
+    "title": [
+      "Domenico Quaranta Releases Crypto Art History Book"
+    ],
+    "description": [
+      "On May 6 2021 Domenico Quaranta released his book documenting crypto art history titled Surfing con Satoshi Arte blockchain e NFT"
+    ],
+    "animations": [
+      "colorCycle",
+      "diamondPattern",
+      "hueShift",
+      "diagonalRight",
+      "trianglePattern",
+      "hLine",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "05-11",
+    "end": "05-11",
+    "title": [
+      "Christie’s Features 9 CryptoPunks at 21st Century Evening Sale"
+    ],
+    "description": [
+      "On May 11 2021 Christie’s hosted its first crypto collectible evening auction featuring 9 CryptoPunks with an estimated value of 7 to 9M dollars"
+    ],
+    "animations": [
+      "waveEffect",
+      "glitchEffect",
+      "colorCycle",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "05-12",
+    "end": "05-12",
+    "title": [
+      "Group Exhibition Breadcrumbs"
+    ],
+    "description": [
+      "On May 12 2021 Kenny Schachter curated the Ethereum based crypto art exhibition Breadcrumbs for Galerie Nagel and Draxler in Cologne Germany"
+    ],
+    "animations": [
+      "diamondPattern",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "05-14",
+    "end": "05-14",
+    "title": [
+      "Itzel Yard Sets Sales Record with Dreaming At Dusk"
+    ],
+    "description": [
+      "On May 14 2021 generative artist Itzel Yard set a 2M dollar sales record with Dreaming At Dusk supporting the Tor project"
+    ],
+    "animations": [
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "05-16",
+    "end": "05-16",
+    "title": [
+      "Launch of LGND Marketplace"
+    ],
+    "description": [
+      "On May 16 2021 LGND Marketplace an NFT art platform built on WAX was launched"
+    ],
+    "animations": [
+      "squarePattern",
+      "glitchEffect",
+      "pentagonPattern",
+      "hLine",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "05-18",
+    "end": "05-18",
+    "title": [
+      "BCA Network Becomes MetaOpus"
+    ],
+    "description": [
+      "On May 18 2021 the Chinese crypto art platform rebranded its marketplace to MetaOpus referencing the Metaverse and Opus"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "hueShift",
+      "dotPatternAnimation",
+      "vLine",
+      "squarePattern",
+      "diagonalRight",
+      "colorCycle",
+      "waveEffect",
+      "diagonalLeft",
+      "glitchEffect",
+      "hLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "05-19",
+    "end": "05-19",
+    "title": [
+      "Christie’s Auctions Andy Warhol Machine Made NFTs"
+    ],
+    "description": [
+      "On May 19 2021 Christie’s hosted an auction for Andy Warhol’s NFTs that overshadowed his posthumous release"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "hueShift",
+      "hLine",
+      "vLine",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "05-20",
+    "end": "05-20",
+    "title": [
+      "Launch of Raretoshi Marketplace"
+    ],
+    "description": [
+      "On May 20 2021 Raretoshi is a curated NFT and physical art platform based on the Liquid Network a Bitcoin layer2 solution"
+    ],
+    "animations": [
+      "hLine",
+      "vLine",
+      "glitchEffect",
+      "diagonalRight",
+      "squarePattern",
+      "diamondPattern",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "05-25",
+    "end": "05-25",
+    "title": [
+      "Group Exhibition Proof of Sovereignty"
+    ],
+    "description": [
+      "On May 25 2021 Christies collaborates with Lady PheOnix to present a curated NFT sale of both legacy and new artworks"
+    ],
+    "animations": [
+      "vLine",
+      "starPatternAnimation",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "06-04",
+    "end": "06-04",
+    "title": [
+      "Natively Digital A Curated NFT Sale"
+    ],
+    "description": [
+      "On June 4 2021 Sotheby’s hosts a curated NFT sale featuring works including Kevin McCoy’s Quantum CryptoPunk and Anna Ridler’s The Shell Record"
+    ],
+    "animations": [
+      "diagonalRight",
+      "pentagonPattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "06-08",
+    "end": "06-08",
+    "title": [
+      "Arkane Network Rebrands as Venly"
+    ],
+    "description": [
+      "On June 8 2021 Arkane Network rebrands as Venly focusing on game items and collectibles on the MATIC layer2 network"
+    ],
+    "animations": [
+      "trianglePattern",
+      "vLine",
+      "diamondPattern",
+      "diagonalLeft",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "06-10",
+    "end": "06-10",
+    "title": [
+      "Group Exhibition Proof of Art in Linz"
+    ],
+    "description": [
+      "On June 10 2021 a museum group exhibition at the Francisco Carolinum in Linz explores the history of crypto art and digital collectibles"
+    ],
+    "animations": [
+      "hueShift",
+      "diagonalLeft",
+      "squarePattern",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "starPatternAnimation",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "06-17",
+    "end": "06-17",
+    "title": [
+      "ImnotArt Chicago Opens Physical NFT Gallery"
+    ],
+    "description": [
+      "On June 17 2021 ImnotArt becomes the first physical NFT art gallery in Chicago showcasing curated NFT artworks"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "hLine",
+      "vLine"
+    ]
+  },
+  {
+    "start": "06-22",
+    "end": "06-22",
+    "title": [
+      "Bonhams SuperRare Present CryptOGs"
+    ],
+    "description": [
+      "On June 22 2021 Bonhams hosts its first NFT sale in partnership with SuperRare featuring pioneering crypto artworks"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "glitchEffect",
+      "starPatternAnimation",
+      "vLine",
+      "diagonalLeft",
+      "colorCycle",
+      "squarePattern",
+      "hueShift",
+      "waveEffect",
+      "hLine",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "06-24",
+    "end": "06-24",
+    "title": [
+      "Group Exhibition My Love is Your Love NFT"
+    ],
+    "description": [
+      "On June 24 2021 Every Woman Biennial collaborates with Superchief Gallery NFT in New York for a group exhibition"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "06-24",
+    "end": "06-24",
+    "title": [
+      "Dystopian Visions NFT Sale"
+    ],
+    "description": [
+      "On June 24 2021 an NFT collection curated by MoCDA is auctioned at Cambi Casa d’aste in Milan Italy"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "06-24",
+    "end": "06-24",
+    "title": [
+      "Binance NFT Platform Launch"
+    ],
+    "description": [
+      "On June 24 2021 Binance Exchange launches its NFT platform featuring digitized artwork including a tribute to Andy Warhol"
+    ],
+    "animations": [
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "06-26",
+    "end": "06-26",
+    "title": [
+      "CrypTOKYO Group Exhibition"
+    ],
+    "description": [
+      "On June 26 2021 Japan’s first physical NFT exhibition is held at UltraSuperNew Gallery in Tokyo"
+    ],
+    "animations": [
+      "hLine",
+      "hueShift",
+      "colorCycle",
+      "squarePattern",
+      "vLine",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "07-02",
+    "end": "07-02",
+    "title": [
+      "NFT Gallery Opens in Montreal"
+    ],
+    "description": [
+      "On July 2 2021 non profit 0xSociety opens an NFT gallery in Montreal to educate and promote crypto art"
+    ],
+    "animations": [
+      "glitchEffect",
+      "waveEffect",
+      "squarePattern",
+      "trianglePattern",
+      "diamondPattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "07-04",
+    "end": "07-04",
+    "title": [
+      "Launch of Solanart Marketplace"
+    ],
+    "description": [
+      "On July 4 2021 a curated Solana‐based aggregator NFT marketplace launches with the controversial SolPunks collection"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "hLine",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "07-06",
+    "end": "07-06",
+    "title": [
+      "CryptoPunk Joins Art Museum Collection"
+    ],
+    "description": [
+      "On July 6 2021 the Institute of Contemporary Art in Miami acquires a CryptoPunk gifted by a trustee"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "trianglePattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "07-09",
+    "end": "07-09",
+    "title": [
+      "Crypto Art Week Asia"
+    ],
+    "description": [
+      "On July 9 2021 Crypto Art Week Asia features over 300 Asian digital artists with physical and virtual events"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "diamondPattern",
+      "glitchEffect",
+      "colorCycle",
+      "waveEffect",
+      "vLine"
+    ]
+  },
+  {
+    "start": "07-23",
+    "end": "07-23",
+    "title": [
+      "Group Exhibition Metaphysical"
+    ],
+    "description": [
+      "On July 23 2021 an IRL and digital group exhibition curated by Max Kulchinsky is held at DorDor Gallery in New York"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "colorCycle",
+      "hLine",
+      "diamondPattern",
+      "squarePattern",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "07-24",
+    "end": "07-24",
+    "title": [
+      "Group Exhibition Stratosphere"
+    ],
+    "description": [
+      "On July 24 2021 an international showcase hosted by the Stratosphere DAO is presented in Beijing China"
+    ],
+    "animations": [
+      "vLine",
+      "trianglePattern",
+      "hueShift",
+      "diamondPattern",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "08-02",
+    "end": "08-02",
+    "title": [
+      "Launch of Huanhe Marketplace"
+    ],
+    "description": [
+      "On August 2 2021 Tencent launches its NFT marketplace which later closes after low profits"
+    ],
+    "animations": [
+      "diamondPattern",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "08-06",
+    "end": "08-06",
+    "title": [
+      "Launch of WeMint.Art"
+    ],
+    "description": [
+      "On August 6 2021 WeMint.Art is launched as a free decentralized app for artists to mint ERC721 NFTs on Ethereum"
+    ],
+    "animations": [
+      "trianglePattern",
+      "colorCycle",
+      "hLine",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "08-11",
+    "end": "08-11",
+    "title": [
+      "Launch of 1st Dibs NFT Platform"
+    ],
+    "description": [
+      "On August 11 2021 1stDibs expands into NFTs as a design‐focused online marketplace"
+    ],
+    "animations": [
+      "hLine",
+      "vLine",
+      "diagonalRight",
+      "trianglePattern",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "08-22",
+    "end": "08-22",
+    "title": [
+      "Launch of MISA.art Marketplace"
+    ],
+    "description": [
+      "On August 22 2021 Berlin based MISA by König Gallery launches its NFT marketplace focused on digital art"
+    ],
+    "animations": [
+      "colorCycle",
+      "hueShift",
+      "pentagonPattern",
+      "vLine",
+      "diagonalRight",
+      "hLine",
+      "glitchEffect",
+      "starPatternAnimation",
+      "squarePattern",
+      "dotPatternAnimation",
+      "waveEffect",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "08-26",
+    "end": "08-26",
+    "title": [
+      "Launch of Solsea Marketplace"
+    ],
+    "description": [
+      "On August 26 2021 Solsea is launched as a curated Solana‐based aggregator NFT marketplace with embedded licences"
+    ],
+    "animations": [
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "08-27",
+    "end": "08-27",
+    "title": [
+      "Launch of DigitalEyes Marketplace"
+    ],
+    "description": [
+      "On August 27 2021 DigitalEyes launches as an open Solana‐based aggregator NFT marketplace featuring unverified collections"
+    ],
+    "animations": [
+      "glitchEffect",
+      "waveEffect",
+      "colorCycle",
+      "hueShift",
+      "squarePattern",
+      "diagonalRight",
+      "starPatternAnimation",
+      "diamondPattern",
+      "pentagonPattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "08-31",
+    "end": "08-31",
+    "title": [
+      "Launch of Rally Marketplace"
+    ],
+    "description": [
+      "On August 31 2021 the social coin platform Rally launches its NFT marketplace on an Ethereum sidechain via a Proof‐of‐Authority model"
+    ],
+    "animations": [
+      "hueShift",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "09-04",
+    "end": "09-04",
+    "title": [
+      "Group Exhibition Proof of Stake Technological Claims"
+    ],
+    "description": [
+      "On September 4 2021 an exhibition at Kunstverein in Hamburg explores themes of technology organization and ownership in blockchain"
+    ],
+    "animations": [
+      "trianglePattern",
+      "vLine",
+      "hueShift",
+      "starPatternAnimation",
+      "diamondPattern",
+      "hLine",
+      "diagonalLeft",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "09-17",
+    "end": "09-17",
+    "title": [
+      "Launch of Magic Eden Marketplace"
+    ],
+    "description": [
+      "On September 17 2021 Magic Eden launches as a Solana‐based aggregator NFT marketplace after an extended alpha test"
+    ],
+    "animations": [
+      "squarePattern",
+      "glitchEffect",
+      "hueShift",
+      "hLine",
+      "colorCycle",
+      "diagonalRight",
+      "diagonalLeft",
+      "trianglePattern",
+      "vLine",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "09-21",
+    "end": "09-21",
+    "title": [
+      "Galerie Nagel Draxler Showcases NFTs at Art Basel"
+    ],
+    "description": [
+      "On September 21 2021 Kenny Schachter curates an NFT introduction for Galerie Nagel Draxler at Art Basel Fair in Switzerland"
+    ],
+    "animations": [
+      "squarePattern",
+      "starPatternAnimation",
+      "hLine",
+      "waveEffect",
+      "colorCycle",
+      "vLine",
+      "diagonalRight",
+      "trianglePattern",
+      "glitchEffect",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "09-24",
+    "end": "09-24",
+    "title": [
+      "Launch of ArtOfficial Marketplace"
+    ],
+    "description": [
+      "On September 24 2021 a collaborative NFT platform by Vito Schnabel gallery and Gary Vaynerchuk is launched in New York and Switzerland"
+    ],
+    "animations": [
+      "waveEffect",
+      "glitchEffect",
+      "pentagonPattern",
+      "trianglePattern",
+      "diagonalLeft",
+      "colorCycle",
+      "dotPatternAnimation",
+      "hLine",
+      "hueShift",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "10-18",
+    "end": "10-18",
+    "title": [
+      "Launch of Xeno NFT Hub"
+    ],
+    "description": [
+      "On October 18 2021 South Korean NFT marketplace Xeno NFT Hub launches on the Ethereum blockchain"
+    ],
+    "animations": [
+      "hLine",
+      "dotPatternAnimation",
+      "hueShift",
+      "colorCycle",
+      "squarePattern",
+      "pentagonPattern",
+      "vLine",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "glitchEffect",
+      "diagonalRight",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "10-28",
+    "end": "10-28",
+    "title": [
+      "Launch of FX(Hash) Platform"
+    ],
+    "description": [
+      "On October 28 2021 FX(Hash) is launched as an experimental generative art platform on Tezos"
+    ],
+    "animations": [
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "10-30",
+    "end": "10-30",
+    "title": [
+      "Launch of Mint Gold Dust Marketplace"
+    ],
+    "description": [
+      "On October 30 2021 an Ethereum based marketplace with a focus on curation is launched"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "colorCycle",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hLine",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "10-30",
+    "end": "10-30",
+    "title": [
+      "Verse Gallery Opens in Oslo"
+    ],
+    "description": [
+      "On October 30 2021 Verse Gallery opens in Oslo as Scandinavia’s first physical NFT gallery"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "vLine",
+      "starPatternAnimation",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "10-31",
+    "end": "10-31",
+    "title": [
+      "Launch of Exchange Art Marketplace"
+    ],
+    "description": [
+      "On October 31 2021 a London based fine art NFT marketplace on Solana is launched"
+    ],
+    "animations": [
+      "diagonalRight",
+      "squarePattern",
+      "glitchEffect",
+      "diamondPattern",
+      "trianglePattern",
+      "pentagonPattern",
+      "colorCycle",
+      "hueShift",
+      "waveEffect",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "11-02",
+    "end": "11-02",
+    "title": [
+      "Launch of Verisart Minting"
+    ],
+    "description": [
+      "On November 2 2021 Verisart expands into NFT minting services for digital artworks"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "hLine"
+    ]
+  },
+  {
+    "start": "11-03",
+    "end": "11-03",
+    "title": [
+      "Launch of Quantum Art Marketplace"
+    ],
+    "description": [
+      "On November 3 2021 Quantum Art Marketplace launches focusing on large fine art photography drops"
+    ],
+    "animations": [
+      "squarePattern",
+      "colorCycle",
+      "pentagonPattern",
+      "glitchEffect",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "11-10",
+    "end": "11-10",
+    "title": [
+      "Group Exhibition The Ethereal Aether"
+    ],
+    "description": [
+      "On November 10 2021 the State Hermitage Museum in Saint Petersburg hosts its first virtual NFT exhibition"
+    ],
+    "animations": [
+      "glitchEffect",
+      "hLine",
+      "vLine",
+      "waveEffect",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "diagonalRight",
+      "hueShift",
+      "diagonalLeft",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "11-15",
+    "end": "11-15",
+    "title": [
+      "Launch of BrainDrops Marketplace"
+    ],
+    "description": [
+      "On November 15 2021 BrainDrops launches as an Ethereum based NFT platform for AI generated art"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "squarePattern",
+      "glitchEffect",
+      "diagonalLeft",
+      "trianglePattern",
+      "diagonalRight",
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "waveEffect",
+      "colorCycle",
+      "diamondPattern",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "11-18",
+    "end": "11-18",
+    "title": [
+      "Launch of Orica Marketplace"
+    ],
+    "description": [
+      "On November 18 2021 Orica Marketplace launches as an NFT marketplace for ethical funding of digital creatives on Binance Smart Chain"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalRight",
+      "trianglePattern",
+      "hueShift",
+      "vLine",
+      "dotPatternAnimation",
+      "hLine"
+    ]
+  },
+  {
+    "start": "11-20",
+    "end": "11-20",
+    "title": [
+      "Group Exhibition Dear Block Chen"
+    ],
+    "description": [
+      "On November 20 2021 an exhibition curated by Feng-Yi Chu titled Dear Block Chen is held in Taipei Taiwan"
+    ],
+    "animations": [
+      "hueShift",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "diagonalRight",
+      "waveEffect",
+      "vLine"
+    ]
+  },
+  {
+    "start": "11-22",
+    "end": "11-22",
+    "title": [
+      "Launch of Pace Verso Marketplace"
+    ],
+    "description": [
+      "On November 22 2021 Pace Gallery launches its NFT marketplace on the Palm Network focusing on low fees"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diagonalRight",
+      "vLine",
+      "squarePattern",
+      "starPatternAnimation",
+      "waveEffect",
+      "diagonalLeft",
+      "colorCycle",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "11-23",
+    "end": "11-23",
+    "title": [
+      "Group Exhibition Crypto Art is Now"
+    ],
+    "description": [
+      "On November 23 2021 Dynamic Art Museum presents the first major museum exhibition dedicated to Crypto Art in Milan Italy"
+    ],
+    "animations": [
+      "diamondPattern",
+      "diagonalLeft",
+      "diagonalRight",
+      "hLine",
+      "starPatternAnimation",
+      "vLine",
+      "pentagonPattern",
+      "squarePattern",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "hueShift",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "11-25",
+    "end": "11-25",
+    "title": [
+      "Solo Exhibition Digital Reflection by Phillip Fotheringham Matt"
+    ],
+    "description": [
+      "On November 25 2021 Subtile art gallery in Luxembourg hosts a solo exhibition in partnership with Tezos based Kalamint"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "hLine",
+      "diamondPattern",
+      "starPatternAnimation",
+      "waveEffect",
+      "glitchEffect",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "11-26",
+    "end": "11-26",
+    "title": [
+      "Launch of Portals Metaverse"
+    ],
+    "description": [
+      "On November 26 2021 Portals Metaverse a web based metaverse platform in the Solana ecosystem sells out within minutes"
+    ],
+    "animations": [
+      "hLine"
+    ]
+  },
+  {
+    "start": "11-29",
+    "end": "11-29",
+    "title": [
+      "Launch of The Sandbox Metaverse"
+    ],
+    "description": [
+      "On November 29 2021 The Sandbox launches as an Ethereum based virtual gaming world where players can build and monetize experiences"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "11-29",
+    "end": "11-29",
+    "title": [
+      "Launch of Aorist Marketplace"
+    ],
+    "description": [
+      "On November 29 2021 Aorist Marketplace an artist led NFT platform on Algorand launches during Miami Art Week pledging carbon offset"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "colorCycle",
+      "pentagonPattern",
+      "squarePattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "12-09",
+    "end": "12-09",
+    "title": [
+      "Group Exhibition Colour Fields"
+    ],
+    "description": [
+      "On December 9 2021 an exhibition in Los Angeles titled Color Field connects contemporary digital art with the iconic Color Field movement"
+    ],
+    "animations": [
+      "diamondPattern",
+      "starPatternAnimation",
+      "colorCycle",
+      "pentagonPattern",
+      "diagonalLeft",
+      "vLine"
+    ]
+  },
+  {
+    "start": "12-10",
+    "end": "12-10",
+    "title": [
+      "Group Exhibition No Existe Tierra Mas Alla"
+    ],
+    "description": [
+      "On December 10 2021 Crypto Argentina Collective presents an exhibition in Buenos Aires featuring physical and digital crypto artworks"
+    ],
+    "animations": [
+      "colorCycle",
+      "vLine",
+      "glitchEffect",
+      "trianglePattern",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "waveEffect",
+      "diagonalRight",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hueShift",
+      "squarePattern",
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-10",
+    "end": "12-10",
+    "title": [
+      "Launch of Layer Marketplace"
+    ],
+    "description": [
+      "On December 10 2021 Layer Marketplace is launched on the Stacks blockchain with the ON THE BLOCK SATOSHE collection"
+    ],
+    "animations": [
+      "colorCycle",
+      "vLine",
+      "squarePattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "12-14",
+    "end": "12-14",
+    "title": [
+      "Group Exhibition Crypto Art Revolution"
+    ],
+    "description": [
+      "On December 14 2021 MoCA the French Museum of Crypto Art hosts a large exhibition and conference celebrating Crypto Art"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "colorCycle",
+      "glitchEffect",
+      "waveEffect",
+      "diamondPattern",
+      "diagonalRight",
+      "squarePattern",
+      "pentagonPattern",
+      "trianglePattern",
+      "vLine",
+      "diagonalLeft",
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-15",
+    "end": "12-15",
+    "title": [
+      "Launch of Ethernaal Marketplace"
+    ],
+    "description": [
+      "On December 15 2021 Ethernaal Marketplace and DAO launches focusing on tattoo NFTs redeemable as physical tattoos"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "waveEffect",
+      "squarePattern",
+      "diamondPattern",
+      "hueShift",
+      "diagonalLeft",
+      "vLine",
+      "glitchEffect",
+      "hLine",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "12-16",
+    "end": "12-16",
+    "title": [
+      "Artnet Hosts First NFT Auction ARTNFT Beginnings"
+    ],
+    "description": [
+      "On December 16 2021 Artnet hosts its first NFT auction featuring pioneers of computer art and established crypto artists"
+    ],
+    "animations": [
+      "waveEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "12-18",
+    "end": "12-18",
+    "title": [
+      "Group Exhibition DAZE Decentralized Art Zone"
+    ],
+    "description": [
+      "On December 18 2021 Cryptoart India Collective hosts an exhibition titled DAZE Decentralized Art Zone featuring 30 artists in Delhi"
+    ],
+    "animations": [
+      "glitchEffect",
+      "colorCycle",
+      "starPatternAnimation",
+      "diamondPattern",
+      "waveEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "12-18",
+    "end": "12-18",
+    "title": [
+      "NFT Kochi Conference Festival and Art Exhibition"
+    ],
+    "description": [
+      "On December 18 2021 NFT Kochi celebrates the Indian NFT scene with a conference art festival and exhibition"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "diagonalRight",
+      "trianglePattern",
+      "squarePattern",
+      "pentagonPattern",
+      "hLine",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "01-10",
+    "end": "01-10",
+    "title": [
+      "Launch of LooksRare Marketplace"
+    ],
+    "description": [
+      "On January 10 2022 LooksRare an NFT marketplace aggregator is launched with its native token incentivizing trading"
+    ],
+    "animations": [
+      "waveEffect",
+      "glitchEffect",
+      "starPatternAnimation",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "01-12",
+    "end": "01-12",
+    "title": [
+      "Launch of Versum Marketplace"
+    ],
+    "description": [
+      "On January 12 2022 Versum launches as a Tezos based NFT marketplace and metaverse focusing on art and curation"
+    ],
+    "animations": [
+      "vLine",
+      "diagonalRight",
+      "diamondPattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "01-14",
+    "end": "01-14",
+    "title": [
+      "Solo Exhibition Metadada by Kenny Schachter"
+    ],
+    "description": [
+      "On January 14 2022 Nagel Draxler gallery hosts Kenny Schachter’s inaugural solo exhibition titled Metadada"
+    ],
+    "animations": [
+      "waveEffect",
+      "diamondPattern",
+      "squarePattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "hLine",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "trianglePattern",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "01-15",
+    "end": "01-15",
+    "title": [
+      "Group Exhibition Fifty Fifty Dubai"
+    ],
+    "description": [
+      "On January 15 2022 Dubai Culture with Morrow Collective hosts an NFT exhibition featuring 50 works by UAE artists"
+    ],
+    "animations": [
+      "diamondPattern",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "01-19",
+    "end": "01-19",
+    "title": [
+      "Group Exhibition TeleNFT"
+    ],
+    "description": [
+      "On January 19 2022 an exhibition titled TeleNFT curated by Haarich and Gleb Divov showcases 15 international artists using Teletext"
+    ],
+    "animations": [
+      "diagonalRight",
+      "hueShift",
+      "trianglePattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "01-19",
+    "end": "01-19",
+    "title": [
+      "Group Exhibition Elsewhere is a Negative Mirror"
+    ],
+    "description": [
+      "On January 19 2022 Elsewhere is a Negative Mirror an in-person exhibition curated by Jesse Damiani and Sinziana Velicescu is held at LA Art Show and Vellum LA"
+    ],
+    "animations": [
+      "squarePattern",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "waveEffect",
+      "diagonalLeft",
+      "trianglePattern",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "01-28",
+    "end": "01-28",
+    "title": [
+      "Group Exhibition SUI GENESIS Digital Shaping"
+    ],
+    "description": [
+      "On January 28 2022 an exhibition titled SUI GENESIS Digital Shaping is held in Milan showcasing Italian artists’ post human subjectivity concepts"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalLeft",
+      "squarePattern",
+      "trianglePattern",
+      "dotPatternAnimation",
+      "hueShift",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "01-31",
+    "end": "01-31",
+    "title": [
+      "Launch of Right Click Save Zine"
+    ],
+    "description": [
+      "On January 31 2022 Right Click Save Zine an online magazine for NFT critical conversation is launched by Jason Bailey and Club NFT"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "glitchEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "02-03",
+    "end": "02-03",
+    "title": [
+      "Launch of Formfunction Marketplace"
+    ],
+    "description": [
+      "On February 3 2022 Formfunction Marketplace a Solana based NFT marketplace for independent artists is launched"
+    ],
+    "animations": [
+      "glitchEffect",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "02-06",
+    "end": "02-06",
+    "title": [
+      "Launch of X2Y2 Marketplace"
+    ],
+    "description": [
+      "On February 6 2022 X2Y2 Marketplace a decentralized NFT marketplace from Singapore is launched"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "diagonalRight",
+      "trianglePattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "02-12",
+    "end": "02-12",
+    "title": [
+      "Solo Exhibition Snowfro Chromie Squiggles"
+    ],
+    "description": [
+      "On February 12 2022 Venus Over Manhattan hosts an exhibition of Snowfro’s work in collaboration with Infinite Objects"
+    ],
+    "animations": [
+      "waveEffect",
+      "hueShift",
+      "hLine",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "02-17",
+    "end": "02-17",
+    "title": [
+      "Group Exhibition NFT and Art The Digital Roots"
+    ],
+    "description": [
+      "On February 17 2022 an exhibition titled NFT and Art The Digital Roots is held at NeueHaus in Hollywood in collaboration with Rarible and Whitewall"
+    ],
+    "animations": [
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "02-17",
+    "end": "02-17",
+    "title": [
+      "Solo Exhibition The Decentralized Unicists by the Botto Project"
+    ],
+    "description": [
+      "On February 17 2022 the first solo show by a decentralized autonomous artist is held at Vellum in LA by the Botto Project"
+    ],
+    "animations": [
+      "vLine",
+      "pentagonPattern",
+      "colorCycle",
+      "waveEffect",
+      "dotPatternAnimation",
+      "hLine",
+      "hueShift",
+      "diagonalLeft",
+      "trianglePattern",
+      "diagonalRight",
+      "squarePattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "02-18",
+    "end": "02-18",
+    "title": [
+      "Launch of PRISM NFT Marketplace"
+    ],
+    "description": [
+      "On February 18 2022 PRISM NFT Marketplace is launched on Ethereum with plans to switch to its own NuPay blockchain using a patent pending protection mechanism"
+    ],
+    "animations": [
+      "glitchEffect",
+      "diamondPattern",
+      "diagonalRight",
+      "squarePattern",
+      "trianglePattern",
+      "hLine"
+    ]
+  },
+  {
+    "start": "02-19",
+    "end": "02-19",
+    "title": [
+      "Group Exhibition NfTNeTArT from Net Art to Art NFT"
+    ],
+    "description": [
+      "On February 19 2022 an exhibition titled NfTNeTArT from Net Art to Art NFT is held in Berlin in cooperation between Panke gallery and OFFICE IMPART"
+    ],
+    "animations": [
+      "glitchEffect",
+      "waveEffect",
+      "vLine",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "03-11",
+    "end": "03-11",
+    "title": [
+      "Yuga Labs Acquires CryptoPunks and Meebits"
+    ],
+    "description": [
+      "On March 11 2022 Yuga Labs acquires the IP for CryptoPunks and Meebits from Larva Labs amid controversy"
+    ],
+    "animations": [
+      "diamondPattern",
+      "vLine",
+      "diagonalLeft",
+      "waveEffect",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "03-26",
+    "end": "03-26",
+    "title": [
+      "Group Exhibition Trashart NFT Garbology"
+    ],
+    "description": [
+      "On March 26 2022 L Avant Galerie Vossen hosts an exhibition titled Trashart NFT Garbology in Paris highlighting the trashart movement"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "hLine",
+      "glitchEffect",
+      "vLine",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hueShift",
+      "trianglePattern",
+      "colorCycle",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "squarePattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "04-23",
+    "end": "04-23",
+    "title": [
+      "Group Exhibition Singularity Decentral Art Pavilion"
+    ],
+    "description": [
+      "On April 23 2022 the Decentral Art Pavilion Venice Edition titled Singularity features over 200 NFT works by international artists"
+    ],
+    "animations": [
+      "squarePattern",
+      "dotPatternAnimation"
+    ]
+  },
+  {
+    "start": "05-09",
+    "end": "05-09",
+    "title": [
+      "Instagram Integrates NFTs as Digital Collectibles"
+    ],
+    "description": [
+      "On May 9 2022 Meta integrates ETH Solana Polygon and Flow NFTs in posts and stories for select American creators"
+    ],
+    "animations": [
+      "diamondPattern",
+      "hueShift",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "trianglePattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "05-19",
+    "end": "05-19",
+    "title": [
+      "SuperRare Opens Pop-up Gallery in New York"
+    ],
+    "description": [
+      "On May 19 2022 SuperRare hosts a three month pop-up gallery in Soho featuring rotating group exhibitions"
+    ],
+    "animations": [
+      "hueShift",
+      "colorCycle",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "diagonalRight",
+      "glitchEffect",
+      "trianglePattern",
+      "diamondPattern",
+      "waveEffect",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "05-26",
+    "end": "05-26",
+    "title": [
+      "NFT Barcelona Conference and Group Exhibition"
+    ],
+    "description": [
+      "On May 26 2022 NFT BCN 2022 is hosted at the Pignatelli Palace in Barcelona combining a crosschain conference with an exhibition"
+    ],
+    "animations": [
+      "diamondPattern",
+      "diagonalRight",
+      "pentagonPattern",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "hueShift",
+      "squarePattern",
+      "waveEffect",
+      "trianglePattern",
+      "vLine",
+      "colorCycle",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "06-02",
+    "end": "06-02",
+    "title": [
+      "Launch of Streetlab Marketplace"
+    ],
+    "description": [
+      "On June 2 2022 Streetlab Marketplace a Swiss based platform for permanent NFT records of street art is launched featuring artist Yescka"
+    ],
+    "animations": [
+      "squarePattern",
+      "hLine",
+      "diamondPattern",
+      "hueShift",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "06-07",
+    "end": "06-07",
+    "title": [
+      "Art Blocks and Pace Verso Announce Partnership"
+    ],
+    "description": [
+      "On June 7 2022 Art Blocks and Pace Verso announce a multifaceted partnership including curated NFT releases and exhibitions"
+    ],
+    "animations": [
+      "colorCycle",
+      "vLine",
+      "diagonalRight",
+      "waveEffect",
+      "dotPatternAnimation",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "06-09",
+    "end": "06-09",
+    "title": [
+      "LACMA Announces Digital Art Fund and NFT Collection"
+    ],
+    "description": [
+      "On June 9 2022 LACMA starts its NFT collection and digital art acquisition fund for women artists"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "hLine",
+      "vLine",
+      "trianglePattern",
+      "pentagonPattern",
+      "hueShift",
+      "squarePattern",
+      "diamondPattern",
+      "waveEffect",
+      "dotPatternAnimation",
+      "glitchEffect",
+      "diagonalRight",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "06-17",
+    "end": "06-17",
+    "title": [
+      "Group Exhibition The Non Fungible Body"
+    ],
+    "description": [
+      "On June 17 2022 OK Center for Contemporary Art Austria hosts an exhibition titled The Non Fungible Body exploring performance art and NFTs"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "waveEffect",
+      "dotPatternAnimation",
+      "colorCycle",
+      "starPatternAnimation",
+      "squarePattern",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "06-20",
+    "end": "06-20",
+    "title": [
+      "Launch of CADAF Marketplace"
+    ],
+    "description": [
+      "On June 20 2022 CADAF launches its own curated NFT marketplace on Tezos with a drop entitled Retouched featuring female creators"
+    ],
+    "animations": [
+      "colorCycle",
+      "diagonalRight",
+      "pentagonPattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "06-22",
+    "end": "06-22",
+    "title": [
+      "eBay Acquires KnownOrigin Marketplace"
+    ],
+    "description": [
+      "On June 22 2022 eBay acquires the KnownOrigin NFT marketplace founded in Manchester amid controversy"
+    ],
+    "animations": [
+      "starPatternAnimation",
+      "diagonalLeft",
+      "hLine",
+      "glitchEffect",
+      "colorCycle",
+      "diagonalRight",
+      "vLine",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "06-22",
+    "end": "06-22",
+    "title": [
+      "Solo Exhibition DYOR by Andreas Stylianou"
+    ],
+    "description": [
+      "On June 22 2022 Andreas Stylianou holds a solo exhibition titled DYOR at Alpha C K Art Gallery in Nicosia"
+    ],
+    "animations": [
+      "waveEffect",
+      "diagonalRight",
+      "squarePattern",
+      "hLine",
+      "trianglePattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "vLine",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "glitchEffect",
+      "hueShift",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "06-30",
+    "end": "06-30",
+    "title": [
+      "NFT Rio Group Exhibition and Conference"
+    ],
+    "description": [
+      "On June 30 2022 NFT Rio hosts an international exhibition and conference across digital billboards in Rio de Janeiro and São Paulo"
+    ],
+    "animations": [
+      "hueShift",
+      "vLine",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "glitchEffect",
+      "squarePattern",
+      "colorCycle",
+      "waveEffect",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "diagonalRight",
+      "trianglePattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "07-04",
+    "end": "07-04",
+    "title": [
+      "Group Exhibition The Byzantine Generals Problem"
+    ],
+    "description": [
+      "On July 4 2022 an exhibition curated by Domenico Quaranta in Milan explores crypto art and blockchain themes"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hLine",
+      "vLine",
+      "diamondPattern",
+      "glitchEffect",
+      "waveEffect",
+      "colorCycle",
+      "starPatternAnimation",
+      "hueShift",
+      "pentagonPattern"
+    ]
+  },
+  {
+    "start": "07-06",
+    "end": "07-06",
+    "title": [
+      "Proof of People Festival"
+    ],
+    "description": [
+      "On July 6 2022 Vertical Crypto Art hosts a three day immersive festival in London showcasing art fashion and music with NFT technology"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "colorCycle",
+      "glitchEffect",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "07-08",
+    "end": "07-08",
+    "title": [
+      "Launch of sudoAMM Marketplace"
+    ],
+    "description": [
+      "On July 8 2022 sudoAMM Marketplace a DeFi focused NFT marketplace with low fees is launched"
+    ],
+    "animations": [
+      "glitchEffect",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "07-08",
+    "end": "07-08",
+    "title": [
+      "Launch of Verse Marketplace"
+    ],
+    "description": [
+      "On July 8 2022 Verse Marketplace is launched focusing on traditional art world tastemakers and curators"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "waveEffect",
+      "starPatternAnimation",
+      "hueShift",
+      "hLine",
+      "glitchEffect",
+      "vLine"
+    ]
+  },
+  {
+    "start": "07-26",
+    "end": "07-26",
+    "title": [
+      "Launch of Ledger Market"
+    ],
+    "description": [
+      "On July 26 2022 Ledger launches its NFT marketplace for artists and brands focusing on security and hardware wallet integration"
+    ],
+    "animations": [
+      "squarePattern",
+      "glitchEffect",
+      "hLine",
+      "pentagonPattern",
+      "colorCycle",
+      "diamondPattern",
+      "diagonalRight",
+      "waveEffect",
+      "trianglePattern"
+    ]
+  },
+  {
+    "start": "09-20",
+    "end": "09-20",
+    "title": [
+      "Seedphrase Podcast by Simon Denny"
+    ],
+    "description": [
+      "On September 20 2022 Simon Denny hosts Seedphrase a podcast discussing Web3 and crypto art in collaboration with THE NEW INSTITUTE"
+    ],
+    "animations": [
+      "squarePattern",
+      "vLine",
+      "waveEffect",
+      "dotPatternAnimation",
+      "hueShift",
+      "hLine",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "09-27",
+    "end": "09-27",
+    "title": [
+      "Launch of Christie’s 3.0 Marketplace"
+    ],
+    "description": [
+      "On September 27 2022 Christie’s collaborates with Manifold Chainalysis and Spatial to launch an Ethereum based NFT marketplace"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "hueShift",
+      "starPatternAnimation",
+      "hLine",
+      "pentagonPattern",
+      "diamondPattern",
+      "trianglePattern",
+      "diagonalRight",
+      "waveEffect",
+      "colorCycle",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "10-08",
+    "end": "10-08",
+    "title": [
+      "Group Exhibition DYOR Do Your Own Research"
+    ],
+    "description": [
+      "On October 8 2022 Kunsthalle Zurich hosts an exhibition titled DYOR Do Your Own Research curated by Nina Roehrs"
+    ],
+    "animations": [
+      "diamondPattern",
+      "hLine",
+      "vLine",
+      "waveEffect",
+      "starPatternAnimation",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "10-22",
+    "end": "10-22",
+    "title": [
+      "Group Exhibition Poème Objkt"
+    ],
+    "description": [
+      "On October 22 2022 L Avant Galerie Vossen and theVERSEverse collaborate on an exhibition exploring poetry and visual art"
+    ],
+    "animations": [
+      "hLine",
+      "pentagonPattern",
+      "vLine"
+    ]
+  },
+  {
+    "start": "10-22",
+    "end": "10-22",
+    "title": [
+      "Launch of Blur Marketplace"
+    ],
+    "description": [
+      "On October 22 2022 Blur Marketplace is launched targeting professional NFT traders with a native BLUR token and royalty bypass option"
+    ],
+    "animations": [
+      "vLine",
+      "diamondPattern",
+      "starPatternAnimation",
+      "waveEffect",
+      "hueShift",
+      "diagonalRight",
+      "hLine",
+      "pentagonPattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "10-28",
+    "end": "10-28",
+    "title": [
+      "Historic NFT Fest in Barcelona"
+    ],
+    "description": [
+      "On October 28 2022 DADA hosts the first historic NFT Fest in Barcelona focusing on NFTs from 2011 to 2019"
+    ],
+    "animations": [
+      "diagonalRight",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "11-03",
+    "end": "11-03",
+    "title": [
+      "NFT London Conference"
+    ],
+    "description": [
+      "On November 3 2022 NFT London is hosted by NFT.NYC at the Queen Elizabeth II Centre in London"
+    ],
+    "animations": [
+      "trianglePattern",
+      "diamondPattern",
+      "colorCycle",
+      "squarePattern",
+      "pentagonPattern",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "11-07",
+    "end": "11-07",
+    "title": [
+      "The Non NFT Summit"
+    ],
+    "description": [
+      "On November 7 2022 The Non NFT Summit is held in Mexico City bringing together artists behind the crypto art movement"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "glitchEffect",
+      "colorCycle",
+      "trianglePattern",
+      "diamondPattern",
+      "vLine",
+      "hLine",
+      "diagonalLeft",
+      "starPatternAnimation",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "hueShift",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "11-21",
+    "end": "11-21",
+    "title": [
+      "Group Exhibition Peer to Peer"
+    ],
+    "description": [
+      "On November 21 2022 an online exhibition titled Peer to Peer curated by Tina Rivers Ryan is organized as a fundraiser with Buffalo AKG Art Museum"
+    ],
+    "animations": [
+      "vLine",
+      "pentagonPattern",
+      "diagonalRight",
+      "waveEffect",
+      "trianglePattern",
+      "squarePattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "colorCycle",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "hLine"
+    ]
+  },
+  {
+    "start": "12-01",
+    "end": "12-01",
+    "title": [
+      "EXPANDED.art Replaces MISA Art"
+    ],
+    "description": [
+      "On December 1 2022 Berlin based MISA Art rebrands its NFT marketplace as EXPANDED.art to highlight its hybrid approach"
+    ],
+    "animations": [
+      "squarePattern",
+      "pentagonPattern",
+      "trianglePattern",
+      "colorCycle",
+      "vLine",
+      "waveEffect",
+      "hLine",
+      "glitchEffect",
+      "dotPatternAnimation",
+      "diagonalRight",
+      "diagonalLeft",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "12-14",
+    "end": "12-14",
+    "title": [
+      "First Ordinal Inscription"
+    ],
+    "description": [
+      "On December 14 2022 Casey Rodarmor creates Inscription 0 enabling on chain Bitcoin NFTs and sparking controversy"
+    ],
+    "animations": [
+      "waveEffect",
+      "hLine"
+    ]
+  },
+  {
+    "start": "01-06",
+    "end": "01-06",
+    "title": [
+      "Start of the NFT Biennial"
+    ],
+    "description": [
+      "On January 6 2023 the NFT Biennial launches showcasing NFTs in physical venues across multiple countries"
+    ],
+    "animations": [
+      "diagonalRight",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "01-06",
+    "end": "01-06",
+    "title": [
+      "Group Exhibition Proof of Concept"
+    ],
+    "description": [
+      "On January 6 2023 Proof of Concept a digital media and crypto art show is presented by Co-Museum in Singapore"
+    ],
+    "animations": [
+      "glitchEffect",
+      "starPatternAnimation",
+      "trianglePattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "01-07",
+    "end": "01-07",
+    "title": [
+      "Group Exhibition Tez in Japan"
+    ],
+    "description": [
+      "On January 7 2023 Tez in Japan a digital art exhibition curated by Yuki Ama is held at the NOX Gallery in Tokyo"
+    ],
+    "animations": [
+      "squarePattern",
+      "trianglePattern",
+      "diamondPattern",
+      "diagonalRight",
+      "hueShift",
+      "vLine",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "01-20",
+    "end": "01-20",
+    "title": [
+      "Group Exhibition Generative Abstraction and Beyond"
+    ],
+    "description": [
+      "On January 20 2023 an exhibition by EXPANDED.art and Verse in Berlin highlights generative abstraction in art"
+    ],
+    "animations": [
+      "vLine",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "trianglePattern",
+      "hLine",
+      "hueShift",
+      "waveEffect",
+      "diagonalLeft",
+      "colorCycle",
+      "squarePattern",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "02-01",
+    "end": "02-01",
+    "title": [
+      "Solo Exhibition Stack Trace by Kim Asendorf & Leander Herzog"
+    ],
+    "description": [
+      "On February 1 2023 a duo show in Berlin titled Stack Trace features aluminum works and a real time NFT collection"
+    ],
+    "animations": [
+      "hueShift"
+    ]
+  },
+  {
+    "start": "02-09",
+    "end": "02-09",
+    "title": [
+      "Group Exhibition Who is Online? Game Art in the Age of Post NFTism"
+    ],
+    "description": [
+      "On February 9 2023 House of Electronic Arts Basel hosts a virtual exhibition critically commenting on the gamified online art world"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "pentagonPattern",
+      "squarePattern",
+      "starPatternAnimation",
+      "glitchEffect",
+      "waveEffect"
+    ]
+  },
+  {
+    "start": "02-10",
+    "end": "02-10",
+    "title": [
+      "Centre Pompidou Started its Crypto Art Collection"
+    ],
+    "description": [
+      "On February 10 2023 the Centre Pompidou in Paris acquires 18 crypto art projects to start its collection"
+    ],
+    "animations": [
+      "diagonalRight",
+      "trianglePattern",
+      "colorCycle",
+      "pentagonPattern",
+      "hLine",
+      "waveEffect",
+      "glitchEffect",
+      "diagonalLeft",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "02-18",
+    "end": "02-18",
+    "title": [
+      "Solo Exhibition Robbie Barrat 2018 2020"
+    ],
+    "description": [
+      "On February 18 2023 L’Avant Galerie Vossen hosts a solo exhibition focusing on Robbie Barrat’s untokenized AI portraits and collaborations"
+    ],
+    "animations": [
+      "waveEffect",
+      "dotPatternAnimation",
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "04-21",
+    "end": "04-21",
+    "title": [
+      "Solo Exhibition Rafael Rozendaal Color Code Communication"
+    ],
+    "description": [
+      "On April 21 2023 the German Folkwang museum hosts a solo exhibition by Rafaël Rozendaal accompanied by a symposium on NFTs and museums"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "diagonalRight",
+      "colorCycle",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "vLine",
+      "hLine"
+    ]
+  },
+  {
+    "start": "04-21",
+    "end": "04-21",
+    "title": [
+      "New Landscapes NFTs and the Museum"
+    ],
+    "description": [
+      "On April 21 2023 Museum Folkwang in Essen hosts a symposium discussing how art museums are adapting to NFTs"
+    ],
+    "animations": [
+      "vLine",
+      "diamondPattern",
+      "diagonalRight",
+      "hLine",
+      "waveEffect",
+      "pentagonPattern",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "05-14",
+    "end": "05-14",
+    "title": [
+      "Solo Exhibition Metaverse Landscapes by Simon Denny"
+    ],
+    "description": [
+      "On May 14 2023 Kunstverein Hannover showcases Simon Denny’s series offering a glimpse into immersive virtual worlds"
+    ],
+    "animations": [
+      "squarePattern",
+      "hLine",
+      "waveEffect",
+      "pentagonPattern",
+      "hueShift",
+      "dotPatternAnimation",
+      "diagonalLeft",
+      "glitchEffect",
+      "vLine",
+      "diagonalRight"
+    ]
+  },
+  {
+    "start": "06-03",
+    "end": "06-03",
+    "title": [
+      "Group Exhibition Collective Worldbuilding Art in the Metaverse"
+    ],
+    "description": [
+      "On June 3 2023 HEK in Basel presents an exhibition exploring decentralized internet and collective worldbuilding"
+    ],
+    "animations": [
+      "hLine",
+      "dotPatternAnimation",
+      "squarePattern",
+      "starPatternAnimation",
+      "pentagonPattern",
+      "diagonalLeft",
+      "vLine"
+    ]
+  },
+  {
+    "start": "06-08",
+    "end": "06-08",
+    "title": [
+      "Launch of Kraken NFT Marketplace"
+    ],
+    "description": [
+      "On June 8 2023 Kraken crypto exchange launches its NFT marketplace with over 100 collections after a public beta"
+    ],
+    "animations": [
+      "hueShift",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "06-29",
+    "end": "06-29",
+    "title": [
+      "Group Exhibition 100X"
+    ],
+    "description": [
+      "On June 29 2023 100X CRYPTO ART an exhibition at Magall Art gallery in Hamburg features ten artists unmasking crypto memes"
+    ],
+    "animations": [
+      "diamondPattern",
+      "hLine",
+      "squarePattern",
+      "diagonalLeft",
+      "waveEffect",
+      "diagonalRight",
+      "starPatternAnimation"
+    ]
+  },
+  {
+    "start": "07-12",
+    "end": "07-12",
+    "title": [
+      "Solo Exhibition Stored Memories by Bryan Brinkman"
+    ],
+    "description": [
+      "On July 12 2023 Bryan Brinkman holds his first solo exhibition at Unit London focusing on technology and psychology"
+    ],
+    "animations": [
+      "vLine",
+      "diagonalLeft",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "07-14",
+    "end": "07-14",
+    "title": [
+      "NFT Show Europe in Valencia"
+    ],
+    "description": [
+      "On July 14 2023 NFT Show Europe hosts its second edition in Valencia focusing on Web3 digital art and blockchain"
+    ],
+    "animations": [
+      "diagonalRight",
+      "dotPatternAnimation",
+      "starPatternAnimation",
+      "vLine",
+      "hueShift"
+    ]
+  },
+  {
+    "start": "07-18",
+    "end": "07-18",
+    "title": [
+      "Launch of Prohibition Marketplace"
+    ],
+    "description": [
+      "On July 18 2023 Prohibition Marketplace an open platform for on chain generative art NFTs built on Art Blocks Engine and deployed on Arbitrum is launched"
+    ],
+    "animations": [
+      "waveEffect",
+      "trianglePattern",
+      "hueShift",
+      "squarePattern",
+      "dotPatternAnimation",
+      "hLine",
+      "pentagonPattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "vLine",
+      "glitchEffect",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "07-31",
+    "end": "07-31",
+    "title": [
+      "HEK launches NFT based Patronage and Membership"
+    ],
+    "description": [
+      "On July 31 2023 HEK introduces its NFT-backed Friends of HEK membership offering free entrance exclusive events and curatorial input"
+    ],
+    "animations": [
+      "trianglePattern",
+      "glitchEffect",
+      "waveEffect",
+      "colorCycle",
+      "hueShift",
+      "starPatternAnimation",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "08-30",
+    "end": "08-30",
+    "title": [
+      "Solo Exhibition by Shavonne Wong"
+    ],
+    "description": [
+      "On August 30 2023 NFT Factory in Paris presents a solo exhibition by Shavonne Wong a Forbes 30U30 Asia honoree"
+    ],
+    "animations": [
+      "pentagonPattern",
+      "colorCycle",
+      "diagonalLeft",
+      "dotPatternAnimation",
+      "glitchEffect",
+      "vLine",
+      "trianglePattern",
+      "diamondPattern",
+      "starPatternAnimation",
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "09-02",
+    "end": "09-02",
+    "title": [
+      "Group Exhibition Exploring the Decentralized Web Art on the Blockchain"
+    ],
+    "description": [
+      "On September 2 2023 an international group exhibition at HEK in Basel reviews recent blockchain and Web3 developments"
+    ],
+    "animations": [
+      "hueShift",
+      "pentagonPattern",
+      "trianglePattern",
+      "squarePattern",
+      "diamondPattern"
+    ]
+  },
+  {
+    "start": "09-06",
+    "end": "09-06",
+    "title": [
+      "Solo Exhibition Keep Hope Alive by Kenny Schachter"
+    ],
+    "description": [
+      "On September 6 2023 Kenny Schachter’s first solo museum exhibition celebrates perseverance and the relentless pursuit of art"
+    ],
+    "animations": [
+      "hueShift"
+    ]
+  },
+  {
+    "start": "09-07",
+    "end": "09-07",
+    "title": [
+      "Solo Exhibition Max Au Carré by MaxOsiris"
+    ],
+    "description": [
+      "On September 7 2023 L’Avant Galerie Vossen showcases the first solo exhibition of pseudonymous crypto artist Max Osiris known for mixing meme culture and dadaism"
+    ],
+    "animations": [
+      "squarePattern"
+    ]
+  },
+  {
+    "start": "11-06",
+    "end": "11-06",
+    "title": [
+      "The Simpsons Wild Barts Can’t Be Token"
+    ],
+    "description": [
+      "On November 6 2023 The Simpsons feature NFT art in a Treehouse of Horror episode turning Bart into an NFT"
+    ],
+    "animations": [
+      "diagonalLeft",
+      "trianglePattern",
+      "vLine",
+      "hLine",
+      "waveEffect",
+      "pentagonPattern",
+      "glitchEffect",
+      "hueShift",
+      "squarePattern",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "11-17",
+    "end": "11-17",
+    "title": [
+      "NFT Istanbul Exhibition & Conference"
+    ],
+    "description": [
+      "On November 17 2023 NFT Istanbul is held at Planeth during Zuzalu and DevConnect Week in Istanbul Turkey"
+    ],
+    "animations": [
+      "dotPatternAnimation",
+      "diagonalRight",
+      "starPatternAnimation",
+      "squarePattern",
+      "diagonalLeft"
+    ]
+  },
+  {
+    "start": "11-23",
+    "end": "11-23",
+    "title": [
+      "Launch of Shadow Marketplace"
+    ],
+    "description": [
+      "On November 23 2023 Shadow Marketplace a non custodial NFT platform on the Flow blockchain launches replacing VIV3 and integrating Flipper wallet as Shadow Wallet"
+    ],
+    "animations": [
+      "colorCycle"
+    ]
+  },
+  {
+    "start": "12-06",
+    "end": "12-06",
+    "title": [
+      "The Gateway Miami"
+    ],
+    "description": [
+      "On December 6 2023 The Gateway Miami marks the third edition of NFT Media’s event series at the Faena Forum in South Beach Florida"
+    ],
+    "animations": [
+      "glitchEffect"
+    ]
+  },
+  {
+    "start": "12-15",
+    "end": "12-15",
+    "title": [
+      "Group Exhibition Kryptomania"
+    ],
+    "description": [
+      "On December 15 2023 an interactive group exhibition titled Kryptomania is curated by Ina Neddermeyer at the Zeppelinmuseum Friedrichshafen in Germany"
+    ],
+    "animations": [
+      "colorCycle",
+      "diagonalLeft",
+      "diagonalRight",
+      "pentagonPattern",
+      "hLine",
+      "squarePattern",
+      "waveEffect",
+      "vLine",
+      "dotPatternAnimation",
+      "diamondPattern",
+      "hueShift",
+      "glitchEffect"
     ]
   }
 ]
